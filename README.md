@@ -16,9 +16,6 @@ Audit, cleaning and leakage-quantification materials for
 | `results/review5/` | JSON outputs of the above (measured values quoted in Sections 3.1, 4.1, 4.3 and 4.4) |
 | `label_fixes/` | Original labels, corrected labels, evidence renderings and changelog for the documented test-label correction |
 | `results/` | Result files: gate-D test evaluation, five parent-level re-splits, controlled splits, perceptual-hash validation, bootstrap uncertainty, re-analyses |
-| `test71_audit.md` | Full audit report of the 71 test images |
-| `data_validation.md` | Dataset screening and exclusion report |
-| `evaluation_plan.md` | Pre-registered metrics, protocol and success criteria |
 
 ## What is not here
 
@@ -52,3 +49,14 @@ The field / out-of-domain judgement of the 230 original-test parent photographs,
 from the source archive by `scripts/review5/make_parent_sheets.py` and
 `scripts/review5/make_unseen_sheet.py`; the judgement itself is recorded as parent indices in
 `scripts/review5/m2_domain_control.py`.
+
+## Scope of this release
+
+This repository holds the artefacts the paper's data-availability statement names: the audit and
+re-splitting scripts, the per-file provenance manifest, the original and corrected test labels with
+their evidence renderings, and the re-split configurations. Internal working notes from the study
+(screening reports, the frozen evaluation plan, the label-audit worksheet) are not included: they are
+written in Korean, describe intermediate states rather than the reported protocol, and the method as
+reported is specified in Sections 3.1 and 3.2 of the paper. The label audit itself ran as a
+machine-assisted first pass over rendered overlays, with corrections and borderline decisions taken
+by the author; `label_fixes/label_fixes_20260813/CHANGELOG.md` records what was changed and why.
