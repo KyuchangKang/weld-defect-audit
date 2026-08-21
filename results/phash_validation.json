@@ -1,0 +1,1148 @@
+{
+  "n_images": 4958,
+  "method": "pHash 64-bit, min over 8 dihedral transforms",
+  "same_content_pairs_total": 44747,
+  "same_content_confirmed_at": {
+    "0": 13549,
+    "4": 29554,
+    "8": 30928
+  },
+  "same_content_confirm_rate_d8": 0.6912,
+  "same_content_unconfirmed_examples": [
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.07c8d21f640abf8b782ca972b3f6f091.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.3be138ce2d31fc15a1c33f14c98d7c26.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.3d0c3def254b71c577abc592429224c1.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.783fb4a440e161adce16d148c832a52f.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.788695cb97ecdb2d5e0459ac76b2b474.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.9a4af1ee0fb72d7c79e7f2b3d7dd7aa6.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.e66f9ecf9982ad6fcbfd49d0aa2fde36.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.fc877762e6ac68c5fe8c0751705775ef.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.0b6b24739ff285711e4b51c21ccbaab9.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.719c09c52b6334f8ee40db9d8ff0a0f0.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.61c52041122d63da26feb71f522df75f.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.6d93199bd840b794b4ac1761bc94d865.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.07c8d21f640abf8b782ca972b3f6f091.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.3be138ce2d31fc15a1c33f14c98d7c26.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.783fb4a440e161adce16d148c832a52f.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.788695cb97ecdb2d5e0459ac76b2b474.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.9a4af1ee0fb72d7c79e7f2b3d7dd7aa6.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.cd9388dd7f435a7d644ee3b1d2af6ead.jpg",
+      64
+    ],
+    [
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg",
+      "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.f837a6a4388912c8d43d80960f06f553.jpg",
+      64
+    ]
+  ],
+  "cross_parent_near_pairs": {
+    "0": 403,
+    "4": 2571,
+    "8": 6878
+  },
+  "cross_parent_examples": [
+    {
+      "a": "3-Cracks-2-_jpg.rf.6abe47b63eeb9d2ff21b4b5f867e36e1.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "3-Cracks-2-_jpg.rf.77cd88713b8e07f2b3ac91f229f4c9a3.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "3-Cracks-2-_jpg.rf.81d88d3f502904226ed425bf8ccddd5e.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "3-Cracks-2-_jpg.rf.9dd364e5f80e00e69de71bcc688240ca.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "3-Cracks-2-_jpg.rf.da85d5f5c92e13719a6275d30a9d84da.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "3-Cracks-2-_jpg.rf.db7e399067639a57224ac7ab883da5a6.jpg",
+      "b": "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg",
+      "d": 0,
+      "a_parent": "3-cracks-2-",
+      "b_parent": "crack_1"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_0_flip_jpg.rf.700f47115f3f9b5eb8b1de0a0f6d77e3.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_0_jpg.rf.774a8a1afbc87efe6960d2a50c373c45.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_270_flip_jpg.rf.7662115a5dac32c246a6e945087f205e.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_270_jpg.rf.cbae4a0163c092a18bea5d0df8df8b3b.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_180_jpg.rf.508f5baedf282fb295335dc61beb57c5.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg",
+      "b": "7-111-_90_flip_jpg.rf.c7ea16f6f24fb028e993ac92865b9f11.jpg",
+      "d": 0,
+      "a_parent": "7-110",
+      "b_parent": "7-111"
+    },
+    {
+      "a": "7-158-_90_flip_jpg.rf.0ffabf659b1f8cc0a292dd3f4c7e1620.jpg",
+      "b": "7-159-_180_jpg.rf.63cd63371fd7bb3da84a7c57d944397e.jpg",
+      "d": 0,
+      "a_parent": "7-158",
+      "b_parent": "7-159"
+    },
+    {
+      "a": "7-212-_90_flip_jpg.rf.605a5c481d041c86b19c6a0da195637e.jpg",
+      "b": "7-211-_0_flip_jpg.rf.5db795a57a95442bedcef5ee15969a7d.jpg",
+      "d": 0,
+      "a_parent": "7-212",
+      "b_parent": "7-211"
+    },
+    {
+      "a": "7-212-_90_flip_jpg.rf.605a5c481d041c86b19c6a0da195637e.jpg",
+      "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+      "d": 0,
+      "a_parent": "7-212",
+      "b_parent": "7-211"
+    },
+    {
+      "a": "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg",
+      "b": "8-114-_90_jpg.rf.6bf98d0ab8ddb5926f52e3165f1f7556.jpg",
+      "d": 0,
+      "a_parent": "8-113",
+      "b_parent": "8-114"
+    },
+    {
+      "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+      "b": "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg",
+      "d": 0,
+      "a_parent": "8-43",
+      "b_parent": "8-44"
+    },
+    {
+      "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+      "b": "8-44-_270_jpg.rf.7bb55d3931013345981334c81b3a39db.jpg",
+      "d": 0,
+      "a_parent": "8-43",
+      "b_parent": "8-44"
+    },
+    {
+      "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+      "b": "8-44-_180_jpg.rf.901c5e4a394f732ca0a1471dfd26fb5d.jpg",
+      "d": 0,
+      "a_parent": "8-43",
+      "b_parent": "8-44"
+    },
+    {
+      "a": "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg",
+      "b": "8-43-_0_flip_jpg.rf.a6f651d096aaf34ed8b65525d0cc2503.jpg",
+      "d": 0,
+      "a_parent": "8-44",
+      "b_parent": "8-43"
+    },
+    {
+      "a": "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg",
+      "b": "8-43-_180_jpg.rf.36280bacd4b7ef1b2146a7a78fda4d06.jpg",
+      "d": 0,
+      "a_parent": "8-44",
+      "b_parent": "8-43"
+    },
+    {
+      "a": "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg",
+      "b": "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg",
+      "b": "8-49-_90_flip_jpg.rf.34c95e89acbcb3c1c6439c075d9f0eee.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg",
+      "b": "8-49-_0_flip_jpg.rf.1dfdcbbef8457fc1fa2a65d66859773c.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg",
+      "b": "8-49-_0_jpg.rf.2c9f4952f1fbf0cd9d0cba00a7426b10.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg",
+      "b": "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg",
+      "b": "8-49-_90_flip_jpg.rf.34c95e89acbcb3c1c6439c075d9f0eee.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg",
+      "b": "8-49-_270_flip_jpg.rf.3e5f2c8e9e218bb605047d19c680e642.jpg",
+      "d": 0,
+      "a_parent": "8-48",
+      "b_parent": "8-49"
+    },
+    {
+      "a": "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg",
+      "b": "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg",
+      "d": 0,
+      "a_parent": "8-5",
+      "b_parent": "8-6"
+    },
+    {
+      "a": "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg",
+      "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+      "d": 0,
+      "a_parent": "8-5",
+      "b_parent": "8-6"
+    }
+  ],
+  "CLEAN_cross_split_residual": {
+    "0": {
+      "count": 29,
+      "pairs": [
+        {
+          "a": "7-212-_90_flip_jpg.rf.605a5c481d041c86b19c6a0da195637e.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+          "a_split": "valid",
+          "b": "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "8-43",
+          "b_parent": "8-44"
+        },
+        {
+          "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+          "a_split": "valid",
+          "b": "8-44-_270_jpg.rf.7bb55d3931013345981334c81b3a39db.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "8-43",
+          "b_parent": "8-44"
+        },
+        {
+          "a": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+          "a_split": "valid",
+          "b": "8-44-_180_jpg.rf.901c5e4a394f732ca0a1471dfd26fb5d.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "8-43",
+          "b_parent": "8-44"
+        },
+        {
+          "a": "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg",
+          "a_split": "train",
+          "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "8-5",
+          "b_parent": "8-6"
+        },
+        {
+          "a": "8-80-_90_flip_jpg.rf.c3a66acca72da55ebcbb03f71d1a7c95.jpg",
+          "a_split": "train",
+          "b": "8-79-_0_jpg.rf.44a2b317b5c40dca84b87a41425296a6.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "8-80",
+          "b_parent": "8-79"
+        },
+        {
+          "a": "8-85-_270_jpg.rf.6abc8ab38ec4093ecd413fb9850a9184.jpg",
+          "a_split": "train",
+          "b": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "8-85",
+          "b_parent": "8-86"
+        },
+        {
+          "a": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "a_split": "valid",
+          "b": "8-85-_270_flip_jpg.rf.cc340f76a5182ef109cc098f09cb04f1.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "8-86",
+          "b_parent": "8-85"
+        },
+        {
+          "a": "9-40-_90_jpg.rf.5d45e235a5ce946a9bb09fbf481aef17.jpg",
+          "a_split": "test",
+          "b": "9-41-_180_jpg.rf.230ecc8bc2933ff5d9a2a5b8fa4f09a7.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "9-40",
+          "b_parent": "9-41"
+        },
+        {
+          "a": "9-40-_90_jpg.rf.5d45e235a5ce946a9bb09fbf481aef17.jpg",
+          "a_split": "test",
+          "b": "9-41-_0_flip_jpg.rf.779b9432ad4ee74ef3b8f364231e4262.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "9-40",
+          "b_parent": "9-41"
+        },
+        {
+          "a": "crack-welding-images_11_jpeg_jpg.rf.85be22c53d4b580ea99af60c13369a12.jpg",
+          "a_split": "train",
+          "b": "Centerline-Crack_jpg.rf.1307978b51ff02c05d5442b31585f5a6.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_11",
+          "b_parent": "centerline-crack"
+        },
+        {
+          "a": "crack-welding-images_12_jpeg_jpg.rf.29819ce15d473ab0ae1d47087d896ea3.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "crack-welding-images_12_jpeg_jpg.rf.8582c0960fb125a72a77b0ebf4d4d46c.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "crack-welding-images_12_jpeg_jpg.rf.94d926790127ba2273895d5632beaa12.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "crack-welding-images_12_jpg.rf.115dc125bda6baa959b75d6f9e9aa02b.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "crack-welding-images_12_jpg.rf.7dd486eb53e7c4f4470dc9d8a257bed6.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "crack-welding-images_12_jpg.rf.b934545e19915267c0e7955d96fceacf.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "crack-welding-images_12",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "images-19-_jpeg_jpg.rf.259a8aa2c9db061ddcc832e02db30804.jpg",
+          "a_split": "train",
+          "b": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "images-19-",
+          "b_parent": "photox"
+        },
+        {
+          "a": "images-19-_jpeg_jpg.rf.31706e93494c28bbd8ae8c30e8d9b37b.jpg",
+          "a_split": "train",
+          "b": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "images-19-",
+          "b_parent": "photox"
+        },
+        {
+          "a": "images-19-_jpeg_jpg.rf.62bbdc8c2149b225482b479f30257393.jpg",
+          "a_split": "train",
+          "b": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "images-19-",
+          "b_parent": "photox"
+        },
+        {
+          "a": "images-19-_jpeg_jpg.rf.ce48ead5f652d9ba620f3844e94daffd.jpg",
+          "a_split": "train",
+          "b": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "images-19-",
+          "b_parent": "photox"
+        },
+        {
+          "a": "images-19-_jpeg_jpg.rf.fe0ebff72aa19f8477a8678242f85e64.jpg",
+          "a_split": "train",
+          "b": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "images-19-",
+          "b_parent": "photox"
+        },
+        {
+          "a": "Not-perfect-welding-images_10_jpeg_jpg.rf.0cd1f663a6b17270ce2d01bb2aa2bfb6.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "not-perfect-welding-images_10",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "Not-perfect-welding-images_10_jpeg_jpg.rf.582b630656a331c44939c89d57d30906.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "not-perfect-welding-images_10",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "Not-perfect-welding-images_10_jpeg_jpg.rf.a3122d4471f71da90c77144570629d9d.jpg",
+          "a_split": "train",
+          "b": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "not-perfect-welding-images_10",
+          "b_parent": "crack_4"
+        },
+        {
+          "a": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "a_split": "valid",
+          "b": "images-19-_jpeg_jpg.rf.2ef1e3ed9217edab19bf6b51bdefbba4.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "photox",
+          "b_parent": "images-19-"
+        },
+        {
+          "a": "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg",
+          "a_split": "valid",
+          "b": "images-19-_jpeg_jpg.rf.4fc4e81b5056204bb70bb4e022f843a3.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "photox",
+          "b_parent": "images-19-"
+        },
+        {
+          "a": "7-212-_0_jpg.rf.6ec7316bead8e0f0fcb2185861829ff0.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg",
+          "a_split": "valid",
+          "b": "crack-welding-images_12_jpg.rf.4609aae1cd9b24ceed746b5975f065f5.jpg",
+          "b_split": "train",
+          "dist": 0,
+          "a_parent": "crack_4",
+          "b_parent": "crack-welding-images_12"
+        }
+      ]
+    },
+    "4": {
+      "count": 228,
+      "pairs": [
+        {
+          "a": "4-149-_0_jpg.rf.c26327620e89c74606112bebcf9cd825.jpg",
+          "a_split": "train",
+          "b": "4-150-_90_jpg.rf.a3172243ac87c172d895703db5f7eed9.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "4-149",
+          "b_parent": "4-150"
+        },
+        {
+          "a": "4-149-_270_flip_jpg.rf.832b1817255faa893cf9b34034f0edb5.jpg",
+          "a_split": "train",
+          "b": "4-150-_90_jpg.rf.a3172243ac87c172d895703db5f7eed9.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "4-149",
+          "b_parent": "4-150"
+        },
+        {
+          "a": "7-113-_180_jpg.rf.6bc249689468fdfca301b1fd4ce75964.jpg",
+          "a_split": "train",
+          "b": "7-112-_0_jpg.rf.5a4608098f54f97f77d81c21029facb6.jpg",
+          "b_split": "test",
+          "dist": 4,
+          "a_parent": "7-113",
+          "b_parent": "7-112"
+        },
+        {
+          "a": "7-155-_90_jpg.rf.31b67b5a510dab9956fdb8cf90ad29e3.jpg",
+          "a_split": "valid",
+          "b": "7-153-_0_jpg.rf.d9851e4b8c10136c95eb97949bd46ae3.jpg",
+          "b_split": "train",
+          "dist": 2,
+          "a_parent": "7-155",
+          "b_parent": "7-153"
+        },
+        {
+          "a": "7-155-_90_jpg.rf.31b67b5a510dab9956fdb8cf90ad29e3.jpg",
+          "a_split": "valid",
+          "b": "7-153-_180_jpg.rf.4ba259c66cf684eef1f45177db37bec6.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-155",
+          "b_parent": "7-153"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_0_flip_jpg.rf.1644571da7df4441d5033b3af07f3cd1.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_0_jpg.rf.50270b468e45f512dcda8aa902552d46.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_180_flip_jpg.rf.f5586dcfdc325b48ffd134a1517636c4.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_270_flip_jpg.rf.12a1e2ffedb6afbe8d370891e5a04d4e.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_90_flip_jpg.rf.35487a2ba564557e651c7f2bbed6b51c.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-206-_90_jpg.rf.75d038e4da3acb9ef4e18df05c266585.jpg",
+          "a_split": "valid",
+          "b": "7-207-_180_jpg.rf.6ff9a3841b194bb10f55e71ecdc8de0d.jpg",
+          "b_split": "train",
+          "dist": 4,
+          "a_parent": "7-206",
+          "b_parent": "7-207"
+        },
+        {
+          "a": "7-212-_180_flip_jpg.rf.71f38cbb94d00977de519b4d9e27856a.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "7-212-_270_flip_jpg.rf.70a44cbf7c8b0e68d66e7583140ef8e8.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "7-212-_270_jpg.rf.687e99e97a8581eae6020a8c3ccb7081.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "7-212-_90_flip_jpg.rf.605a5c481d041c86b19c6a0da195637e.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 0,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "7-212-_90_jpg.rf.4b3eb7553f39fbfa1453ee0612255427.jpg",
+          "a_split": "train",
+          "b": "7-211-_90_jpg.rf.376d63549f4ea3a26a16cec2ec55bbc9.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "7-212",
+          "b_parent": "7-211"
+        },
+        {
+          "a": "8-109-_90_flip_jpg.rf.6a164a06218b723d18033dbd241b9942.jpg",
+          "a_split": "train",
+          "b": "8-39-_0_jpg.rf.af2f4bbfd06512f80da6d24234884d5e.jpg",
+          "b_split": "test",
+          "dist": 4,
+          "a_parent": "8-109",
+          "b_parent": "8-39"
+        },
+        {
+          "a": "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg",
+          "a_split": "train",
+          "b": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "8-113",
+          "b_parent": "8-43"
+        },
+        {
+          "a": "8-114-_90_jpg.rf.6bf98d0ab8ddb5926f52e3165f1f7556.jpg",
+          "a_split": "train",
+          "b": "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "8-114",
+          "b_parent": "8-43"
+        },
+        {
+          "a": "8-13-_180_flip_jpg.rf.273b65df2fc201a34df573d2701cdd0f.jpg",
+          "a_split": "train",
+          "b": "8-14-_0_jpg.rf.aecfcba3e9d65eb19a765c7f01496383.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-13",
+          "b_parent": "8-14"
+        },
+        {
+          "a": "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg",
+          "a_split": "train",
+          "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-3",
+          "b_parent": "8-6"
+        },
+        {
+          "a": "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg",
+          "a_split": "train",
+          "b": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-3",
+          "b_parent": "8-86"
+        },
+        {
+          "a": "8-3-_270_flip_jpg.rf.8e14f9f52247fedb921efef112af91f2.jpg",
+          "a_split": "train",
+          "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-3",
+          "b_parent": "8-6"
+        },
+        {
+          "a": "8-3-_270_flip_jpg.rf.8e14f9f52247fedb921efef112af91f2.jpg",
+          "a_split": "train",
+          "b": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-3",
+          "b_parent": "8-86"
+        },
+        {
+          "a": "8-32-_270_jpg.rf.5797258a5651a6f65d40fe1af4ca92bb.jpg",
+          "a_split": "train",
+          "b": "8-33-_270_jpg.rf.9460f1248d17eace0f796e3b1b217ebb.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "8-32",
+          "b_parent": "8-33"
+        },
+        {
+          "a": "8-32-_90_jpg.rf.08a4c5924d40fb5cda52b4183d01a68f.jpg",
+          "a_split": "train",
+          "b": "8-33-_270_jpg.rf.9460f1248d17eace0f796e3b1b217ebb.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "8-32",
+          "b_parent": "8-33"
+        },
+        {
+          "a": "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg",
+          "a_split": "train",
+          "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+          "b_split": "valid",
+          "dist": 2,
+          "a_parent": "8-4",
+          "b_parent": "8-6"
+        },
+        {
+          "a": "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg",
+          "a_split": "train",
+          "b": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-4",
+          "b_parent": "8-86"
+        },
+        {
+          "a": "8-4-_0_jpg.rf.9cf3d22203fc205743fa7152bc01cf2a.jpg",
+          "a_split": "train",
+          "b": "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-4",
+          "b_parent": "8-86"
+        },
+        {
+          "a": "8-4-_180_jpg.rf.d9991321ba9ff2ec404d54ad28619082.jpg",
+          "a_split": "train",
+          "b": "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "8-4",
+          "b_parent": "8-6"
+        }
+      ]
+    },
+    "8": {
+      "count": 741,
+      "pairs": [
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_0_jpg.rf.ecc06707ce050d6796b189815c664233.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_180_flip_jpg.rf.191f3a7ed2a0b5fc300e16a70be5700e.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_90_flip_jpg.rf.aa20d92858c40a30e07ae58b7ad24571.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_90_jpg.rf.460156ea78b1fbb6b2cb0b653c33d633.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_180_jpg.rf.ea0cf7d046000780c7b98797ef180d1f.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg",
+          "a_split": "test",
+          "b": "4-148-_270_jpg.rf.823efe8075db0f9309ca163f2f4e0317.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "4-147",
+          "b_parent": "4-148"
+        },
+        {
+          "a": "4-149-_0_flip_jpg.rf.5eff385aec0332be69d65d4ba421a123.jpg",
+          "a_split": "train",
+          "b": "4-150-_90_jpg.rf.a3172243ac87c172d895703db5f7eed9.jpg",
+          "b_split": "valid",
+          "dist": 6,
+          "a_parent": "4-149",
+          "b_parent": "4-150"
+        },
+        {
+          "a": "4-149-_0_jpg.rf.c26327620e89c74606112bebcf9cd825.jpg",
+          "a_split": "train",
+          "b": "4-150-_90_jpg.rf.a3172243ac87c172d895703db5f7eed9.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "4-149",
+          "b_parent": "4-150"
+        },
+        {
+          "a": "4-149-_270_flip_jpg.rf.832b1817255faa893cf9b34034f0edb5.jpg",
+          "a_split": "train",
+          "b": "4-150-_90_jpg.rf.a3172243ac87c172d895703db5f7eed9.jpg",
+          "b_split": "valid",
+          "dist": 4,
+          "a_parent": "4-149",
+          "b_parent": "4-150"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_180_flip_jpg.rf.af77733839c4faec57d204ac1447735c.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_270_flip_jpg.rf.571e95ca5b24ffa12ce25b695d1c3050.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_0_flip_jpg.rf.00bd34e7eca3683c23a9d34428a4e4d8.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_0_jpg.rf.a92d11d4e9d2efdb8adcd4187e6ec7d7.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_180_jpg.rf.41c228153db2214a056f4ebfa68cd392.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-129-_0_jpg.rf.64bcf7f41b61f336c4e18bb9f09c6b48.jpg",
+          "a_split": "valid",
+          "b": "5-130-_90_flip_jpg.rf.98811b5d2819a849202cc27ff4890c74.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-129",
+          "b_parent": "5-130"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_270_flip_jpg.rf.a520a20743e3c622f4946686784eec4d.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_270_jpg.rf.e8a903c88b29758d45436e714f8e788e.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_90_flip_jpg.rf.266106c167a7b40aa72751e2d0e4b2a9.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_90_jpg.rf.d46566086b5c1042c488883a0d1867a7.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_0_flip_jpg.rf.1b2e57505c2f93f5681c765b08ec3e37.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg",
+          "a_split": "valid",
+          "b": "5-159-_180_jpg.rf.75a5536a83f753c8c869672e4a3d5443.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-158",
+          "b_parent": "5-159"
+        },
+        {
+          "a": "5-179-_90_jpg.rf.a977c5db8c4ae98b048a28cd1046552e.jpg",
+          "a_split": "test",
+          "b": "5-180-_270_flip_jpg.rf.daf0ef4f25e5aa60ff6a359f35d2a7af.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-179",
+          "b_parent": "5-180"
+        },
+        {
+          "a": "5-179-_90_jpg.rf.a977c5db8c4ae98b048a28cd1046552e.jpg",
+          "a_split": "test",
+          "b": "5-180-_180_flip_jpg.rf.7a4d6b89d7db6efc8c0965297593d1c7.jpg",
+          "b_split": "train",
+          "dist": 6,
+          "a_parent": "5-179",
+          "b_parent": "5-180"
+        },
+        {
+          "a": "5-179-_90_jpg.rf.a977c5db8c4ae98b048a28cd1046552e.jpg",
+          "a_split": "test",
+          "b": "5-180-_180_jpg.rf.e072fe59d28f9ea441dfcfa5e90d61e2.jpg",
+          "b_split": "train",
+          "dist": 8,
+          "a_parent": "5-179",
+          "b_parent": "5-180"
+        },
+        {
+          "a": "6-30-_270_jpg.rf.54d416b0601767625fd5d133643e725b.jpg",
+          "a_split": "train",
+          "b": "6-36-_270_jpg.rf.482bb8d2759fce2590eefca9ea63973b.jpg",
+          "b_split": "test",
+          "dist": 8,
+          "a_parent": "6-30",
+          "b_parent": "6-36"
+        },
+        {
+          "a": "6-33-_90_jpg.rf.ad747989ab5ea456276a3bef2d943638.jpg",
+          "a_split": "train",
+          "b": "6-34-_270_jpg.rf.4a61ea86b72530a3c7d8729314b94b48.jpg",
+          "b_split": "valid",
+          "dist": 8,
+          "a_parent": "6-33",
+          "b_parent": "6-34"
+        },
+        {
+          "a": "6-35-_180_jpg.rf.3a2d895045b006ec4d95ea67e0f5a304.jpg",
+          "a_split": "train",
+          "b": "6-36-_270_jpg.rf.482bb8d2759fce2590eefca9ea63973b.jpg",
+          "b_split": "test",
+          "dist": 6,
+          "a_parent": "6-35",
+          "b_parent": "6-36"
+        },
+        {
+          "a": "7-113-_0_jpg.rf.bf3857c98d99f1d1ee76303001dce207.jpg",
+          "a_split": "train",
+          "b": "7-112-_0_jpg.rf.5a4608098f54f97f77d81c21029facb6.jpg",
+          "b_split": "test",
+          "dist": 8,
+          "a_parent": "7-113",
+          "b_parent": "7-112"
+        },
+        {
+          "a": "7-113-_180_jpg.rf.6bc249689468fdfca301b1fd4ce75964.jpg",
+          "a_split": "train",
+          "b": "7-112-_0_jpg.rf.5a4608098f54f97f77d81c21029facb6.jpg",
+          "b_split": "test",
+          "dist": 4,
+          "a_parent": "7-113",
+          "b_parent": "7-112"
+        },
+        {
+          "a": "7-113-_270_flip_jpg.rf.d3db9f03c8e95f5b17ce9c1ea48a8412.jpg",
+          "a_split": "train",
+          "b": "7-112-_0_jpg.rf.5a4608098f54f97f77d81c21029facb6.jpg",
+          "b_split": "test",
+          "dist": 6,
+          "a_parent": "7-113",
+          "b_parent": "7-112"
+        }
+      ]
+    }
+  }
+}

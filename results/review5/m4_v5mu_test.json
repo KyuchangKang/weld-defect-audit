@@ -1,0 +1,232 @@
+{
+  "note": "POST-HOC — 사전등록 프로토콜 밖. 동결된 v5nu 선택을 변경하지 않음.",
+  "protocol": "final0_clean test 71장, 게이트 D와 동일 설정",
+  "per_run": {
+    "E1_v5m": {
+      "seed": 42,
+      "mAP50": 0.5209,
+      "mAP50_95": 0.2614,
+      "precision": 0.6456,
+      "recall": 0.4802,
+      "per_class": {
+        "Geometric defect": {
+          "AP50": 0.844,
+          "AP50_95": 0.4446,
+          "P": 0.9174,
+          "R": 0.7931,
+          "n_instances": 58
+        },
+        "Non-fusion defect": {
+          "AP50": 0.8222,
+          "AP50_95": 0.5091,
+          "P": 0.887,
+          "R": 0.7727,
+          "n_instances": 22
+        },
+        "crack": {
+          "AP50": 0.2946,
+          "AP50_95": 0.1003,
+          "P": 0.4094,
+          "R": 0.2727,
+          "n_instances": 22
+        },
+        "porosity": {
+          "AP50": 0.1965,
+          "AP50_95": 0.1059,
+          "P": 0.4298,
+          "R": 0.1875,
+          "n_instances": 16
+        },
+        "spatters": {
+          "AP50": 0.4474,
+          "AP50_95": 0.1473,
+          "P": 0.5844,
+          "R": 0.375,
+          "n_instances": 40
+        }
+      }
+    },
+    "V2_v5m_s43": {
+      "seed": 43,
+      "mAP50": 0.5572,
+      "mAP50_95": 0.2644,
+      "precision": 0.6712,
+      "recall": 0.5409,
+      "per_class": {
+        "Geometric defect": {
+          "AP50": 0.9063,
+          "AP50_95": 0.466,
+          "P": 0.8945,
+          "R": 0.8276,
+          "n_instances": 58
+        },
+        "Non-fusion defect": {
+          "AP50": 0.8482,
+          "AP50_95": 0.488,
+          "P": 0.9449,
+          "R": 0.7801,
+          "n_instances": 22
+        },
+        "crack": {
+          "AP50": 0.3376,
+          "AP50_95": 0.0887,
+          "P": 0.5243,
+          "R": 0.4091,
+          "n_instances": 22
+        },
+        "porosity": {
+          "AP50": 0.2538,
+          "AP50_95": 0.1227,
+          "P": 0.4556,
+          "R": 0.1875,
+          "n_instances": 16
+        },
+        "spatters": {
+          "AP50": 0.4403,
+          "AP50_95": 0.1568,
+          "P": 0.5369,
+          "R": 0.5,
+          "n_instances": 40
+        }
+      }
+    },
+    "V2_v5m_s44": {
+      "seed": 44,
+      "mAP50": 0.55,
+      "mAP50_95": 0.2642,
+      "precision": 0.7743,
+      "recall": 0.4926,
+      "per_class": {
+        "Geometric defect": {
+          "AP50": 0.8233,
+          "AP50_95": 0.4438,
+          "P": 0.9185,
+          "R": 0.7414,
+          "n_instances": 58
+        },
+        "Non-fusion defect": {
+          "AP50": 0.8608,
+          "AP50_95": 0.5202,
+          "P": 0.8896,
+          "R": 0.7331,
+          "n_instances": 22
+        },
+        "crack": {
+          "AP50": 0.3998,
+          "AP50_95": 0.1125,
+          "P": 0.7249,
+          "R": 0.3636,
+          "n_instances": 22
+        },
+        "porosity": {
+          "AP50": 0.2742,
+          "AP50_95": 0.1362,
+          "P": 0.6934,
+          "R": 0.25,
+          "n_instances": 16
+        },
+        "spatters": {
+          "AP50": 0.3919,
+          "AP50_95": 0.1084,
+          "P": 0.6453,
+          "R": 0.375,
+          "n_instances": 40
+        }
+      }
+    }
+  },
+  "summary_3seed": {
+    "mAP50": {
+      "mean": 0.5427,
+      "std": 0.0192,
+      "values": [
+        0.5209,
+        0.5572,
+        0.55
+      ]
+    },
+    "mAP50_95": {
+      "mean": 0.2633,
+      "std": 0.0017,
+      "values": [
+        0.2614,
+        0.2644,
+        0.2642
+      ]
+    },
+    "precision": {
+      "mean": 0.697,
+      "std": 0.0681,
+      "values": [
+        0.6456,
+        0.6712,
+        0.7743
+      ]
+    },
+    "recall": {
+      "mean": 0.5046,
+      "std": 0.0321,
+      "values": [
+        0.4802,
+        0.5409,
+        0.4926
+      ]
+    }
+  },
+  "per_class_3seed": {
+    "Geometric defect": {
+      "AP50_mean": 0.8579,
+      "AP50_std": 0.0432,
+      "n_instances": 58
+    },
+    "Non-fusion defect": {
+      "AP50_mean": 0.8437,
+      "AP50_std": 0.0197,
+      "n_instances": 22
+    },
+    "crack": {
+      "AP50_mean": 0.344,
+      "AP50_std": 0.0529,
+      "n_instances": 22
+    },
+    "porosity": {
+      "AP50_mean": 0.2415,
+      "AP50_std": 0.0403,
+      "n_instances": 16
+    },
+    "spatters": {
+      "AP50_mean": 0.4265,
+      "AP50_std": 0.0302,
+      "n_instances": 40
+    }
+  },
+  "comparison_vs_v5nu": {
+    "v5nu_test_mAP50": {
+      "mean": 0.5758,
+      "std": 0.0252,
+      "values": [
+        0.577,
+        0.5501,
+        0.6004
+      ]
+    },
+    "v5mu_test_mAP50": {
+      "mean": 0.5427,
+      "std": 0.0192,
+      "values": [
+        0.5209,
+        0.5572,
+        0.55
+      ]
+    },
+    "delta_mu_minus_nu": -0.0331,
+    "v5mu_exceeds_0.70": false,
+    "v5nu_per_class": {
+      "Geometric defect": 0.8637,
+      "Non-fusion defect": 0.8044,
+      "crack": 0.3779,
+      "porosity": 0.299,
+      "spatters": 0.5342
+    }
+  }
+}

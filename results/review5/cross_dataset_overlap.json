@@ -1,0 +1,88 @@
+{
+  "prior_n": 1089,
+  "final0_n": 4958,
+  "stem_shared": 25,
+  "stem_shared_examples": [
+    "bad_weld_vid368_jpeg",
+    "bad_weld_vid369_jpeg",
+    "bad_weld_vid373_jpeg",
+    "bad_weld_vid374_jpeg",
+    "bad_weld_vid377_jpeg",
+    "bad_weld_vid565_jpeg",
+    "bad_weld_vid686_jpeg",
+    "bad_weld_vid687_jpeg",
+    "bad_weld_vid691_jpeg",
+    "centerline-crack",
+    "common-welding-defects",
+    "crack-welding-images_11_jpeg",
+    "crack-welding-images_12_jpeg",
+    "crack-welding-images_17_jpeg",
+    "crack-welding-images_21_jpeg",
+    "imagertrty4s_jpeg",
+    "imagesery4y_jpeg",
+    "img20220609081234",
+    "not-perfect-welding-images_10_jpeg",
+    "poor-welding-images_30_jpeg",
+    "screenshot-2022-12-05-223616_jpeg",
+    "screenshot-2022-12-05-223834_jpeg",
+    "screenshot-2022-12-05-230425_jpeg",
+    "screenshot-2022-12-05-231119_jpeg",
+    "screenshot-2022-12-05-231137_jpeg"
+  ],
+  "stem_split_matrix": {
+    "valid->train": 10,
+    "train->train": 10,
+    "valid->test": 1,
+    "valid->valid": 6,
+    "test->test": 2,
+    "test->train": 4,
+    "train->test": 5,
+    "train->valid": 5,
+    "test->valid": 1
+  },
+  "md5_identical": 2,
+  "phash_cross": {
+    "0": {
+      "pairs": 327,
+      "by_split": {
+        "train->train": 139,
+        "train->valid": 30,
+        "train->test": 4,
+        "valid->train": 94,
+        "valid->valid": 12,
+        "valid->test": 7,
+        "test->train": 37,
+        "test->valid": 3,
+        "test->test": 1
+      }
+    },
+    "4": {
+      "pairs": 831,
+      "by_split": {
+        "train->train": 519,
+        "train->valid": 72,
+        "train->test": 11,
+        "valid->train": 126,
+        "valid->valid": 15,
+        "valid->test": 7,
+        "test->train": 73,
+        "test->valid": 6,
+        "test->test": 2
+      }
+    },
+    "8": {
+      "pairs": 1073,
+      "by_split": {
+        "train->train": 682,
+        "train->valid": 105,
+        "train->test": 12,
+        "valid->train": 150,
+        "valid->valid": 15,
+        "valid->test": 8,
+        "test->train": 89,
+        "test->valid": 8,
+        "test->test": 4
+      }
+    }
+  }
+}

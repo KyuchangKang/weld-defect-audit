@@ -1,0 +1,29 @@
+{
+  "threshold": 4,
+  "parents_before": 686,
+  "parents_after_merge": 569,
+  "merge_edges": 117,
+  "files": {
+    "train": 3397,
+    "valid": 142,
+    "test": 71
+  },
+  "test_instances": {
+    "Non-fusion defect": 18,
+    "porosity": 11,
+    "crack": 19,
+    "Geometric defect": 52,
+    "spatters": 37
+  },
+  "c_merged_mAP50": 0.6709,
+  "mAP50_95": 0.3358,
+  "per_class_ap50": {
+    "Geometric defect": 0.6702,
+    "Non-fusion defect": 0.9395,
+    "crack": 0.4969,
+    "porosity": 0.685,
+    "spatters": 0.5628
+  },
+  "a_raw_ref": 0.8313,
+  "inflation_a_minus_c_merged": 0.1604
+}

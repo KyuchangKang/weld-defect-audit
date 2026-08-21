@@ -1,0 +1,187 @@
+{
+  "domain_labels": {
+    "ood_parent_indices": [
+      8,
+      9,
+      10,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    "ambiguous": {
+      "126": "green-mat crack macro — field로 판정(경계)",
+      "200": "welds_imperfections-56- — OOD로 판정(원 감사는 같은 계열 84/86을 field로 판정)",
+      "201": "welds_imperfections-63- — 동상",
+      "202": "welds_imperfections-65- — 동상",
+      "133": "img20220609081234 — field로 판정(경계)"
+    },
+    "note": "판정자는 원 감사자(저자)가 아님 — 저자 확인 필요"
+  },
+  "composition": {
+    "seen": {
+      "n_images": 280,
+      "n_parents": 202,
+      "parents_field": 145,
+      "parents_ood": 57,
+      "pct_parents_ood": 28.2,
+      "images_field": 186,
+      "images_ood": 94,
+      "pct_images_ood": 33.6,
+      "instances_total": {
+        "Geometric defect": 151,
+        "Non-fusion defect": 88,
+        "crack": 63,
+        "porosity": 135,
+        "spatters": 218
+      },
+      "instances_field": {
+        "Geometric defect": 151,
+        "Non-fusion defect": 88,
+        "crack": 3,
+        "porosity": 0,
+        "spatters": 218
+      },
+      "instances_ood": {
+        "Geometric defect": 0,
+        "Non-fusion defect": 0,
+        "crack": 60,
+        "porosity": 135,
+        "spatters": 0
+      }
+    },
+    "unseen": {
+      "n_images": 30,
+      "n_parents": 28,
+      "parents_field": 20,
+      "parents_ood": 8,
+      "pct_parents_ood": 28.6,
+      "images_field": 22,
+      "images_ood": 8,
+      "pct_images_ood": 26.7,
+      "instances_total": {
+        "Geometric defect": 36,
+        "Non-fusion defect": 3,
+        "crack": 9,
+        "porosity": 5,
+        "spatters": 0
+      },
+      "instances_field": {
+        "Geometric defect": 36,
+        "Non-fusion defect": 3,
+        "crack": 0,
+        "porosity": 0,
+        "spatters": 0
+      },
+      "instances_ood": {
+        "Geometric defect": 0,
+        "Non-fusion defect": 0,
+        "crack": 9,
+        "porosity": 5,
+        "spatters": 0
+      }
+    }
+  },
+  "contrasts": {
+    "field-only": {
+      "seen": {
+        "mAP50": 0.8852,
+        "mAP50_95": 0.4954,
+        "per_class_ap50": {
+          "Geometric defect": 0.9767,
+          "Non-fusion defect": 0.9449,
+          "crack": 0.7463,
+          "spatters": 0.8728
+        },
+        "n_images": 186
+      },
+      "unseen": {
+        "mAP50": 0.6298,
+        "mAP50_95": 0.3443,
+        "per_class_ap50": {
+          "Geometric defect": 0.8011,
+          "Non-fusion defect": 0.4584
+        },
+        "n_images": 22
+      },
+      "gap_seen_minus_unseen": 0.2554
+    },
+    "geometric-only": {
+      "seen": {
+        "mAP50": 0.9805,
+        "mAP50_95": 0.5596,
+        "per_class_ap50": {
+          "Geometric defect": 0.9805
+        },
+        "n_images": 107
+      },
+      "unseen": {
+        "mAP50": 0.8011,
+        "mAP50_95": 0.4173,
+        "per_class_ap50": {
+          "Geometric defect": 0.8011
+        },
+        "n_images": 22
+      },
+      "gap_seen_minus_unseen": 0.1794
+    }
+  }
+}

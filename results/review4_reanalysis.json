@@ -1,0 +1,214 @@
+{
+ "A_leaky_test_bisection": {
+  "n_seen": 280,
+  "n_unseen": 30,
+  "seen": {
+   "mAP50": 0.8455,
+   "mAP50_95": 0.4664,
+   "per_class_ap50": {
+    "Geometric defect": 0.9767,
+    "Non-fusion defect": 0.9449,
+    "crack": 0.7223,
+    "porosity": 0.7114,
+    "spatters": 0.8721
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.5574,
+    "Non-fusion defect": 0.5799,
+    "crack": 0.3839,
+    "porosity": 0.3356,
+    "spatters": 0.4752
+   }
+  },
+  "unseen": {
+   "mAP50": 0.6165,
+   "mAP50_95": 0.2897,
+   "per_class_ap50": {
+    "Geometric defect": 0.8011,
+    "Non-fusion defect": 0.4584,
+    "crack": 0.6116,
+    "porosity": 0.595
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4173,
+    "Non-fusion defect": 0.2714,
+    "crack": 0.2375,
+    "porosity": 0.2327
+   }
+  }
+ },
+ "B_map50_95": {
+  "seed42": {
+   "mAP50": 0.577,
+   "mAP50_95": 0.2693,
+   "per_class_ap50": {
+    "Geometric defect": 0.8527,
+    "Non-fusion defect": 0.8255,
+    "crack": 0.3945,
+    "porosity": 0.2076,
+    "spatters": 0.6049
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4514,
+    "Non-fusion defect": 0.4507,
+    "crack": 0.1321,
+    "porosity": 0.1201,
+    "spatters": 0.1925
+   }
+  },
+  "seed43": {
+   "mAP50": 0.5501,
+   "mAP50_95": 0.2718,
+   "per_class_ap50": {
+    "Geometric defect": 0.8304,
+    "Non-fusion defect": 0.7755,
+    "crack": 0.2814,
+    "porosity": 0.3743,
+    "spatters": 0.4889
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4006,
+    "Non-fusion defect": 0.4524,
+    "crack": 0.1538,
+    "porosity": 0.173,
+    "spatters": 0.1793
+   }
+  },
+  "seed44": {
+   "mAP50": 0.6004,
+   "mAP50_95": 0.2927,
+   "per_class_ap50": {
+    "Geometric defect": 0.9079,
+    "Non-fusion defect": 0.8123,
+    "crack": 0.4579,
+    "porosity": 0.3151,
+    "spatters": 0.5088
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4541,
+    "Non-fusion defect": 0.484,
+    "crack": 0.1593,
+    "porosity": 0.1786,
+    "spatters": 0.1876
+   }
+  },
+  "per_class_map50_95_3seed": {
+   "Geometric defect": {
+    "mean": 0.4354,
+    "std": 0.0301
+   },
+   "Non-fusion defect": {
+    "mean": 0.4624,
+    "std": 0.0188
+   },
+   "crack": {
+    "mean": 0.1484,
+    "std": 0.0144
+   },
+   "porosity": {
+    "mean": 0.1572,
+    "std": 0.0323
+   },
+   "spatters": {
+    "mean": 0.1865,
+    "std": 0.0067
+   }
+  },
+  "overall_map50_95_3seed": {
+   "mean": 0.2779,
+   "std": 0.0128
+  }
+ },
+ "C_borderline_worst_case": {
+  "dropped_images": [
+   "test_00010",
+   "test_00019",
+   "test_00023",
+   "test_00031",
+   "test_00032",
+   "test_00044",
+   "test_00046",
+   "test_00071"
+  ],
+  "seed42": {
+   "mAP50": 0.554,
+   "mAP50_95": 0.2597,
+   "per_class_ap50": {
+    "Geometric defect": 0.7966,
+    "Non-fusion defect": 0.8255,
+    "crack": 0.3354,
+    "porosity": 0.2076,
+    "spatters": 0.6049
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4123,
+    "Non-fusion defect": 0.4507,
+    "crack": 0.1229,
+    "porosity": 0.1201,
+    "spatters": 0.1925
+   }
+  },
+  "seed43": {
+   "mAP50": 0.5303,
+   "mAP50_95": 0.2626,
+   "per_class_ap50": {
+    "Geometric defect": 0.7213,
+    "Non-fusion defect": 0.7755,
+    "crack": 0.2913,
+    "porosity": 0.3743,
+    "spatters": 0.4889
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.348,
+    "Non-fusion defect": 0.4524,
+    "crack": 0.1605,
+    "porosity": 0.173,
+    "spatters": 0.1793
+   }
+  },
+  "seed44": {
+   "mAP50": 0.5718,
+   "mAP50_95": 0.2827,
+   "per_class_ap50": {
+    "Geometric defect": 0.8373,
+    "Non-fusion defect": 0.8123,
+    "crack": 0.3853,
+    "porosity": 0.3151,
+    "spatters": 0.5088
+   },
+   "per_class_map50_95": {
+    "Geometric defect": 0.4056,
+    "Non-fusion defect": 0.484,
+    "crack": 0.1578,
+    "porosity": 0.1786,
+    "spatters": 0.1876
+   }
+  },
+  "overall_3seed": {
+   "mean": 0.552,
+   "std": 0.0208
+  },
+  "per_class_ap50_3seed": {
+   "Geometric defect": {
+    "mean": 0.7851,
+    "std": 0.0589
+   },
+   "Non-fusion defect": {
+    "mean": 0.8044,
+    "std": 0.0259
+   },
+   "crack": {
+    "mean": 0.3373,
+    "std": 0.047
+   },
+   "porosity": {
+    "mean": 0.299,
+    "std": 0.0845
+   },
+   "spatters": {
+    "mean": 0.5342,
+    "std": 0.062
+   }
+  }
+ }
+}

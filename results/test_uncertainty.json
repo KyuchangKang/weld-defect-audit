@@ -1,0 +1,83 @@
+{
+  "n_boot": 1000,
+  "evaluator": "ultralytics 8.4.118 m.val (동일 파이프라인)",
+  "residual_dup_excluded": {
+    "excluded_test_images": [
+      "test_00015",
+      "test_00033",
+      "test_00034",
+      "test_00035",
+      "test_00036",
+      "test_00037",
+      "test_00038",
+      "test_00039",
+      "test_00040",
+      "test_00041",
+      "test_00042",
+      "test_00044"
+    ],
+    "n_kept": 59,
+    "per_class_3seed_mean": {
+      "Geometric defect": 0.8405,
+      "Non-fusion defect": 0.7947,
+      "crack": 0.3779,
+      "porosity": 0.299,
+      "spatters": 0.5342,
+      "overall_mAP50": 0.5693
+    }
+  },
+  "pre_correction_labels": {
+    "per_class_3seed_mean": {
+      "Geometric defect": 0.8637,
+      "Non-fusion defect": 0.8044,
+      "crack": 0.3779,
+      "porosity": 0.3893,
+      "spatters": 0.5342,
+      "overall_mAP50": 0.5939
+    }
+  },
+  "bootstrap_ci_95": {
+    "Geometric defect": {
+      "ci": [
+        0.7816,
+        0.9358
+      ],
+      "n": 1000
+    },
+    "Non-fusion defect": {
+      "ci": [
+        0.5282,
+        0.992
+      ],
+      "n": 1000
+    },
+    "crack": {
+      "ci": [
+        0.2071,
+        0.6724
+      ],
+      "n": 1000
+    },
+    "porosity": {
+      "ci": [
+        0.196,
+        0.6356
+      ],
+      "n": 995
+    },
+    "spatters": {
+      "ci": [
+        0.422,
+        0.7205
+      ],
+      "n": 994
+    },
+    "overall_mAP50": {
+      "ci": [
+        0.508,
+        0.6883
+      ],
+      "n": 1000
+    }
+  }
+}

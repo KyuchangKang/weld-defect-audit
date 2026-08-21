@@ -1,0 +1,33 @@
+{
+  "model": "D:\\runs\\weld2\\E4_v5n_raw\\weights\\best.pt",
+  "trained_on": "final0 raw (leaky original split)",
+  "a_raw_test": {
+    "data": "D:\\Sync\\Dropbox\\paper_wedling2\\04_experiments\\data\\final0\\data.yaml",
+    "mAP50": 0.8313,
+    "mAP50_95": 0.4513,
+    "precision": 0.8626,
+    "recall": 0.8099,
+    "per_class_ap50": {
+      "Geometric defect": 0.9423,
+      "Non-fusion defect": 0.9285,
+      "crack": 0.7041,
+      "porosity": 0.7093,
+      "spatters": 0.872
+    }
+  },
+  "b_clean_test": {
+    "data": "D:\\Sync\\Dropbox\\paper_wedling2\\04_experiments\\data\\final0_clean\\data.yaml",
+    "mAP50": 0.8644,
+    "mAP50_95": 0.5439,
+    "precision": 0.8606,
+    "recall": 0.7742,
+    "per_class_ap50": {
+      "Geometric defect": 0.9896,
+      "Non-fusion defect": 0.9097,
+      "crack": 0.7955,
+      "porosity": 0.6384,
+      "spatters": 0.9888
+    }
+  },
+  "inflation_mAP50_a_minus_b": -0.0331
+}

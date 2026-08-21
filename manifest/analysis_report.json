@@ -1,0 +1,93 @@
+{
+  "final0": {
+    "splits": {
+      "train": {
+        "images": 4027,
+        "labels_matched": 4027
+      },
+      "valid": {
+        "images": 621,
+        "labels_matched": 621
+      },
+      "test": {
+        "images": 310,
+        "labels_matched": 310
+      }
+    },
+    "class_instances": {
+      "Geometric defect": 1844,
+      "Non-fusion defect": 982,
+      "crack": 1453,
+      "porosity": 2732,
+      "spatters": 5829
+    },
+    "images_with_class": {
+      "Geometric defect": 1268,
+      "Non-fusion defect": 753,
+      "crack": 1092,
+      "porosity": 1129,
+      "spatters": 1142
+    },
+    "empty_labels": 0,
+    "label_issues": [],
+    "n_label_issues": 0,
+    "internal_dup_groups": 2,
+    "internal_dup_extra_images": 2,
+    "dup_groups_spanning_splits": 0
+  },
+  "ikkj": {
+    "splits": {
+      "train": {
+        "images": 6335,
+        "labels_matched": 6335
+      },
+      "valid": {
+        "images": 601,
+        "labels_matched": 601
+      },
+      "test": {
+        "images": 300,
+        "labels_matched": 300
+      }
+    },
+    "class_instances": {
+      "Spatters": 1458,
+      "Bad Welding": 1171,
+      "Crack": 900,
+      "Good Welding": 1107,
+      "Reinforcement": 1305,
+      "Porosity": 106
+    },
+    "images_with_class": {
+      "Spatters": 1041,
+      "Crack": 434,
+      "Bad Welding": 1036,
+      "Good Welding": 830,
+      "Reinforcement": 517,
+      "Porosity": 41
+    },
+    "empty_labels": 1,
+    "label_issues": [
+      "bad line (27 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.42902443a0af7914193a1d725aa28123.txt",
+      "bad line (13 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.42902443a0af7914193a1d725aa28123.txt",
+      "bad line (17 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (17 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (11 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (11 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (13 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (39 fields): train/02fd0af7-51ab46bb-c13_jpg.rf.cdba8c77d456069e5c0b3247a04d71a0.txt",
+      "bad line (17 fields): train/04ff146c-13216e9b-c11_jpg.rf.32c09956d6c3d974b094dbe909ff410d.txt",
+      "bad line (29 fields): train/04ff146c-13216e9b-c11_jpg.rf.32c09956d6c3d974b094dbe909ff410d.txt"
+    ],
+    "n_label_issues": 112059,
+    "internal_dup_groups": 0,
+    "internal_dup_extra_images": 0,
+    "dup_groups_spanning_splits": 0
+  },
+  "cross_dataset": {
+    "common_md5": 0,
+    "final0_images_in_common": 0,
+    "ikkj_images_in_common": 0,
+    "examples": []
+  }
+}

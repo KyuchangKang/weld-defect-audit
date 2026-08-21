@@ -1,0 +1,154 @@
+{
+  "V2_v5m_s43": {
+    "seed": 43,
+    "model": "yolov5mu.pt",
+    "mAP50": 0.6639,
+    "mAP50_95": 0.307,
+    "per_class_ap50": {
+      "Geometric defect": 0.871,
+      "Non-fusion defect": 0.9759,
+      "crack": 0.5236,
+      "porosity": 0.5185,
+      "spatters": 0.4308
+    }
+  },
+  "V2_v5m_s44": {
+    "seed": 44,
+    "model": "yolov5mu.pt",
+    "mAP50": 0.6765,
+    "mAP50_95": 0.3095,
+    "per_class_ap50": {
+      "Geometric defect": 0.8824,
+      "Non-fusion defect": 0.9688,
+      "crack": 0.5055,
+      "porosity": 0.6104,
+      "spatters": 0.4154
+    }
+  },
+  "V2_v12m_s43": {
+    "seed": 43,
+    "model": "yolo12m.pt",
+    "mAP50": 0.6581,
+    "mAP50_95": 0.3028,
+    "per_class_ap50": {
+      "Geometric defect": 0.835,
+      "Non-fusion defect": 0.968,
+      "crack": 0.5398,
+      "porosity": 0.5271,
+      "spatters": 0.4204
+    }
+  },
+  "V2_v12m_s44": {
+    "seed": 44,
+    "model": "yolo12m.pt",
+    "mAP50": 0.6723,
+    "mAP50_95": 0.3215,
+    "per_class_ap50": {
+      "Geometric defect": 0.8512,
+      "Non-fusion defect": 0.9638,
+      "crack": 0.5723,
+      "porosity": 0.5653,
+      "spatters": 0.4088
+    }
+  },
+  "V3_raw_s43": {
+    "seed": 43,
+    "model": "yolov5nu.pt",
+    "mAP50": 0.8389,
+    "mAP50_95": 0.4492,
+    "per_class_ap50": {
+      "Geometric defect": 0.8966,
+      "Non-fusion defect": 0.9418,
+      "crack": 0.7397,
+      "porosity": 0.7291,
+      "spatters": 0.8873
+    }
+  },
+  "V3_raw_s44": {
+    "seed": 44,
+    "model": "yolov5nu.pt",
+    "mAP50": 0.8233,
+    "mAP50_95": 0.4351,
+    "per_class_ap50": {
+      "Geometric defect": 0.928,
+      "Non-fusion defect": 0.9324,
+      "crack": 0.6622,
+      "porosity": 0.7302,
+      "spatters": 0.8638
+    }
+  },
+  "V4_dedup_s42": {
+    "seed": 42,
+    "model": "yolov5nu.pt",
+    "mAP50": 0.5527,
+    "mAP50_95": 0.2276,
+    "per_class_ap50": {
+      "Geometric defect": 0.7085,
+      "Non-fusion defect": 0.8511,
+      "crack": 0.345,
+      "porosity": 0.3911,
+      "spatters": 0.4676
+    }
+  },
+  "summary": {
+    "V2_stage1_3seed_valid": {
+      "v5mu": {
+        "mean": 0.6732,
+        "std": 0.0081,
+        "values": [
+          0.6791,
+          0.6639,
+          0.6765
+        ]
+      },
+      "yolo12m": {
+        "mean": 0.668,
+        "std": 0.0086,
+        "values": [
+          0.6735,
+          0.6581,
+          0.6723
+        ]
+      }
+    },
+    "V2_stage2_3seed_valid": {
+      "v5nu": {
+        "mean": 0.6606,
+        "std": 0.0187,
+        "values": [
+          0.6808,
+          0.6439,
+          0.6571
+        ]
+      },
+      "v5mu": {
+        "mean": 0.6732,
+        "std": 0.0081,
+        "values": [
+          0.6791,
+          0.6639,
+          0.6765
+        ]
+      }
+    },
+    "V3_a_3seed_raw_test": {
+      "mean": 0.8312,
+      "std": 0.0078,
+      "values": [
+        0.8313,
+        0.8389,
+        0.8233
+      ]
+    },
+    "V4_dedup_valid_mAP50": 0.5527,
+    "V4_baseline_valid_3seed": {
+      "mean": 0.6606,
+      "std": 0.0187,
+      "values": [
+        0.6808,
+        0.6439,
+        0.6571
+      ]
+    }
+  }
+}

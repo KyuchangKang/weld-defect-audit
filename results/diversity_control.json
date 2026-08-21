@@ -1,0 +1,23 @@
+{
+ "n_train_files": 495,
+ "epochs": 720,
+ "image_passes": 356400,
+ "reference": {
+  "full_3567_files_100ep_valid_mAP50_3seed": 0.6606,
+  "dedup_495_files_100ep_valid_mAP50": 0.5527,
+  "full_image_passes": 356700
+ },
+ "valid_mAP50": 0.57,
+ "valid_mAP50_95": 0.2558,
+ "per_class_ap50": {
+  "Geometric defect": 0.7337,
+  "Non-fusion defect": 0.8771,
+  "crack": 0.3633,
+  "porosity": 0.4363,
+  "spatters": 0.4394
+ },
+ "interpretation": {
+  "budget_matched_gap_vs_full": 0.0906,
+  "note": "budget-matched gap = diversity effect; 0.108 - this = volume effect"
+ }
+}

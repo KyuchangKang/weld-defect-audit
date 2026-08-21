@@ -1,0 +1,155 @@
+{
+  "checks": [
+    {
+      "name": "train: image count == 3567",
+      "ok": true,
+      "detail": "actual 3567"
+    },
+    {
+      "name": "train: label count == 3567",
+      "ok": true,
+      "detail": "actual 3567"
+    },
+    {
+      "name": "train: image-label 1:1",
+      "ok": true,
+      "detail": "img-only 0, lbl-only 0"
+    },
+    {
+      "name": "train: label format (5-col)",
+      "ok": true,
+      "detail": "bad lines 0"
+    },
+    {
+      "name": "train: class/coord range",
+      "ok": true,
+      "detail": "out-of-range 0"
+    },
+    {
+      "name": "train: all 5 classes present",
+      "ok": true,
+      "detail": "{0: 1307, 1: 682, 2: 1044, 3: 1789, 4: 4353}"
+    },
+    {
+      "name": "train: instance counts == CLAUDE.md record",
+      "ok": true,
+      "detail": "actual {0: 1307, 1: 682, 2: 1044, 3: 1789, 4: 4353}"
+    },
+    {
+      "name": "valid: image count == 142",
+      "ok": true,
+      "detail": "actual 142"
+    },
+    {
+      "name": "valid: label count == 142",
+      "ok": true,
+      "detail": "actual 142"
+    },
+    {
+      "name": "valid: image-label 1:1",
+      "ok": true,
+      "detail": "img-only 0, lbl-only 0"
+    },
+    {
+      "name": "valid: label format (5-col)",
+      "ok": true,
+      "detail": "bad lines 0"
+    },
+    {
+      "name": "valid: class/coord range",
+      "ok": true,
+      "detail": "out-of-range 0"
+    },
+    {
+      "name": "valid: all 5 classes present",
+      "ok": true,
+      "detail": "{0: 110, 1: 38, 2: 41, 3: 23, 4: 76}"
+    },
+    {
+      "name": "test: image count == 71",
+      "ok": true,
+      "detail": "actual 71"
+    },
+    {
+      "name": "test: label count == 71",
+      "ok": true,
+      "detail": "actual 71"
+    },
+    {
+      "name": "test: image-label 1:1",
+      "ok": true,
+      "detail": "img-only 0, lbl-only 0"
+    },
+    {
+      "name": "test: label format (5-col)",
+      "ok": true,
+      "detail": "bad lines 0"
+    },
+    {
+      "name": "test: class/coord range",
+      "ok": true,
+      "detail": "out-of-range 0"
+    },
+    {
+      "name": "test: all 5 classes present",
+      "ok": true,
+      "detail": "{0: 58, 1: 22, 2: 22, 3: 16, 4: 40}"
+    },
+    {
+      "name": "test: instance counts == CLAUDE.md record",
+      "ok": true,
+      "detail": "actual {0: 58, 1: 22, 2: 22, 3: 16, 4: 40}"
+    },
+    {
+      "name": "manifest: row count == total files",
+      "ok": true,
+      "detail": "actual 3780"
+    },
+    {
+      "name": "train: files == manifest new_id",
+      "ok": true,
+      "detail": "file-only 0, manifest-only 0"
+    },
+    {
+      "name": "valid: files == manifest new_id",
+      "ok": true,
+      "detail": "file-only 0, manifest-only 0"
+    },
+    {
+      "name": "test: files == manifest new_id",
+      "ok": true,
+      "detail": "file-only 0, manifest-only 0"
+    },
+    {
+      "name": "parent-level split leak == 0",
+      "ok": true,
+      "detail": "0 leaking parents"
+    }
+  ],
+  "pass": true,
+  "train_instances": {
+    "0": 1307,
+    "1": 682,
+    "2": 1044,
+    "3": 1789,
+    "4": 4353
+  },
+  "train_empty_labels": 35,
+  "valid_instances": {
+    "0": 110,
+    "1": 38,
+    "2": 41,
+    "3": 23,
+    "4": 76
+  },
+  "valid_empty_labels": 0,
+  "test_instances": {
+    "0": 58,
+    "1": 22,
+    "2": 22,
+    "3": 16,
+    "4": 40
+  },
+  "test_empty_labels": 0,
+  "n_parents": 686
+}

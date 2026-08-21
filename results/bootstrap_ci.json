@@ -1,0 +1,125 @@
+{
+  "n_boot": 1000,
+  "validation": {
+    "E2_v5n": {
+      "Geometric defect": -0.0159,
+      "Non-fusion defect": -0.0083,
+      "crack": -0.0766,
+      "porosity": 0.0351,
+      "spatters": 0.0399
+    },
+    "E3_v5n_s43": {
+      "Geometric defect": -0.0183,
+      "Non-fusion defect": -0.0565,
+      "crack": -0.0981,
+      "porosity": -0.1271,
+      "spatters": -0.0022
+    },
+    "E3_v5n_s44": {
+      "Geometric defect": -0.0665,
+      "Non-fusion defect": -0.0602,
+      "crack": -0.1981,
+      "porosity": 0.0224,
+      "spatters": 0.0253
+    }
+  },
+  "per_run_full": {
+    "E2_v5n": {
+      "Geometric defect": 0.8368,
+      "Non-fusion defect": 0.8172,
+      "crack": 0.3179,
+      "porosity": 0.2427,
+      "spatters": 0.6448
+    },
+    "E3_v5n_s43": {
+      "Geometric defect": 0.8121,
+      "Non-fusion defect": 0.719,
+      "crack": 0.1833,
+      "porosity": 0.2472,
+      "spatters": 0.4867
+    },
+    "E3_v5n_s44": {
+      "Geometric defect": 0.8414,
+      "Non-fusion defect": 0.7521,
+      "crack": 0.2598,
+      "porosity": 0.3375,
+      "spatters": 0.5341
+    }
+  },
+  "bootstrap_ci_95": {
+    "Geometric defect": {
+      "ci": [
+        0.7505,
+        0.9033
+      ],
+      "n_boot_valid": 1000
+    },
+    "Non-fusion defect": {
+      "ci": [
+        0.4887,
+        0.9785
+      ],
+      "n_boot_valid": 1000
+    },
+    "crack": {
+      "ci": [
+        0.1285,
+        0.495
+      ],
+      "n_boot_valid": 1000
+    },
+    "porosity": {
+      "ci": [
+        0.1628,
+        0.5179
+      ],
+      "n_boot_valid": 995
+    },
+    "spatters": {
+      "ci": [
+        0.4097,
+        0.7428
+      ],
+      "n_boot_valid": 994
+    },
+    "overall_mAP50": {
+      "ci": [
+        0.4724,
+        0.643
+      ]
+    }
+  },
+  "pre_correction_labels_3seed_mean": {
+    "Geometric defect": 0.8301,
+    "Non-fusion defect": 0.7628,
+    "crack": 0.2537,
+    "porosity": 0.3564,
+    "spatters": 0.5552,
+    "overall_mAP50": 0.5516
+  },
+  "residual_dup_excluded": {
+    "excluded_test_images": [
+      "test_00015",
+      "test_00033",
+      "test_00034",
+      "test_00035",
+      "test_00036",
+      "test_00037",
+      "test_00038",
+      "test_00039",
+      "test_00040",
+      "test_00041",
+      "test_00042",
+      "test_00044"
+    ],
+    "n_kept": 59,
+    "per_class_3seed_mean": {
+      "Geometric defect": 0.8277,
+      "Non-fusion defect": 0.7757,
+      "crack": 0.2539,
+      "porosity": 0.2759,
+      "spatters": 0.5554,
+      "overall_mAP50": 0.5377
+    }
+  }
+}

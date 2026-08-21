@@ -1,0 +1,255 @@
+{
+  "R2_condition_d": {
+    "desc": "clean-trained v5nu (seed42) on RAW leaky test",
+    "mAP50": 0.8472,
+    "mAP50_95": 0.5036,
+    "per_class_ap50": {
+      "Geometric defect": 0.9568,
+      "Non-fusion defect": 0.9415,
+      "crack": 0.7295,
+      "porosity": 0.8448,
+      "spatters": 0.7633
+    }
+  },
+  "R1_resplit": {
+    "rs101": {
+      "split_seed": 101,
+      "train_seed": 42,
+      "summary": {
+        "files": {
+          "train": 3069,
+          "valid": 156,
+          "test": 87
+        },
+        "parents": {
+          "valid": 149,
+          "train": 452,
+          "test": 85
+        },
+        "instances": {
+          "train": {
+            "Geometric defect": 1151,
+            "Non-fusion defect": 590,
+            "porosity": 1568,
+            "crack": 886,
+            "spatters": 3324
+          },
+          "valid": {
+            "Non-fusion defect": 47,
+            "crack": 51,
+            "Geometric defect": 119,
+            "porosity": 26,
+            "spatters": 114
+          },
+          "test": {
+            "Geometric defect": 70,
+            "crack": 30,
+            "Non-fusion defect": 30,
+            "porosity": 23,
+            "spatters": 34
+          }
+        }
+      },
+      "mAP50": 0.6278,
+      "mAP50_95": 0.3264,
+      "per_class_ap50": {
+        "Geometric defect": 0.8921,
+        "Non-fusion defect": 0.9202,
+        "crack": 0.4581,
+        "porosity": 0.4298,
+        "spatters": 0.4388
+      }
+    },
+    "rs102": {
+      "split_seed": 102,
+      "train_seed": 42,
+      "summary": {
+        "files": {
+          "train": 3116,
+          "valid": 158,
+          "test": 84
+        },
+        "parents": {
+          "valid": 152,
+          "train": 451,
+          "test": 83
+        },
+        "instances": {
+          "train": {
+            "Geometric defect": 1181,
+            "Non-fusion defect": 557,
+            "crack": 881,
+            "porosity": 1712,
+            "spatters": 3106
+          },
+          "valid": {
+            "Geometric defect": 125,
+            "Non-fusion defect": 52,
+            "crack": 45,
+            "porosity": 33,
+            "spatters": 83
+          },
+          "test": {
+            "Non-fusion defect": 25,
+            "porosity": 19,
+            "crack": 27,
+            "Geometric defect": 65,
+            "spatters": 72
+          }
+        }
+      },
+      "mAP50": 0.6416,
+      "mAP50_95": 0.3178,
+      "per_class_ap50": {
+        "Geometric defect": 0.7778,
+        "Non-fusion defect": 0.9443,
+        "crack": 0.2151,
+        "porosity": 0.8129,
+        "spatters": 0.458
+      }
+    },
+    "rs103": {
+      "split_seed": 103,
+      "train_seed": 42,
+      "summary": {
+        "files": {
+          "train": 3078,
+          "valid": 163,
+          "test": 84
+        },
+        "parents": {
+          "train": 451,
+          "test": 82,
+          "valid": 153
+        },
+        "instances": {
+          "train": {
+            "Geometric defect": 1209,
+            "Non-fusion defect": 624,
+            "crack": 947,
+            "porosity": 1741,
+            "spatters": 3140
+          },
+          "valid": {
+            "Geometric defect": 129,
+            "Non-fusion defect": 44,
+            "crack": 47,
+            "porosity": 28,
+            "spatters": 104
+          },
+          "test": {
+            "Non-fusion defect": 30,
+            "porosity": 16,
+            "Geometric defect": 62,
+            "crack": 27,
+            "spatters": 56
+          }
+        }
+      },
+      "mAP50": 0.6667,
+      "mAP50_95": 0.3067,
+      "per_class_ap50": {
+        "Geometric defect": 0.8278,
+        "Non-fusion defect": 0.9382,
+        "crack": 0.3872,
+        "porosity": 0.6107,
+        "spatters": 0.5695
+      }
+    },
+    "rs104": {
+      "split_seed": 104,
+      "train_seed": 42,
+      "summary": {
+        "files": {
+          "train": 3160,
+          "valid": 160,
+          "test": 89
+        },
+        "parents": {
+          "train": 447,
+          "valid": 151,
+          "test": 88
+        },
+        "instances": {
+          "train": {
+            "Geometric defect": 1133,
+            "Non-fusion defect": 569,
+            "crack": 903,
+            "porosity": 1902,
+            "spatters": 3790
+          },
+          "valid": {
+            "Geometric defect": 133,
+            "Non-fusion defect": 48,
+            "crack": 45,
+            "porosity": 26,
+            "spatters": 93
+          },
+          "test": {
+            "Geometric defect": 64,
+            "Non-fusion defect": 30,
+            "crack": 30,
+            "porosity": 17,
+            "spatters": 56
+          }
+        }
+      },
+      "mAP50": 0.6733,
+      "mAP50_95": 0.3162,
+      "per_class_ap50": {
+        "Geometric defect": 0.8045,
+        "Non-fusion defect": 0.8417,
+        "crack": 0.409,
+        "porosity": 0.7963,
+        "spatters": 0.515
+      }
+    }
+  },
+  "R3_arch2": {
+    "raw": {
+      "desc": "YOLO11n raw-trained on raw leaky test (a')",
+      "mAP50": 0.8356,
+      "mAP50_95": 0.4476,
+      "per_class_ap50": {
+        "Geometric defect": 0.9357,
+        "Non-fusion defect": 0.9308,
+        "crack": 0.7124,
+        "porosity": 0.7298,
+        "spatters": 0.8695
+      }
+    },
+    "clean": {
+      "desc": "YOLO11n clean-trained on clean test (c')",
+      "mAP50": 0.5603,
+      "mAP50_95": 0.2867,
+      "per_class_ap50": {
+        "Geometric defect": 0.899,
+        "Non-fusion defect": 0.7662,
+        "crack": 0.3675,
+        "porosity": 0.2543,
+        "spatters": 0.5146
+      }
+    }
+  },
+  "summary": {
+    "a_raw": 0.8313,
+    "c_gate_d_split42": 0.577,
+    "c_resplits": [
+      0.6278,
+      0.6416,
+      0.6667,
+      0.6733
+    ],
+    "c_all_splits_mean": 0.6373,
+    "c_all_splits_std": 0.0384,
+    "inflation_mean": 0.194,
+    "inflation_per_split": [
+      0.2035,
+      0.1897,
+      0.1646,
+      0.158,
+      0.2543
+    ],
+    "arch2_inflation": 0.2753
+  }
+}

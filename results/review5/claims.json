@@ -1,0 +1,127 @@
+{
+  "M1_leakage_mechanism": {
+    "train": {
+      "files": 4027,
+      "augmented": 1125,
+      "pct": 27.9,
+      "tiles": 992
+    },
+    "valid": {
+      "files": 621,
+      "augmented": 308,
+      "pct": 49.6,
+      "tiles": 106
+    },
+    "test": {
+      "files": 310,
+      "augmented": 162,
+      "pct": 52.3,
+      "tiles": 44
+    },
+    "roboflow_readme_states_no_augmentation": true,
+    "preprocessing_declared": [
+      "collaborate with your team on computer vision projects",
+      "collect & organize images",
+      "understand and search unstructured image data",
+      "annotate, and create datasets"
+    ]
+  },
+  "M2_bisection_composition": {
+    "unseen": {
+      "n_images": 30,
+      "classes": {
+        "Geometric defect": {
+          "instances": 36,
+          "images": 22
+        },
+        "Non-fusion defect": {
+          "instances": 3,
+          "images": 3
+        },
+        "crack": {
+          "instances": 9,
+          "images": 5
+        },
+        "porosity": {
+          "instances": 5,
+          "images": 3
+        },
+        "spatters": {
+          "instances": 0,
+          "images": 0
+        }
+      },
+      "web_style_filenames": 8,
+      "web_files": [
+        "AFig10_jpg.rf.ac349dd1df00ddbc00f3e6861832a0f5.jpg",
+        "Cratere-8-_jpg.rf.abc8c79899f8f953e9a2b3efb37c93bd.jpg",
+        "Screenshot-2023-02-08-103119_png_jpg.rf.782ace30bde8f1986c038d66bd494013.jpg",
+        "causes-of-casting-cracks-and-six-kinds-of-common-defects-and-their-prevention_jpg.rf.d896693aaf94f6d0f52a7ad9516b2a5d.jpg",
+        "images-4-_jpg.rf.95e751d2dd5f190aa0a84a4e9a1b1633.jpg",
+        "maxresdefault_jpg.rf.6b01fd39753523d0079dbce064222557.jpg",
+        "weld_new-22-_jpg.rf.3527ed83aa17df04430ba0f9ae492d68.jpg",
+        "welds_imperfections-82-_jpg.rf.b06d42fa7b2363f2021c3f1b4541047b.jpg"
+      ]
+    },
+    "seen": {
+      "n_images": 280,
+      "classes": {
+        "Geometric defect": {
+          "instances": 151,
+          "images": 107
+        },
+        "Non-fusion defect": {
+          "instances": 88,
+          "images": 67
+        },
+        "crack": {
+          "instances": 63,
+          "images": 40
+        },
+        "porosity": {
+          "instances": 135,
+          "images": 56
+        },
+        "spatters": {
+          "instances": 218,
+          "images": 44
+        }
+      }
+    },
+    "clean_test_ood_14_filenames": [
+      "bad_weld_vid369_jpeg_jpg.rf.38efee89b15f38e3908ad933c0cc8b09.jpg",
+      "bad_weld_vid95_jpeg_jpg.rf.26e2a3f0c1e1f794ac2f686bba0d99da.jpg",
+      "common-welding-defects_jpg.rf.033f8f71f439753e4a173d6e01dba239.jpg",
+      "crack-welding-images_17_jpeg_jpg.rf.0b0a8e5af145b7b807f7261c57d2947c.jpg",
+      "Example-of-hydrogen-induced-crack-started-from-an-inclusion-particle-in-a-M-1400-steel_png_jpg.rf.74d85b5ad220adfb7169af8a7d85d136.jpg",
+      "F4767BEC-F5EF-43A5-82F3-46FA537B843D_jpeg_jpg.rf.116736101552ff1b89d70694c144198b.jpg",
+      "Fig472_1_jpg.rf.071d50fe85836b92c6723a04019d7573.jpg",
+      "images-21-_jpeg_jpg.rf.0a8a24f12d3ad9ed852115e2da55aab2.jpg",
+      "IMG_20230131_114143_jpg.rf.06609289a0a946f46b0116cb8a8ee775.jpg",
+      "maxresdefault-1-_jpg.rf.076fad2c486882d302ccbf385940e3cd.jpg",
+      "Screenshot-2023-02-08-103049_png_jpg.rf.0314d24ead34ef801e627194a7af9265.jpg",
+      "welds_imperfections-20-_jpg.rf.4d5c4d33e642fc8873382ff76cb3a8f5.jpg",
+      "11668_2014_9832_Fig2_HTML_jpg.rf.af2e801f8116a04be56ae727e8c5747e.jpg",
+      "AFig11_jpg.rf.101279f783580b19198804ff46242ff0.jpg"
+    ],
+    "web_files_sharing_family_with_confirmed_ood": [
+      [
+        "AFig10_jpg.rf.ac349dd1df00ddbc00f3e6861832a0f5.jpg",
+        "afig"
+      ],
+      [
+        "maxresdefault_jpg.rf.6b01fd39753523d0079dbce064222557.jpg",
+        "maxresdefault"
+      ],
+      [
+        "welds_imperfections-82-_jpg.rf.b06d42fa7b2363f2021c3f1b4541047b.jpg",
+        "welds_imperfections"
+      ]
+    ],
+    "NOTE": "도메인 최종 판정은 육안 확인 필요 — 파일명은 정황증거"
+  },
+  "M7_fps_note": {
+    "source": "e5_speed.csv",
+    "rows": []
+  }
+}

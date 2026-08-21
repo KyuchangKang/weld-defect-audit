@@ -1,0 +1,80 @@
+{
+  "final0": {
+    "unique_sources": 1853,
+    "sources_with_multiple_copies": 235,
+    "SOURCES_SPANNING_SPLITS(LEAKAGE)": 167,
+    "leak_examples": {
+      "20220312232822_14196": {
+        "train": 5,
+        "valid": 2
+      },
+      "22-possible-causes-of-weld-metal-porosity-weld-beads": {
+        "train": 12,
+        "valid": 2,
+        "test": 2
+      },
+      "22": {
+        "train": 3,
+        "valid": 1,
+        "test": 2
+      },
+      "280490384_341760774761935_1655426378473161441_n-copy": {
+        "train": 21,
+        "valid": 1,
+        "test": 1
+      },
+      "282873301_2918577291766217_4612917846671888844_n": {
+        "train": 6,
+        "valid": 1
+      }
+    }
+  },
+  "ikkj": {
+    "unique_sources": 848,
+    "sources_with_multiple_copies": 800,
+    "SOURCES_SPANNING_SPLITS(LEAKAGE)": 472,
+    "leak_examples": {
+      "04ff146c-13216e9b-c11": {
+        "train": 9,
+        "valid": 1
+      },
+      "0d708247-486033a9-c10": {
+        "train": 12,
+        "valid": 2
+      },
+      "0e538f39-1d30436c-c23": {
+        "train": 9,
+        "valid": 1
+      },
+      "1723687d-6dd44d6e-centerline-crack": {
+        "train": 12,
+        "valid": 2
+      },
+      "19cacbd9-61c6b81f-c5": {
+        "train": 15,
+        "valid": 1
+      }
+    }
+  },
+  "cross_dataset_common_sources": 203,
+  "common_examples": [
+    "11668_2014_9832_fig2_html",
+    "20220312232822_14196",
+    "22",
+    "22-possible-causes-of-weld-metal-porosity-weld-beads",
+    "280490384_341760774761935_1655426378473161441_n-copy",
+    "280762807_311425284525653_2090801215891852066_n",
+    "282873301_2918577291766217_4612917846671888844_n",
+    "283629268_531199305145885_2829495833542554566_n",
+    "4-cracks",
+    "720by540-weld-bend-test"
+  ],
+  "common_sources_image_counts": {
+    "final0_train": 2707,
+    "final0_valid": 284,
+    "final0_test": 138,
+    "ikkj_train": 1709,
+    "ikkj_test": 77,
+    "ikkj_valid": 182
+  }
+}

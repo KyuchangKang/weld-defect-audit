@@ -1,0 +1,73 @@
+{
+  "root": "D:/Sync/Dropbox/paper_wedling2/04_experiments/data/prior_gts/The Welding Defect Dataset",
+  "splits": {
+    "train": {
+      "dir": "D:\\Sync\\Dropbox\\paper_wedling2\\04_experiments\\data\\prior_gts\\The Welding Defect Dataset\\train\\images",
+      "n_images": 839
+    },
+    "valid": {
+      "dir": "D:\\Sync\\Dropbox\\paper_wedling2\\04_experiments\\data\\prior_gts\\The Welding Defect Dataset\\valid\\images",
+      "n_images": 176
+    },
+    "test": {
+      "dir": "D:\\Sync\\Dropbox\\paper_wedling2\\04_experiments\\data\\prior_gts\\The Welding Defect Dataset\\test\\images",
+      "n_images": 74
+    }
+  },
+  "total_images": 1089,
+  "md5": {
+    "unique": 1088,
+    "dup_groups": 1,
+    "cross_split_groups": 0,
+    "cross_split_pairs_example": []
+  },
+  "phash": {
+    "0": {
+      "near_pairs": 58,
+      "cross_split_pairs": 3,
+      "components_total": 1034,
+      "components_multi_image": 48,
+      "components_spanning_splits": 3,
+      "pct_of_multi_spanning": 6.2,
+      "pct_of_all_parents_spanning": 0.3,
+      "redundancy_factor": 1.05
+    },
+    "4": {
+      "near_pairs": 332,
+      "cross_split_pairs": 18,
+      "components_total": 836,
+      "components_multi_image": 169,
+      "components_spanning_splits": 12,
+      "pct_of_multi_spanning": 7.1,
+      "pct_of_all_parents_spanning": 1.4,
+      "redundancy_factor": 1.3
+    },
+    "8": {
+      "near_pairs": 479,
+      "cross_split_pairs": 32,
+      "components_total": 759,
+      "components_multi_image": 202,
+      "components_spanning_splits": 19,
+      "pct_of_multi_spanning": 9.4,
+      "pct_of_all_parents_spanning": 2.5,
+      "redundancy_factor": 1.43
+    }
+  },
+  "filename_lineage": {
+    "train": {
+      "files": 839,
+      "augmented_suffix": 7,
+      "pct": 0.8
+    },
+    "valid": {
+      "files": 176,
+      "augmented_suffix": 2,
+      "pct": 1.1
+    },
+    "test": {
+      "files": 74,
+      "augmented_suffix": 2,
+      "pct": 2.7
+    }
+  }
+}
