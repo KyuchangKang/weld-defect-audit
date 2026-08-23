@@ -1,0 +1,28 @@
+{
+ "archive_filename": "welding defect final0.v1i.yolov8.zip",
+ "archive_md5": "76fcb391b1c7a5ec1b5ef88830ba5ff2",
+ "archive_md5_matches_paper_reference": true,
+ "source": "Roboflow Universe, kaid-al \"welding defect final0\" v1 (YOLOv8 export), CC BY 4.0; reference [22] of the paper",
+ "contents": {
+  "files": 9919,
+  "total_bytes": 339829003,
+  "by_extension": {
+   "jpg": 4958,
+   "txt": 4960,
+   "yaml": 1
+  },
+  "by_top_level_dir": {
+   "test": 620,
+   "train": 8054,
+   "valid": 1242
+  },
+  "distinct_md5": 7865,
+  "files_sharing_an_md5": 2970
+ },
+ "purpose": "Per-file integrity reference for the source distribution. Image and label files themselves are not redistributed here; this manifest lets a reader confirm that a copy obtained from the original source is byte-identical to the one audited.",
+ "how_to_verify": "Download the archive from the URL in reference [22], then run scripts/make_source_manifest.py --verify. It recomputes every per-file MD5 and reports any path that is missing, extra, or different.",
+ "related": {
+  "cleaned_split_manifest": "manifest/final0_clean_manifest.csv",
+  "audit_scripts": "scripts/"
+ }
+}

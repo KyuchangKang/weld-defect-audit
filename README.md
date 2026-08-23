@@ -9,8 +9,10 @@ Audit, cleaning and leakage-quantification materials for
 
 | Path | Contents |
 |---|---|
-| `scripts/` | Audit, re-splitting, training, evaluation and analysis scripts (30 files) |
+| `scripts/` | Audit, re-splitting, training, evaluation and analysis scripts (31 files) |
 | `manifest/final0_clean_manifest.csv` | Per-file record: new ID, split, original split, original filename, stem, content ID, parent ID |
+| `manifest/source_archive_manifest.csv` | Per-file integrity reference for the **source** distribution: path, size and MD5 for all 9,919 archive entries |
+| `manifest/source_archive_manifest.json` | Archive MD5, entry statistics and the verification procedure for the above |
 | `manifest/*.json` | Integrity-check outputs for the cleaned split and the screening audits |
 | `scripts/review5/` | Follow-up analyses added in revision: leakage-mechanism evidence, audit of the preceding study's dataset, cross-dataset overlap, the bisection's domain/class composition control, and the post-hoc medium-model test evaluation |
 | `results/review5/` | JSON outputs of the above (measured values quoted in Sections 3.1, 4.1, 4.3 and 4.4) |
@@ -27,13 +29,29 @@ The image files themselves are not redistributed. The source distribution is
 Download that archive and run `scripts/build_clean2.py` with the manifest to reconstruct the cleaned
 split (3,567 / 142 / 71 files) exactly as used in the paper.
 
+Because a community distribution can be updated or withdrawn, `manifest/source_archive_manifest.csv`
+records the size and MD5 of every file in the archive we audited. To confirm that a copy obtained
+later is byte-identical to ours:
+
+```
+python scripts/make_source_manifest.py --verify
+```
+
+It recomputes every per-file hash and reports any path that is missing, extra or different. The
+manifest carries hashes only, not image data, so it redistributes nothing.
+
+For reference, the archive holds 4,958 images and 4,958 labels, split 4,027 / 621 / 310 by the
+distributor. Only two image pairs are byte-identical: the 7.2-fold redundancy the paper reports is
+carried by pre-generated rotations, flips and tiles, which MD5 comparison alone cannot detect.
+
 ## Reproducing the audit
 
-1. `scripts/analyze_datasets.py` — MD5 duplicates and filename-lineage grouping
-2. `scripts/parent_stats.py` — content and parent grouping, split-leakage counts
-3. `scripts/phash_validate.py` — perceptual-hash cross-validation of the grouping (thresholds 0/4/8)
-4. `scripts/build_clean2.py` — parent-level stratified re-split
-5. `scripts/train_runs.py`, `scripts/eval_gate_d.py` — training and the sealed test evaluation
+1. `scripts/make_source_manifest.py --verify` — confirm the archive matches the one audited
+2. `scripts/analyze_datasets.py` — MD5 duplicates and filename-lineage grouping
+3. `scripts/parent_stats.py` — content and parent grouping, split-leakage counts
+4. `scripts/phash_validate.py` — perceptual-hash cross-validation of the grouping (thresholds 0/4/8)
+5. `scripts/build_clean2.py` — parent-level stratified re-split
+6. `scripts/train_runs.py`, `scripts/eval_gate_d.py` — training and the sealed test evaluation
 
 Paths in the scripts are absolute and reflect the original workstation; adjust `BASE` at the top of
 each file before running.
