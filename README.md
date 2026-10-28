@@ -9,7 +9,11 @@ Audit, cleaning and leakage-quantification materials for
 
 | Path | Contents |
 |---|---|
-| `scripts/` | Audit, re-splitting, training, evaluation and analysis scripts (31 files) |
+| `scripts/` | Audit, re-splitting, training, evaluation and analysis scripts of the original submission (31 files) |
+| `requirements.txt` | Pinned software environment used for every reported run |
+| `configs/runs_config.csv` | Configuration of all 34 training runs, extracted from each run's own `args.yaml` (model, data, epochs, batch, image size, learning rate, seed, workers, augmentation settings) |
+| `scripts/revision1/`, `results/revision1/` | First-revision analyses: grouping-rule sensitivity, leaking-parent recount (407 of 686), per-split class and parent distribution, the reproducible OpenAlex literature search |
+| `scripts/revision2/`, `results/revision2/` | Second-revision analyses: budget-matched comparison of retained copies with online 90° rotation and vertical flip (five runs), and the script that builds `configs/runs_config.csv` |
 | `manifest/final0_clean_manifest.csv` | Per-file record: new ID, split, original split, original filename, stem, content ID, parent ID |
 | `manifest/source_archive_manifest.csv` | Per-file integrity reference for the **source** distribution: path, size and MD5 for all 9,919 archive entries |
 | `manifest/source_archive_manifest.json` | Archive MD5, entry statistics and the verification procedure for the above |
@@ -48,13 +52,32 @@ carried by pre-generated rotations, flips and tiles, which MD5 comparison alone 
 
 1. `scripts/make_source_manifest.py --verify` — confirm the archive matches the one audited
 2. `scripts/analyze_datasets.py` — MD5 duplicates and filename-lineage grouping
-3. `scripts/parent_stats.py` — content and parent grouping, split-leakage counts
+3. `scripts/revision1/leak_recount.py` — content and parent grouping and split-leakage counts (708 content groups,
+   686 parents, 407 leaking); run from the repository root
 4. `scripts/phash_validate.py` — perceptual-hash cross-validation of the grouping (thresholds 0/4/8)
 5. `scripts/build_clean2.py` — parent-level stratified re-split
 6. `scripts/train_runs.py`, `scripts/eval_gate_d.py` — training and the sealed test evaluation
 
+`scripts/parent_stats.py` is a preliminary grouping pass from before the rules of Section 3.1 were fixed (it
+yields 950 parents). It is kept for the record; no reported number comes from it.
+
 Paths in the scripts are absolute and reflect the original workstation; adjust `BASE` at the top of
 each file before running.
+
+## Software and configuration
+
+All runs used Python 3.14.6, PyTorch 2.11.0 (CUDA 12.8 build), Ultralytics 8.4.118 and ImageHash 4.3.2 on one
+NVIDIA RTX PRO 5000 Blackwell (driver 595.97) under Windows 11; `requirements.txt` pins the rest. Do not install
+`albumentations`: when it is present, Ultralytics adds blur, median blur, grayscale and CLAHE (each with probability 0.01) to the default training
+pipeline, which changes the training conditions reported in the paper.
+
+Every run is fine-tuned from COCO weights with the Ultralytics defaults except where `configs/runs_config.csv` shows
+otherwise: 100 epochs (720 for the 495-image budget-matched runs), batch 16, 640 px, lr0 0.01, `cache=False`,
+`deterministic=True`, training seeds 42 to 44, split seeds 101 to 104 for the robustness re-splits. The number of
+data-loader workers was not held fixed: it was 8 in 20 runs and 4 in 14, including within one model's seed
+repetitions, and the table records it per run. The 2nd-revision rotation is applied by `scripts/revision2/rot90_patch.py`, which wraps the dataset
+loader so that each image is rotated by a uniformly drawn multiple of 90° before mosaic; vertical flip uses the
+standard `flipud=0.5` setting.
 
 ## Licence
 

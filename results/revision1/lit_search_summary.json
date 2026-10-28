@@ -1,0 +1,269 @@
+{
+ "run_date": "2026-09-29",
+ "database": "OpenAlex",
+ "filter": "from_publication_date:2023-01-01,to_publication_date:2026-08-24,type:article",
+ "queries": {
+  "Q1": {
+   "query": "(weld OR welding) AND defect AND (YOLO OR \"object detection\" OR \"deep learning\")",
+   "count": 5023,
+   "retrieved": 5023,
+   "weld_defect_topic": 564,
+   "with_abstract": 495,
+   "integrity_term_hits": [
+    {
+     "id": "https://openalex.org/W4391103873",
+     "doi": "https://doi.org/10.1038/s41598-024-52451-3",
+     "year": 2024,
+     "title": "Research on surface defect detection algorithm of pipeline weld based on YOLOv7",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4409774931",
+     "doi": "https://doi.org/10.3390/math13091382",
+     "year": 2025,
+     "title": "A Noise-Robust Deep-Learning Framework for Weld-Defect Detection in Magnetic Flux Leakage Systems",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4414672129",
+     "doi": "https://doi.org/10.24012/dumf.1642978",
+     "year": 2025,
+     "title": "Advancing Welding Quality through Intelligent TIG Welding: A Hybrid Deep Learning Approach for Defect Detection and Quality Monitoring",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4403924390",
+     "doi": "https://doi.org/10.3390/pr12112396",
+     "year": 2024,
+     "title": "Quantitative Evaluation of Deformation in High-Speed Magnetic Flux Leakage Signals for Weld Defects in Oil and Gas Pipelines",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7130833320",
+     "doi": "https://doi.org/10.1007/s44196-026-01197-z",
+     "year": 2026,
+     "title": "Visual Weld Quality Inspection System for Identifying Defects in GMAW Joints with Semantic Segmentation on Pre-trained Models",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7115700241",
+     "doi": "https://doi.org/10.1016/j.petsci.2025.12.020",
+     "year": 2025,
+     "title": "Advances in intelligent defect recognition method for oil and gas pipeline weld X-ray image",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4410359973",
+     "doi": "https://doi.org/10.22214/ijraset.2025.70803",
+     "year": 2025,
+     "title": "Comprehensive Research on Welding Defects: Classification, Causes, Detection, and Prevention",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7147553482",
+     "doi": "https://doi.org/10.1016/j.compeleceng.2026.111135",
+     "year": 2026,
+     "title": "A hybrid Swin–DeiT transformer framework for automated welding defect detection in radiographic images",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4416971338",
+     "doi": "https://doi.org/10.1007/s40194-025-02221-0",
+     "year": 2025,
+     "title": "Shear force sensors for process monitoring in ultrasonic metal welding—design, calibration, and validation",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7125774940",
+     "doi": "https://doi.org/10.3390/jmmp10020044",
+     "year": 2026,
+     "title": "Machine Learning for In Situ Quality Assessment and Defect Diagnosis in Refill Friction Stir Spot Welding",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7133238792",
+     "doi": "https://doi.org/10.1016/j.jpse.2026.100468",
+     "year": 2026,
+     "title": "A magnetic flux leakage inspection defect identification method for hydrogen-blended pipelines based on a hybrid 1D-CNN-LSTM neural network",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4409367965",
+     "doi": "https://doi.org/10.38124/ijisrt/25mar1806",
+     "year": 2025,
+     "title": "Automated Metallic Weld Defect Detection",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7121390414",
+     "doi": "https://doi.org/10.1007/s44163-025-00789-6",
+     "year": 2026,
+     "title": "Hybrid machine learning models for automated classification of weld defects in gas metal arc robotic welding",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7162287954",
+     "doi": "https://doi.org/10.3390/s26113354",
+     "year": 2026,
+     "title": "MGDR-YOLO: An Efficient Multi-Backbone YOLOv11 Framework for X-Ray Weld Defect Inspection",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7166815162",
+     "doi": "https://doi.org/10.3390/app16136579",
+     "year": 2026,
+     "title": "A Boundary-Guided Feature Modulation Network for Weld Radiographic Defect Segmentation",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7164755953",
+     "doi": "https://doi.org/10.1080/10589759.2026.2686348",
+     "year": 2026,
+     "title": "Systematic evaluation and benchmarking of YOLOv11, YOLOv12, and YOLOv13 for pipeline weld defect detection via Magnetic flux Leakage",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7125169079",
+     "doi": "https://doi.org/10.24127/trb.v14i2.4588",
+     "year": 2025,
+     "title": "Effect of Current Variation on the Mechanical Properties and Microstructure of GTAW-Welded SS400 Steel",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W4385391323",
+     "doi": "https://doi.org/10.58286/28172",
+     "year": 2023,
+     "title": "Magnetic crawler for welds Visual Testing, based on 3D profilometry and 2D image processing",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7202241443",
+     "doi": "https://doi.org/10.1016/j.procir.2026.07.097",
+     "year": 2026,
+     "title": "Impact of contaminations on spatter formation and quality during battery contacting by using laser beam welding",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "contaminat"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7165550101",
+     "doi": "https://doi.org/10.62677/ijetaa.2605149",
+     "year": 2026,
+     "title": "A Review of the Development and Application of ArtificialIntelligence in the Safety Inspection of Chemical Storage Tanks",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7172109907",
+     "doi": "https://doi.org/10.36948/ijfmr.2026.v08i04.84975",
+     "year": 2026,
+     "title": "Inspection and Quality Assurance of Welded Steel Storage Tanks: An API 650-Based Framework for Safe Construction and Long-Term Reliability",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7155529403",
+     "doi": "https://doi.org/10.3390/pr14091360",
+     "year": 2026,
+     "title": "Research on ADTH-DTW-Based Alignment Method for Multi-Round In-Line Inspection Data of Oil and Gas Pipelines",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    },
+    {
+     "id": "https://openalex.org/W7202379320",
+     "doi": "https://doi.org/10.36910/775.24153966.2026.86.19",
+     "year": 2026,
+     "title": "ІНТЕЛЕКТУАЛЬНА СИСТЕМА МОНІТОРИНГУ ТЕХНІЧНОГО СТАНУ НАЗЕМНОГО ТРУБОПРОВОДУ",
+     "has_abstract": true,
+     "weld_defect_topic": true,
+     "integrity_terms": [
+      "leak"
+     ]
+    }
+   ]
+  }
+ }
+}

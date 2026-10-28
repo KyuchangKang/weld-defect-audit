@@ -1,0 +1,21 @@
+{
+ "condition": "B",
+ "seed": 43,
+ "epochs": 720,
+ "train_files": 495,
+ "image_passes": 356400,
+ "online_aug_extra": {
+  "flipud": 0.0,
+  "rot90": false
+ },
+ "valid_mAP50": 0.5888,
+ "valid_mAP50_95": 0.2569,
+ "per_class_ap50": {
+  "Geometric defect": 0.7711,
+  "Non-fusion defect": 0.9093,
+  "crack": 0.4695,
+  "porosity": 0.3721,
+  "spatters": 0.422
+ },
+ "train_seconds": 2209.8
+}

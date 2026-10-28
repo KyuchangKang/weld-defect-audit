@@ -1,0 +1,35 @@
+run,model,data,epochs,batch,imgsz,lr0,seed,workers,cache,patience,optimizer,momentum,weight_decay,warmup_epochs,close_mosaic,mosaic,mixup,degrees,translate,scale,fliplr,flipud,hsv_h,hsv_s,hsv_v,deterministic,amp
+E0_v8s,yolov8s.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E1_v11m,yolo11m.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E1_v12m,yolo12m.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E1_v3u,yolov3u.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E1_v5m,yolov5mu.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E1_v8m,yolov8m.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E2_v5l,yolov5lu.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E2_v5n,yolov5nu.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E2_v5s,yolov5su.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E2_v5x,yolov5xu.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E3_v5n_s43,yolov5nu.pt,final0_clean,100,16,640,0.01,43,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E3_v5n_s44,yolov5nu.pt,final0_clean,100,16,640,0.01,44,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+E4_v5n_raw,yolov5nu.pt,final0,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+aug_r2/B_s43,yolov5nu.pt,dedup495 (exp_aug_dihedral.py),720,16,640,0.01,43,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+aug_r2/B_s44,yolov5nu.pt,dedup495 (exp_aug_dihedral.py),720,16,640,0.01,44,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+aug_r2/C_s42,yolov5nu.pt,dedup495 (exp_aug_dihedral.py),720,16,640,0.01,42,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.5,0.015,0.7,0.4,True,True
+aug_r2/C_s43,yolov5nu.pt,dedup495 (exp_aug_dihedral.py),720,16,640,0.01,43,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.5,0.015,0.7,0.4,True,True
+aug_r2/C_s44,yolov5nu.pt,dedup495 (exp_aug_dihedral.py),720,16,640,0.01,44,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.5,0.015,0.7,0.4,True,True
+ctrl/av_run,yolov5nu.pt,ctrl/data_av,100,16,640,0.01,42,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+diversity/run720,yolov5nu.pt,dedup495 (exp_diversity.py),720,16,640,0.01,42,4,False,720,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V2_v12m_s43,yolo12m.pt,final0_clean,100,16,640,0.01,43,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V2_v12m_s44,yolo12m.pt,final0_clean,100,16,640,0.01,44,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V2_v5m_s43,yolov5mu.pt,final0_clean,100,16,640,0.01,43,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V2_v5m_s44,yolov5mu.pt,final0_clean,100,16,640,0.01,44,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V3_raw_s43,yolov5nu.pt,final0,100,16,640,0.01,43,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V3_raw_s44,yolov5nu.pt,final0,100,16,640,0.01,44,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V4_dedup_s42,yolov5nu.pt,upgrade2/dedup_data,100,16,640,0.01,42,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade2/V6_merged_s42,yolov5nu.pt,upgrade2/merged_split,100,16,640,0.01,42,4,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R1_v5n_rs101,yolov5nu.pt,upgrade/resplit_101,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R1_v5n_rs102,yolov5nu.pt,upgrade/resplit_102,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R1_v5n_rs103,yolov5nu.pt,upgrade/resplit_103,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R1_v5n_rs104,yolov5nu.pt,upgrade/resplit_104,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R3_11n_clean,yolo11n.pt,final0_clean,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True
+upgrade/R3_11n_raw,yolo11n.pt,final0,100,16,640,0.01,42,8,False,100,auto,0.937,0.0005,3.0,10,1.0,0.0,0.0,0.1,0.5,0.5,0.0,0.015,0.7,0.4,True,True

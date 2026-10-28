@@ -1,0 +1,7 @@
+{
+ "train_files": 495,
+ "valid_files": 142,
+ "identical_to_M8_dataset": true,
+ "n_entries": 1274,
+ "n_entries_M8": 1274
+}

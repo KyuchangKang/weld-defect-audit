@@ -1,0 +1,18 @@
+# Environment used for every reported run (pinned; Windows 11, NVIDIA RTX PRO 5000 Blackwell,
+# driver 595.97, CUDA 12.8, cuDNN 9.19). Python 3.14.6.
+# torch/torchvision are the CUDA 12.8 builds: pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.4.118
+ImageHash==4.3.2
+numpy==2.4.4
+pillow==12.2.0
+scipy==1.18.0
+PyYAML==6.0.3
+matplotlib==3.11.1
+polars==1.43.2
+psutil==7.2.2
+requests==2.34.2
+certifi==2026.7.22
+# Do NOT install albumentations: if present, Ultralytics silently adds blur, median-blur, grayscale and CLAHE (p=0.01 each) to the
+# default training pipeline, which changes the training conditions reported in the paper.

@@ -1,0 +1,56 @@
+{
+ "train": {
+  "files": 3567,
+  "parents": 480,
+  "instances": {
+   "Geometric defect": 1307,
+   "Non-fusion defect": 682,
+   "crack": 1044,
+   "porosity": 1789,
+   "spatters": 4353
+  },
+  "parents_with_class": {
+   "Geometric defect": 274,
+   "Non-fusion defect": 108,
+   "crack": 103,
+   "porosity": 35,
+   "spatters": 31
+  }
+ },
+ "valid": {
+  "files": 142,
+  "parents": 136,
+  "instances": {
+   "Geometric defect": 110,
+   "Non-fusion defect": 38,
+   "crack": 41,
+   "porosity": 23,
+   "spatters": 76
+  },
+  "parents_with_class": {
+   "Geometric defect": 79,
+   "Non-fusion defect": 30,
+   "crack": 29,
+   "porosity": 9,
+   "spatters": 8
+  }
+ },
+ "test": {
+  "files": 71,
+  "parents": 70,
+  "instances": {
+   "Geometric defect": 58,
+   "Non-fusion defect": 22,
+   "crack": 22,
+   "porosity": 16,
+   "spatters": 40
+  },
+  "parents_with_class": {
+   "Geometric defect": 41,
+   "Non-fusion defect": 16,
+   "crack": 15,
+   "porosity": 5,
+   "spatters": 4
+  }
+ }
+}

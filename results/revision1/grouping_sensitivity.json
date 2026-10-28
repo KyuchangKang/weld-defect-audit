@@ -1,0 +1,32 @@
+{
+ "n_files": 4958,
+ "cross_parent_d4_pairs": 2571,
+ "G0_filename": {
+  "rule": "filename lineage (paper)",
+  "parents": 686,
+  "redundancy": 7.23,
+  "leaking": 407,
+  "leak_pct": 59.3
+ },
+ "G1_pixel_confirmed": {
+  "rule": "split filename parents into d<=8-connected components",
+  "parents": 804,
+  "redundancy": 6.17,
+  "leaking": 465,
+  "leak_pct": 57.8
+ },
+ "G2_adjacent_merged": {
+  "rule": "merge filename parents linked at d<=4",
+  "parents": 569,
+  "redundancy": 8.71,
+  "leaking": 345,
+  "leak_pct": 60.6
+ },
+ "G3_split_and_merged": {
+  "rule": "G1 then merge d<=4 links",
+  "parents": 685,
+  "redundancy": 7.24,
+  "leaking": 403,
+  "leak_pct": 58.8
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "1_unit": {
+  "images": 40,
+  "boxes_x_4_rotations": 332,
+  "max_abs_err_vs_independent_corner_rotation": 7.450580596923828e-08,
+  "pixel_shape_mismatches": 0,
+  "max_mean_abs_diff_crop_vs_rotated_reference": 0.0,
+  "pass": true
+ },
+ "2_pipeline": {
+  "samples_rendered": 16,
+  "file": "2_pipeline_mosaic_C.jpg",
+  "pass": "visual"
+ },
+ "3_k_distribution": {
+  "draws": 2095,
+  "worker_processes_logging": 4,
+  "counts": {
+   "0": 510,
+   "1": 517,
+   "2": 548,
+   "3": 520
+  },
+  "shares": {
+   "0": 0.243,
+   "1": 0.247,
+   "2": 0.262,
+   "3": 0.248
+  },
+  "pass": true
+ }
+}
