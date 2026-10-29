@@ -1,0 +1,10362 @@
+{
+ "pairs": [
+  {
+   "stratum": "U3_link_le4",
+   "a": 921,
+   "b": 931,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0001",
+   "files": [
+    [
+     "train",
+     "8-11-_0_flip_jpg.rf.d6e28dd28f6034a0ed3ed99223c6cd48.jpg"
+    ],
+    [
+     "train",
+     "8-12-_90_flip_jpg.rf.6ef620495b943a49ad86b618f6aea92d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1134,
+   "b": 1135,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0002",
+   "files": [
+    [
+     "train",
+     "9-13-_90_jpg.rf.ae0a92c14b4530e62dc72be0136fa510.jpg"
+    ],
+    [
+     "train",
+     "9-14-_0_jpg.rf.7524f468a58abe2ffff07ea992342a62.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1074,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0003",
+   "files": [
+    [
+     "train",
+     "8-85-_270_jpg.rf.6abc8ab38ec4093ecd413fb9850a9184.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 983,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0004",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1176,
+   "b": 1178,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0005",
+   "files": [
+    [
+     "train",
+     "9-40-_90_jpg.rf.5d45e235a5ce946a9bb09fbf481aef17.jpg"
+    ],
+    [
+     "train",
+     "9-42-_0_flip_jpg.rf.111211c69562d92e2721d06c545ab34b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 453,
+   "b": 454,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0006",
+   "files": [
+    [
+     "train",
+     "7-110-_180_flip_jpg.rf.027e4059d45777015a2a7ff9b41c9a8c.jpg"
+    ],
+    [
+     "train",
+     "7-111-_0_flip_jpg.rf.700f47115f3f9b5eb8b1de0a0f6d77e3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 950,
+   "b": 959,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0007",
+   "files": [
+    [
+     "train",
+     "8-39-_90_jpg.rf.2f3214b49483b5697b9063c38fcea509.jpg"
+    ],
+    [
+     "train",
+     "8-41-_180_jpg.rf.755b7715a051ca535379e174d8431cfb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2847,
+   "b": 4521,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0008",
+   "files": [
+    [
+     "train",
+     "IMG_3629_block_0_0_png_jpg.rf.bfe1c803cfad0bbe214e995b61c4d84c.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3629_block_0_0_png_jpg.rf.bf55dbca1261f8f039d9b7cc3e54d312.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 947,
+   "b": 4266,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0009",
+   "files": [
+    [
+     "train",
+     "8-36-_0_flip_jpg.rf.57bebf1639e5a3817a4f54033263360c.jpg"
+    ],
+    [
+     "valid",
+     "8-108-_180_jpg.rf.50b6bb5f1c3148657d0d25c02bf8b4ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1980,
+   "b": 3186,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0010",
+   "files": [
+    [
+     "train",
+     "images-19-_jpeg_jpg.rf.259a8aa2c9db061ddcc832e02db30804.jpg"
+    ],
+    [
+     "train",
+     "photox_jpg.rf.1258b442474c602642bac715cbe5fd17.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4777,
+   "b": 986,
+   "d": 2,
+   "test_id": "test_00036",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0011",
+   "files": [
+    [
+     "test",
+     "8-51-_0_jpg.rf.ab7fd45c83361e2018150265ed0e28c8.jpg"
+    ],
+    [
+     "train",
+     "8-50-_270_flip_jpg.rf.d5de46b029d03999bf6879388b11b914.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1902,
+   "b": 2059,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0012",
+   "files": [
+    [
+     "train",
+     "images-11-_jpeg_jpg.rf.04eddc35f800c2816150bd0d06b53fc8.jpg"
+    ],
+    [
+     "train",
+     "images-9-_jpg.rf.2dff33f50ceac899a40f01b4e1651dff.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1172,
+   "b": 1193,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0013",
+   "files": [
+    [
+     "train",
+     "9-4-_270_jpg.rf.d1d38f50382b31aa50ccc3e2e64148e7.jpg"
+    ],
+    [
+     "train",
+     "9-5-_0_flip_jpg.rf.361f347449dc0d18ca283975ea8ea9f3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4251,
+   "b": 4253,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0014",
+   "files": [
+    [
+     "valid",
+     "7-88-_180_jpg.rf.928cc91b6a81ff3bfcbc52fe71fc3d22.jpg"
+    ],
+    [
+     "valid",
+     "7-89-_0_flip_jpg.rf.38e3af15d751c433f945bcb3774671c6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4739,
+   "b": 692,
+   "d": 6,
+   "test_id": "test_00067",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0015",
+   "files": [
+    [
+     "test",
+     "7-251-_180_jpg.rf.8fb85cc51375887087a2107e45e2863b.jpg"
+    ],
+    [
+     "train",
+     "7-250-_0_flip_jpg.rf.6e4b541800493dcba4993d526028d8f1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 505,
+   "b": 4153,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0016",
+   "files": [
+    [
+     "train",
+     "7-155-_90_jpg.rf.31b67b5a510dab9956fdb8cf90ad29e3.jpg"
+    ],
+    [
+     "valid",
+     "7-153-_0_jpg.rf.d9851e4b8c10136c95eb97949bd46ae3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 932,
+   "b": 4266,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0017",
+   "files": [
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ],
+    [
+     "valid",
+     "8-108-_180_jpg.rf.50b6bb5f1c3148657d0d25c02bf8b4ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 980,
+   "b": 996,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0018",
+   "files": [
+    [
+     "train",
+     "8-49-_0_jpg.rf.2c9f4952f1fbf0cd9d0cba00a7426b10.jpg"
+    ],
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1044,
+   "b": 1045,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0019",
+   "files": [
+    [
+     "train",
+     "8-74-_270_flip_jpg.rf.dc5a7c7d61ad050bd6389661c30145b7.jpg"
+    ],
+    [
+     "train",
+     "8-75-_180_jpg.rf.283a7b0412bfb1d65869dfcfcc632a1a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1203,
+   "b": 1204,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0020",
+   "files": [
+    [
+     "train",
+     "9-67-_270_jpg.rf.fe773ccf91848ce98e3bb26730fa52df.jpg"
+    ],
+    [
+     "train",
+     "9-68-_0_jpg.rf.27f59ec135fed846b5b6159451aa1450.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4265,
+   "b": 4771,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0021",
+   "files": [
+    [
+     "valid",
+     "8-100-_90_jpg.rf.6f677c532d83d5523c1e5f656abe94e5.jpg"
+    ],
+    [
+     "test",
+     "8-26-_0_jpg.rf.28984a1f49c18132f645362acfc5dd36.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3555,
+   "b": 3593,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0022",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.15eac705bb2f029df2a0c3f1d58b47f5.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.ae10a221b75cfff33192d04b7c9e52bc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 986,
+   "b": 4276,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0023",
+   "files": [
+    [
+     "train",
+     "8-50-_270_flip_jpg.rf.d5de46b029d03999bf6879388b11b914.jpg"
+    ],
+    [
+     "valid",
+     "8-47-_180_jpg.rf.0e365286b952b08e7f2833580187eb20.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1133,
+   "b": 1200,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0024",
+   "files": [
+    [
+     "train",
+     "9-12-_90_jpg.rf.5eba5d0fac6ab3ed2ac07d4594f66fb2.jpg"
+    ],
+    [
+     "train",
+     "9-66-_180_flip_jpg.rf.6872d9279ae05a381bbad061bd969ffd.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 922,
+   "b": 932,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0025",
+   "files": [
+    [
+     "train",
+     "8-11-_180_flip_jpg.rf.537f5ae404c38091a3514fd695b9052f.jpg"
+    ],
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2160,
+   "b": 2164,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0026",
+   "files": [
+    [
+     "train",
+     "IMG_3620_block_1_2_png_jpg.rf.32aa157a305c17d8e517abd42e10e4d0.jpg"
+    ],
+    [
+     "train",
+     "IMG_3620_block_1_2_png_jpg.rf.4b824f4bf6390a999016c92dea6069f9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1081,
+   "b": 1083,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0027",
+   "files": [
+    [
+     "train",
+     "8-87-_270_jpg.rf.b7332cec855b31502fb9370e6f73a3ba.jpg"
+    ],
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4289,
+   "b": 4291,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0028",
+   "files": [
+    [
+     "valid",
+     "8-61-_180_jpg.rf.fb5e8ca153633d7286f96d0dafcc0c37.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1084,
+   "b": 4785,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0029",
+   "files": [
+    [
+     "train",
+     "8-88-_180_flip_jpg.rf.15daa44a719c8dc4bf2904965224bdb8.jpg"
+    ],
+    [
+     "test",
+     "8-64-_270_flip_jpg.rf.9783ae6aa99b5fa68545f790a2d2bda3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 997,
+   "b": 1000,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0030",
+   "files": [
+    [
+     "train",
+     "8-54-_270_flip_jpg.rf.5adcd031f569712496c1b1e6ddc2f656.jpg"
+    ],
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0031",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 973,
+   "b": 1118,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0032",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-98-_90_flip_jpg.rf.336f836955d331ad19eb5c405994f254.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 498,
+   "b": 506,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0033",
+   "files": [
+    [
+     "train",
+     "7-154-_180_jpg.rf.5b88a07209f2ce401fa34f6aff67083b.jpg"
+    ],
+    [
+     "train",
+     "7-156-_0_flip_jpg.rf.0b3c92c7e2034d68a77687b21e7dcd90.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1196,
+   "b": 1212,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0034",
+   "files": [
+    [
+     "train",
+     "9-6-_180_jpg.rf.aecb69fc5dc6000a35053882f750f3b1.jpg"
+    ],
+    [
+     "train",
+     "9-7-_180_flip_jpg.rf.02ae249419d301a5dc4e8173c499e14d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4288,
+   "b": 4291,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0035",
+   "files": [
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 4900,
+   "b": 1911,
+   "d": 28,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0036",
+   "files": [
+    [
+     "test",
+     "IMG_3634_block_2_0_png_jpg.rf.40c848a9925bb4db1614b6c33af8f284.jpg"
+    ],
+    [
+     "train",
+     "images-11-_jpeg_jpg.rf.9200e6f8ea13c4a62aec73baaebea476.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1015,
+   "b": 1016,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0037",
+   "files": [
+    [
+     "train",
+     "8-63-_270_jpg.rf.a3cddeb0e8355b14bbcdeede2d8001bd.jpg"
+    ],
+    [
+     "train",
+     "8-64-_0_flip_jpg.rf.13d0e0470f78df52fb80c9ba43d6cc12.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4027,
+   "b": 4331,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0038",
+   "files": [
+    [
+     "valid",
+     "11-11-_0_jpg.rf.b4c5fb2e1e120b67bae7e503986006e5.jpg"
+    ],
+    [
+     "valid",
+     "9-36-_180_jpg.rf.f9269578e8647aa7b7e5b63c9db51c17.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4286,
+   "b": 4780,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0039",
+   "files": [
+    [
+     "valid",
+     "8-56-_0_flip_jpg.rf.f1d18868ccb77263eaa8f5b14e2cfad8.jpg"
+    ],
+    [
+     "test",
+     "8-55-_270_flip_jpg.rf.26b6da7f0f886fc54042b67417e03f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1539,
+   "b": 3174,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0040",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_12_jpeg_jpg.rf.29819ce15d473ab0ae1d47087d896ea3.jpg"
+    ],
+    [
+     "train",
+     "Not-perfect-welding-images_10_jpeg_jpg.rf.0cd1f663a6b17270ce2d01bb2aa2bfb6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1009,
+   "b": 1037,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0041",
+   "files": [
+    [
+     "train",
+     "8-59-_270_jpg.rf.de5658024ca491f81b52f60644a5f73c.jpg"
+    ],
+    [
+     "train",
+     "8-71-_0_flip_jpg.rf.e3ff846bf3862a1061bf3aa4a7e7abe8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1629,
+   "b": 3212,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0042",
+   "files": [
+    [
+     "train",
+     "download-2-_jpg.rf.02b474171726535e30ca4829bd26d9a3.jpg"
+    ],
+    [
+     "train",
+     "porosity-mig-s_tcm410-633706_png_jpg.rf.136ee8dd13889e5b343afda6723377ee.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 855,
+   "b": 874,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0043",
+   "files": [
+    [
+     "train",
+     "7-7-_270_flip_jpg.rf.70445b9a9595f0e57843d446dbd94ef7.jpg"
+    ],
+    [
+     "train",
+     "7-8-_90_jpg.rf.72aa66dac6d97d1864421c50cffe31ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 755,
+   "b": 759,
+   "d": 10,
+   "test_id": "test_00027",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0044",
+   "files": [
+    [
+     "train",
+     "7-38-_0_jpg.rf.9d35ef4d321934a6e665d9c3e08248de.jpg"
+    ],
+    [
+     "train",
+     "7-39-_0_flip_jpg.rf.e2f0d38c5fd4d6f216c66279e2131bff.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1193,
+   "b": 1195,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0045",
+   "files": [
+    [
+     "train",
+     "9-5-_0_flip_jpg.rf.361f347449dc0d18ca283975ea8ea9f3.jpg"
+    ],
+    [
+     "train",
+     "9-6-_0_jpg.rf.4a522bac431a7832482b7d75652e62ac.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 926,
+   "b": 966,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0046",
+   "files": [
+    [
+     "train",
+     "8-116-_180_flip_jpg.rf.fb991dea9f6d8733d78f54ddd6424c1a.jpg"
+    ],
+    [
+     "train",
+     "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 975,
+   "b": 991,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0047",
+   "files": [
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ],
+    [
+     "train",
+     "8-52-_180_flip_jpg.rf.824935d3df78e8c6b660e6f537842aff.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1044,
+   "b": 4283,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0048",
+   "files": [
+    [
+     "train",
+     "8-74-_270_flip_jpg.rf.dc5a7c7d61ad050bd6389661c30145b7.jpg"
+    ],
+    [
+     "valid",
+     "8-51-_180_flip_jpg.rf.63791f1b13e970fce89b3ed821c37fa6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 992,
+   "b": 4276,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0049",
+   "files": [
+    [
+     "train",
+     "8-52-_270_jpg.rf.ecdc3374d4f7e8ed7a05b43f50f1c7f2.jpg"
+    ],
+    [
+     "valid",
+     "8-47-_180_jpg.rf.0e365286b952b08e7f2833580187eb20.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 1799,
+   "b": 1815,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0050",
+   "files": [
+    [
+     "train",
+     "FB_IMG_1675164497985_jpg.rf.18dde4230fc9dd478e6b53b43690b1bc.jpg"
+    ],
+    [
+     "train",
+     "FB_IMG_1675164497985_jpg.rf.cc7274d09fae09f38edc18ce44410ef3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4311,
+   "b": 4795,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0051",
+   "files": [
+    [
+     "valid",
+     "8-83-_90_jpg.rf.3cf6a784bc79daaace9c61645f50a482.jpg"
+    ],
+    [
+     "test",
+     "8-82-_0_jpg.rf.80e2d69b51c326af7e514bf7380f1459.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1017,
+   "b": 4291,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0052",
+   "files": [
+    [
+     "train",
+     "8-65-_180_flip_jpg.rf.288dd0152f47ff1c2110234c5b7f6aa5.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1001,
+   "b": 4771,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0053",
+   "files": [
+    [
+     "train",
+     "8-56-_0_jpg.rf.c1bda4a46cb6ed7a882b8d7e2cd689ed.jpg"
+    ],
+    [
+     "test",
+     "8-26-_0_jpg.rf.28984a1f49c18132f645362acfc5dd36.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1052,
+   "b": 1056,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0054",
+   "files": [
+    [
+     "train",
+     "8-78-_180_flip_jpg.rf.b68cfd80202b9dc986f6b2b5b89899da.jpg"
+    ],
+    [
+     "train",
+     "8-79-_180_flip_jpg.rf.20b1219bbb5f8506064c72bbb0c77003.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 979,
+   "b": 991,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0055",
+   "files": [
+    [
+     "train",
+     "8-49-_0_flip_jpg.rf.1dfdcbbef8457fc1fa2a65d66859773c.jpg"
+    ],
+    [
+     "train",
+     "8-52-_180_flip_jpg.rf.824935d3df78e8c6b660e6f537842aff.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2244,
+   "b": 2246,
+   "d": 6,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0056",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_2_0_png_jpg.rf.0219831998d3b0a2b56dc3488d82cb09.jpg"
+    ],
+    [
+     "train",
+     "IMG_3621_block_2_0_png_jpg.rf.0c078602c6e68c7abceb9645c44952df.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1177,
+   "b": 4336,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0057",
+   "files": [
+    [
+     "train",
+     "9-41-_180_jpg.rf.230ecc8bc2933ff5d9a2a5b8fa4f09a7.jpg"
+    ],
+    [
+     "valid",
+     "9-44-_90_jpg.rf.26655fee87e2ed72f6785e98d918fae5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 307,
+   "b": 309,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0058",
+   "files": [
+    [
+     "train",
+     "5-158-_0_jpg.rf.67258c45a81b26c31258a582af16be71.jpg"
+    ],
+    [
+     "train",
+     "5-159-_270_flip_jpg.rf.a520a20743e3c622f4946686784eec4d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 916,
+   "b": 1094,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0059",
+   "files": [
+    [
+     "train",
+     "8-10-_180_flip_jpg.rf.5af69ef88bc5633b58ae8ce10c4b7e3a.jpg"
+    ],
+    [
+     "train",
+     "8-90-_0_flip_jpg.rf.3fd6d024064be93f463c3a9c860d4700.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1105,
+   "b": 1111,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0060",
+   "files": [
+    [
+     "train",
+     "8-93-_180_flip_jpg.rf.1caf7f6beed8bb2687800c4a8e12d1c3.jpg"
+    ],
+    [
+     "train",
+     "8-94-_270_jpg.rf.1a97c7a862c55a4043b4058886859f33.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1011,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0061",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 996,
+   "b": 1025,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0062",
+   "files": [
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ],
+    [
+     "train",
+     "8-67-_180_jpg.rf.9eaf79c189ab3d63e4857bde89397c71.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 808,
+   "b": 812,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0063",
+   "files": [
+    [
+     "train",
+     "7-55-_0_flip_jpg.rf.067009814c01963e7e1b20c07a508e97.jpg"
+    ],
+    [
+     "train",
+     "7-56-_0_jpg.rf.6fd47ac5cb2fe3c501a5689563ebd8fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2206,
+   "b": 2214,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0064",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.1b038f69526792d26bfb07aa345808f3.jpg"
+    ],
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.505e10eddef0c90be117942701475522.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 806,
+   "b": 807,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0065",
+   "files": [
+    [
+     "train",
+     "7-53-_90_jpg.rf.b58320f47c5ee2344330b23dee1015ac.jpg"
+    ],
+    [
+     "train",
+     "7-54-_270_flip_jpg.rf.c0f58d73e4a442203bd3c8c8529128e1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1143,
+   "b": 4027,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0066",
+   "files": [
+    [
+     "train",
+     "9-16-_90_jpg.rf.6a52f6b0d6c483011a41d874b5c57e5e.jpg"
+    ],
+    [
+     "valid",
+     "11-11-_0_jpg.rf.b4c5fb2e1e120b67bae7e503986006e5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 919,
+   "b": 975,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0067",
+   "files": [
+    [
+     "train",
+     "8-106-_270_jpg.rf.a6f8a00ed30881b58055cc1339921abb.jpg"
+    ],
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1075,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0068",
+   "files": [
+    [
+     "train",
+     "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1055,
+   "b": 1061,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0069",
+   "files": [
+    [
+     "train",
+     "8-78-_90_flip_jpg.rf.ff875190a5fc3b30b2fa95c66280a925.jpg"
+    ],
+    [
+     "train",
+     "8-80-_0_flip_jpg.rf.fe2de8cd0a1abdbe6734c29554588ea9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 983,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0070",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4284,
+   "b": 4786,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0071",
+   "files": [
+    [
+     "valid",
+     "8-53-_270_flip_jpg.rf.79fbf3366f516f6fe199c1a734b6380f.jpg"
+    ],
+    [
+     "test",
+     "8-68-_90_flip_jpg.rf.f27e4f43907237e5ecfea7dbafed7d81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 919,
+   "b": 1105,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0072",
+   "files": [
+    [
+     "train",
+     "8-106-_270_jpg.rf.a6f8a00ed30881b58055cc1339921abb.jpg"
+    ],
+    [
+     "train",
+     "8-93-_180_flip_jpg.rf.1caf7f6beed8bb2687800c4a8e12d1c3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 999,
+   "b": 4284,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0073",
+   "files": [
+    [
+     "train",
+     "8-54-_90_jpg.rf.34e7cdaae846285ab362a9874992f364.jpg"
+    ],
+    [
+     "valid",
+     "8-53-_270_flip_jpg.rf.79fbf3366f516f6fe199c1a734b6380f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4780,
+   "b": 4786,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0074",
+   "files": [
+    [
+     "test",
+     "8-55-_270_flip_jpg.rf.26b6da7f0f886fc54042b67417e03f45.jpg"
+    ],
+    [
+     "test",
+     "8-68-_90_flip_jpg.rf.f27e4f43907237e5ecfea7dbafed7d81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1066,
+   "b": 1069,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0075",
+   "files": [
+    [
+     "train",
+     "8-81-_90_flip_jpg.rf.a8e3c00f5a345a99c47169b681c06de2.jpg"
+    ],
+    [
+     "train",
+     "8-83-_180_jpg.rf.1d3a988df986fe6977b621f9bf059024.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 920,
+   "b": 948,
+   "d": 4,
+   "strata": [
+    "U3_link_le4",
+    "U6_test_nearest"
+   ],
+   "test_id": "test_00034",
+   "id": "P0076",
+   "files": [
+    [
+     "train",
+     "8-109-_90_flip_jpg.rf.6a164a06218b723d18033dbd241b9942.jpg"
+    ],
+    [
+     "train",
+     "8-39-_0_jpg.rf.af2f4bbfd06512f80da6d24234884d5e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 916,
+   "b": 1059,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0077",
+   "files": [
+    [
+     "train",
+     "8-10-_180_flip_jpg.rf.5af69ef88bc5633b58ae8ce10c4b7e3a.jpg"
+    ],
+    [
+     "train",
+     "8-8-_180_flip_jpg.rf.d5898201c62a1f4d6a57a3c54036691b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1021,
+   "b": 4771,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0078",
+   "files": [
+    [
+     "train",
+     "8-66-_0_flip_jpg.rf.bf620f56613c04d5560de8728e269490.jpg"
+    ],
+    [
+     "test",
+     "8-26-_0_jpg.rf.28984a1f49c18132f645362acfc5dd36.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 927,
+   "b": 993,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0079",
+   "files": [
+    [
+     "train",
+     "8-12-_0_jpg.rf.46a39828b6b8ea407ad55cedf5a57fc3.jpg"
+    ],
+    [
+     "train",
+     "8-53-_0_flip_jpg.rf.b4a9e215ac503bb6b211d7bef004d1cb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 2755,
+   "b": 3758,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0080",
+   "files": [
+    [
+     "train",
+     "IMG_3628_block_1_1_png_jpg.rf.180973f0114b3a57418859b0b8b63cb5.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.f1ccafa707c3575b3d337bb56163c7d3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 939,
+   "b": 1073,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0081",
+   "files": [
+    [
+     "train",
+     "8-2-_180_jpg.rf.f6d33e5d8b18cfdbc02d70ec33a509c7.jpg"
+    ],
+    [
+     "train",
+     "8-85-_180_jpg.rf.32e8b3df7dfaa9bfe857c1e1169f4f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1002,
+   "b": 1016,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0082",
+   "files": [
+    [
+     "train",
+     "8-56-_180_jpg.rf.da55f444bbfd9bce6913193b9c4cd8f3.jpg"
+    ],
+    [
+     "train",
+     "8-64-_0_flip_jpg.rf.13d0e0470f78df52fb80c9ba43d6cc12.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1005,
+   "b": 4274,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0083",
+   "files": [
+    [
+     "train",
+     "8-57-_270_flip_jpg.rf.bbd3283e57eb17464d0e6c6879d790e4.jpg"
+    ],
+    [
+     "valid",
+     "8-46-_0_jpg.rf.5cf9be3ab172627a3f23906bb3d2a52b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 601,
+   "b": 420,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0084",
+   "files": [
+    [
+     "train",
+     "7-209-_90_jpg.rf.6f5dd2634bcfaa6885d3f4758f738041.jpg"
+    ],
+    [
+     "train",
+     "7-1-_90_flip_jpg.rf.e71156775b38a2920a067682b2a1c34e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3269,
+   "b": 279,
+   "d": 18,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0085",
+   "files": [
+    [
+     "train",
+     "received_1223730668231833_jpeg_jpg.rf.a44a3bfb3b1302d0eacedf2a493cb9cc.jpg"
+    ],
+    [
+     "train",
+     "5-136-_270_jpg.rf.20c4e37d0a9dccbb407954d4e62c92e3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1526,
+   "b": 4378,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0086",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_11_jpeg_jpg.rf.64cb3d7997c91c1417326d541f77c570.jpg"
+    ],
+    [
+     "valid",
+     "crack_2_png_jpg.rf.26f267ac0341d8c9db66e54f1159e114.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 940,
+   "b": 1090,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0087",
+   "files": [
+    [
+     "train",
+     "8-21-_0_jpg.rf.c3eb70dfb72bd8b2558c2247ddbd60ea.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 990,
+   "b": 993,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0088",
+   "files": [
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ],
+    [
+     "train",
+     "8-53-_0_flip_jpg.rf.b4a9e215ac503bb6b211d7bef004d1cb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 967,
+   "b": 990,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0089",
+   "files": [
+    [
+     "train",
+     "8-44-_270_jpg.rf.7bb55d3931013345981334c81b3a39db.jpg"
+    ],
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 706,
+   "b": 4204,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0090",
+   "files": [
+    [
+     "train",
+     "7-257-_270_flip_jpg.rf.19d5584cdbc8dd5a30ff12ee22e90431.jpg"
+    ],
+    [
+     "valid",
+     "7-255-_270_flip_jpg.rf.79767894b2ac35466f936daae6c9129b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1017,
+   "b": 1025,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0091",
+   "files": [
+    [
+     "train",
+     "8-65-_180_flip_jpg.rf.288dd0152f47ff1c2110234c5b7f6aa5.jpg"
+    ],
+    [
+     "train",
+     "8-67-_180_jpg.rf.9eaf79c189ab3d63e4857bde89397c71.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 347,
+   "b": 4118,
+   "d": 6,
+   "test_id": "test_00009",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0092",
+   "files": [
+    [
+     "train",
+     "5-179-_90_jpg.rf.a977c5db8c4ae98b048a28cd1046552e.jpg"
+    ],
+    [
+     "valid",
+     "5-180-_180_flip_jpg.rf.7a4d6b89d7db6efc8c0965297593d1c7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 986,
+   "b": 1044,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0093",
+   "files": [
+    [
+     "train",
+     "8-50-_270_flip_jpg.rf.d5de46b029d03999bf6879388b11b914.jpg"
+    ],
+    [
+     "train",
+     "8-74-_270_flip_jpg.rf.dc5a7c7d61ad050bd6389661c30145b7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 616,
+   "b": 617,
+   "d": 6,
+   "test_id": "test_00021",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0094",
+   "files": [
+    [
+     "train",
+     "7-213-_90_jpg.rf.e0591ad97c428f300768839af038b904.jpg"
+    ],
+    [
+     "train",
+     "7-214-_0_flip_jpg.rf.a3525c88befb83dfc37dd9484916a6e9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1398,
+   "b": 1260,
+   "d": 28,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0095",
+   "files": [
+    [
+     "train",
+     "bad_weld_vid687_jpeg_jpg.rf.239903b792782aeb870e181f233199a7.jpg"
+    ],
+    [
+     "train",
+     "A-typical-weld-crack_1_jpg.rf.ff62b2a146f74e787b303ea61f251795.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 448,
+   "b": 454,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0096",
+   "files": [
+    [
+     "train",
+     "7-109-_180_flip_jpg.rf.d549d2e865e624246d27f5180945722f.jpg"
+    ],
+    [
+     "train",
+     "7-111-_0_flip_jpg.rf.700f47115f3f9b5eb8b1de0a0f6d77e3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0097",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1179,
+   "b": 1185,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0098",
+   "files": [
+    [
+     "train",
+     "9-42-_0_jpg.rf.af53602ff8de3ffa112eb1b0037bf21f.jpg"
+    ],
+    [
+     "train",
+     "9-45-_180_jpg.rf.972b636b5e9ff0aba92bbce1be861727.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1455,
+   "b": 2036,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0099",
+   "files": [
+    [
+     "train",
+     "common-welding-defects_jpg.rf.0e99ee9d1627b3f8f45248498fad9069.jpg"
+    ],
+    [
+     "train",
+     "images-5-_jpg.rf.44f818a999c2a715f609b0780abd3ae0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1008,
+   "b": 4291,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0100",
+   "files": [
+    [
+     "train",
+     "8-59-_180_flip_jpg.rf.989c3a096752708109227ae62610a02d.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 4234,
+   "b": 1128,
+   "d": 28,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0101",
+   "files": [
+    [
+     "valid",
+     "7-47-_180_jpg.rf.c5adfb32d3049fb6c11a4191c7f7db36.jpg"
+    ],
+    [
+     "train",
+     "9-11-_90_jpg.rf.b557b9d14a8347fae858ec01a2c87f6a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 981,
+   "b": 988,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0102",
+   "files": [
+    [
+     "train",
+     "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg"
+    ],
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1027,
+   "b": 1033,
+   "d": 4,
+   "strata": [
+    "U3_link_le4",
+    "U6_test_nearest"
+   ],
+   "test_id": "test_00037",
+   "id": "P0103",
+   "files": [
+    [
+     "train",
+     "8-69-_0_jpg.rf.eccc5401d139ef07baff013eee760ed8.jpg"
+    ],
+    [
+     "train",
+     "8-70-_0_jpg.rf.be10a22213d7b47bcdf064363cdfbabf.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 973,
+   "b": 975,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0104",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3753,
+   "b": 3757,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0105",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.df04e259396869f9743553e2f8a07f00.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.eb99536b515d2ef5d9904b46658fdb7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 997,
+   "b": 1118,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0106",
+   "files": [
+    [
+     "train",
+     "8-54-_270_flip_jpg.rf.5adcd031f569712496c1b1e6ddc2f656.jpg"
+    ],
+    [
+     "train",
+     "8-98-_90_flip_jpg.rf.336f836955d331ad19eb5c405994f254.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 719,
+   "b": 722,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0107",
+   "files": [
+    [
+     "train",
+     "7-261-_180_jpg.rf.9469cb046f4edf7e5f9881eb854f741d.jpg"
+    ],
+    [
+     "train",
+     "7-262-_0_flip_jpg.rf.1fb6c13dc8d17060f8ca58be42a45f5b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4145,
+   "b": 466,
+   "d": 4,
+   "test_id": "test_00015",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0108",
+   "files": [
+    [
+     "valid",
+     "7-112-_0_jpg.rf.5a4608098f54f97f77d81c21029facb6.jpg"
+    ],
+    [
+     "train",
+     "7-113-_180_jpg.rf.6bc249689468fdfca301b1fd4ce75964.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 941,
+   "b": 944,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0109",
+   "files": [
+    [
+     "train",
+     "8-29-_270_jpg.rf.34b23c8572f465e889b0ed76d84e0642.jpg"
+    ],
+    [
+     "train",
+     "8-32-_270_jpg.rf.5797258a5651a6f65d40fe1af4ca92bb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1148,
+   "b": 1151,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0110",
+   "files": [
+    [
+     "train",
+     "9-18-_270_flip_jpg.rf.2ad9ac59956767641b2d4fad75cd97fc.jpg"
+    ],
+    [
+     "train",
+     "9-19-_90_jpg.rf.9c267d284819ebd278c01d104a2e1857.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 925,
+   "b": 966,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0111",
+   "files": [
+    [
+     "train",
+     "8-114-_90_jpg.rf.6bf98d0ab8ddb5926f52e3165f1f7556.jpg"
+    ],
+    [
+     "train",
+     "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1533,
+   "b": 2818,
+   "d": 28,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0112",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_11_jpeg_jpg.rf.a7adc957bf9b6c1e93db1d76a7f4b948.jpg"
+    ],
+    [
+     "train",
+     "IMG_3628_block_2_0_png_jpg.rf.c69fd1d8e58454269adc1e606178746e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1156,
+   "b": 1193,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0113",
+   "files": [
+    [
+     "train",
+     "9-3-_0_flip_jpg.rf.537e4db08cc40ad28a94422ad81b0de1.jpg"
+    ],
+    [
+     "train",
+     "9-5-_0_flip_jpg.rf.361f347449dc0d18ca283975ea8ea9f3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1008,
+   "b": 4288,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0114",
+   "files": [
+    [
+     "train",
+     "8-59-_180_flip_jpg.rf.989c3a096752708109227ae62610a02d.jpg"
+    ],
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1030,
+   "b": 1058,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0115",
+   "files": [
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ],
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1037,
+   "b": 1041,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0116",
+   "files": [
+    [
+     "train",
+     "8-71-_0_flip_jpg.rf.e3ff846bf3862a1061bf3aa4a7e7abe8.jpg"
+    ],
+    [
+     "train",
+     "8-72-_180_flip_jpg.rf.8ec636c315d9e034f91e066829df4897.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1058,
+   "b": 1087,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0117",
+   "files": [
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 998,
+   "b": 4771,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0118",
+   "files": [
+    [
+     "train",
+     "8-54-_90_flip_jpg.rf.e8749a97927f99c85eaac4a94866c535.jpg"
+    ],
+    [
+     "test",
+     "8-26-_0_jpg.rf.28984a1f49c18132f645362acfc5dd36.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1221,
+   "b": 1222,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0119",
+   "files": [
+    [
+     "train",
+     "9-72-_90_jpg.rf.c7a0aadcb1df1ade0ad0dcdc7fb1724e.jpg"
+    ],
+    [
+     "train",
+     "9-73-_180_flip_jpg.rf.9568266321f47d318f5d4077f27ac404.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 2685,
+   "b": 2487,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0120",
+   "files": [
+    [
+     "train",
+     "IMG_3627_block_2_2_png_jpg.rf.873c7e5483bfa1705ba9146ec016ea4a.jpg"
+    ],
+    [
+     "train",
+     "IMG_3624_block_0_0_png_jpg.rf.abd63696a4dcea7e50f80eaac5bbd4d5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1083,
+   "b": 1087,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0121",
+   "files": [
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 924,
+   "b": 966,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0122",
+   "files": [
+    [
+     "train",
+     "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg"
+    ],
+    [
+     "train",
+     "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 3192,
+   "b": 4433,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0123",
+   "files": [
+    [
+     "train",
+     "poor-Welding-Images_30_jpeg_jpg.rf.2bc51ea579afd577974fafce5386a2df.jpg"
+    ],
+    [
+     "valid",
+     "imagesery4y_jpeg_jpg.rf.63f749632401b756d4900e2bebc18209.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 973,
+   "b": 988,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0124",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1461,
+   "b": 3811,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0125",
+   "files": [
+    [
+     "train",
+     "common-welding-defects_jpg.rf.3097ce816b2c8402f1173ab510636b69.jpg"
+    ],
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.2071e07a8607b10609cad6d2c737dfbc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 975,
+   "b": 988,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0126",
+   "files": [
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ],
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 988,
+   "b": 4769,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0127",
+   "files": [
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 983,
+   "b": 1083,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0128",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2340,
+   "b": 4463,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0129",
+   "files": [
+    [
+     "train",
+     "IMG_3622_block_2_2_png_jpg.rf.0e22e951de94d93689bcf2156a06132d.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3622_block_2_2_png_jpg.rf.555c09fd891f0d85ef3a5b2534d35a01.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 795,
+   "b": 829,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0130",
+   "files": [
+    [
+     "train",
+     "7-5-_270_flip_jpg.rf.8c59b00d3a74e8e64fb944305cb4d49b.jpg"
+    ],
+    [
+     "train",
+     "7-6-_90_jpg.rf.999fd170e7a5f45ee57ad8f7afbfaaad.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1108,
+   "b": 4287,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0131",
+   "files": [
+    [
+     "train",
+     "8-93-_90_jpg.rf.518d9b7dc3ac18a247217041384429f7.jpg"
+    ],
+    [
+     "valid",
+     "8-57-_180_jpg.rf.fa8fe023291d9d4c7ff2a753ec0d5075.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 153,
+   "b": 4377,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0132",
+   "files": [
+    [
+     "train",
+     "3-Cracks-2-_jpg.rf.6abe47b63eeb9d2ff21b4b5f867e36e1.jpg"
+    ],
+    [
+     "valid",
+     "crack_1_png_jpg.rf.2467d86b030ec46167d19353e3be7778.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 986,
+   "b": 1037,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0133",
+   "files": [
+    [
+     "train",
+     "8-50-_270_flip_jpg.rf.d5de46b029d03999bf6879388b11b914.jpg"
+    ],
+    [
+     "train",
+     "8-71-_0_flip_jpg.rf.e3ff846bf3862a1061bf3aa4a7e7abe8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 3441,
+   "b": 3516,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0134",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102823_png_jpg.rf.997c1541f5dcfa6b4f3a3110b67ee284.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103049_png_jpg.rf.1e0616e5b756d61cc7cbfbb706bcf345.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1031,
+   "b": 1080,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0135",
+   "files": [
+    [
+     "train",
+     "8-7-_180_flip_jpg.rf.43aed56039986c6efe7565bb5ea1e93d.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1183,
+   "b": 1184,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0136",
+   "files": [
+    [
+     "train",
+     "9-43-_270_jpg.rf.02a4cdb9318f6f0004f44be8e963dceb.jpg"
+    ],
+    [
+     "train",
+     "9-44-_270_flip_jpg.rf.9d4210e5398f3f23781ff381d57b225e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 933,
+   "b": 934,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0137",
+   "files": [
+    [
+     "train",
+     "8-13-_180_flip_jpg.rf.273b65df2fc201a34df573d2701cdd0f.jpg"
+    ],
+    [
+     "train",
+     "8-14-_180_flip_jpg.rf.00ad79eb1677951fd885a61aada0b91e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 2842,
+   "b": 2895,
+   "d": 22,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0138",
+   "files": [
+    [
+     "train",
+     "IMG_3629_block_0_0_png_jpg.rf.7725c421ddc86ab24f5b131d7831deed.jpg"
+    ],
+    [
+     "train",
+     "IMG_3629_block_2_0_png_jpg.rf.88840c8ecd37b5070d0bf8e8e64df4b2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 550,
+   "b": 728,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0139",
+   "files": [
+    [
+     "train",
+     "7-2-_270_jpg.rf.bb1a8756f857af97d03eba7307c9eee4.jpg"
+    ],
+    [
+     "train",
+     "7-3-_0_jpg.rf.0c2bd727540337331279087ae9e4eeb4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 976,
+   "b": 973,
+   "d": 4,
+   "test_id": "test_00035",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0140",
+   "files": [
+    [
+     "train",
+     "8-48-_0_jpg.rf.fb2604d3783842a8a47a1dbce63469eb.jpg"
+    ],
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1630,
+   "b": 3622,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0141",
+   "files": [
+    [
+     "train",
+     "download-2-_jpg.rf.02f882536061b85c7c338b894dc2d061.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.578bece76ae1de489eb671ec0d5e13fc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 940,
+   "b": 4770,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0142",
+   "files": [
+    [
+     "train",
+     "8-21-_0_jpg.rf.c3eb70dfb72bd8b2558c2247ddbd60ea.jpg"
+    ],
+    [
+     "test",
+     "8-20-_180_jpg.rf.7e87984bdb4dc045c10783ba70a0e870.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1151,
+   "b": 1155,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0143",
+   "files": [
+    [
+     "train",
+     "9-19-_90_jpg.rf.9c267d284819ebd278c01d104a2e1857.jpg"
+    ],
+    [
+     "train",
+     "9-20-_0_flip_jpg.rf.21cf340342c7879651fbbe6933f9cf49.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2604,
+   "b": 2613,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0144",
+   "files": [
+    [
+     "train",
+     "IMG_3625_block_2_2_png_jpg.rf.b80f8040624bfb60b62a4ba95fd8972e.jpg"
+    ],
+    [
+     "train",
+     "IMG_3625_block_2_2_png_jpg.rf.f55e6943f86119aca370b706bbe911ad.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1030,
+   "b": 1083,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0145",
+   "files": [
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ],
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2335,
+   "b": 4457,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0146",
+   "files": [
+    [
+     "train",
+     "IMG_3622_block_2_1_png_jpg.rf.fd558dd51135673dc60601d4f0a840b8.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3622_block_2_1_png_jpg.rf.2672defb81fd5bd8ad2d2a4ff53a2e7f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1005,
+   "b": 1048,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0147",
+   "files": [
+    [
+     "train",
+     "8-57-_270_flip_jpg.rf.bbd3283e57eb17464d0e6c6879d790e4.jpg"
+    ],
+    [
+     "train",
+     "8-77-_0_flip_jpg.rf.802311cfbdc1f0a417d8187719825a2f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1190,
+   "b": 4337,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0148",
+   "files": [
+    [
+     "train",
+     "9-47-_0_jpg.rf.7aad503da51b9044c048d1d20adb5b7f.jpg"
+    ],
+    [
+     "valid",
+     "9-46-_90_flip_jpg.rf.1fac6d10924a412ebc7badd2bb7a86c0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1159,
+   "b": 1164,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0149",
+   "files": [
+    [
+     "train",
+     "9-35-_0_jpg.rf.9db49be338a246fcd15b62f6ac283b59.jpg"
+    ],
+    [
+     "train",
+     "9-37-_0_flip_jpg.rf.ee6448775ed3365e738216f71a1f03bc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 927,
+   "b": 932,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0150",
+   "files": [
+    [
+     "train",
+     "8-12-_0_jpg.rf.46a39828b6b8ea407ad55cedf5a57fc3.jpg"
+    ],
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3139,
+   "b": 2497,
+   "d": 22,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0151",
+   "files": [
+    [
+     "train",
+     "IMG_3740_block_2_1_png_jpg.rf.f385fe120218031e429ad3337d7bf58d.jpg"
+    ],
+    [
+     "train",
+     "IMG_3624_block_0_0_png_jpg.rf.faee48bad6f83bfdf15f9f476990852c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 983,
+   "b": 1011,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0152",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1118,
+   "b": 4323,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0153",
+   "files": [
+    [
+     "train",
+     "8-98-_90_flip_jpg.rf.336f836955d331ad19eb5c405994f254.jpg"
+    ],
+    [
+     "valid",
+     "8-97-_180_jpg.rf.c87ed0507d49ccd67161ad50a3bc0279.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1192,
+   "b": 1204,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0154",
+   "files": [
+    [
+     "train",
+     "9-47-_90_jpg.rf.50ce7ae5ea3d48e1ed5d211d11b96525.jpg"
+    ],
+    [
+     "train",
+     "9-68-_0_jpg.rf.27f59ec135fed846b5b6159451aa1450.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 983,
+   "b": 1030,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0155",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 939,
+   "b": 942,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0156",
+   "files": [
+    [
+     "train",
+     "8-2-_180_jpg.rf.f6d33e5d8b18cfdbc02d70ec33a509c7.jpg"
+    ],
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 976,
+   "b": 1000,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0157",
+   "files": [
+    [
+     "train",
+     "8-48-_0_jpg.rf.fb2604d3783842a8a47a1dbce63469eb.jpg"
+    ],
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1166,
+   "b": 1167,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0158",
+   "files": [
+    [
+     "train",
+     "9-37-_180_jpg.rf.ea97c52da3cb64f1a923a5622bcc6a7a.jpg"
+    ],
+    [
+     "train",
+     "9-38-_180_flip_jpg.rf.9b5267fb3b3bafcb7cf6ea9464ba542e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1005,
+   "b": 1037,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0159",
+   "files": [
+    [
+     "train",
+     "8-57-_270_flip_jpg.rf.bbd3283e57eb17464d0e6c6879d790e4.jpg"
+    ],
+    [
+     "train",
+     "8-71-_0_flip_jpg.rf.e3ff846bf3862a1061bf3aa4a7e7abe8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 178,
+   "b": 182,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8",
+    "U6_test_nearest"
+   ],
+   "test_id": "test_00005",
+   "id": "P0160",
+   "files": [
+    [
+     "train",
+     "4-147-_0_jpg.rf.4a2902a008700507c0e7acbac8e8ae20.jpg"
+    ],
+    [
+     "train",
+     "4-148-_0_jpg.rf.ecc06707ce050d6796b189815c664233.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 975,
+   "b": 981,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0161",
+   "files": [
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ],
+    [
+     "train",
+     "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4275,
+   "b": 4780,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0162",
+   "files": [
+    [
+     "valid",
+     "8-46-_90_jpg.rf.220f473221a76d6f7990a30891e6b1de.jpg"
+    ],
+    [
+     "test",
+     "8-55-_270_flip_jpg.rf.26b6da7f0f886fc54042b67417e03f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 991,
+   "b": 996,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0163",
+   "files": [
+    [
+     "train",
+     "8-52-_180_flip_jpg.rf.824935d3df78e8c6b660e6f537842aff.jpg"
+    ],
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4292,
+   "b": 4784,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0164",
+   "files": [
+    [
+     "valid",
+     "8-65-_270_flip_jpg.rf.f28c87c75aaa012b6ace8063f439e489.jpg"
+    ],
+    [
+     "test",
+     "8-63-_90_jpg.rf.1229e56979afb39ffdbd1a7cdb89f3e6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 927,
+   "b": 1101,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0165",
+   "files": [
+    [
+     "train",
+     "8-12-_0_jpg.rf.46a39828b6b8ea407ad55cedf5a57fc3.jpg"
+    ],
+    [
+     "train",
+     "8-92-_180_flip_jpg.rf.c919b2dba3a40cd587e49e0f9c6dc1cc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4288,
+   "b": 4784,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0166",
+   "files": [
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ],
+    [
+     "test",
+     "8-63-_90_jpg.rf.1229e56979afb39ffdbd1a7cdb89f3e6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 950,
+   "b": 4769,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0167",
+   "files": [
+    [
+     "train",
+     "8-39-_90_jpg.rf.2f3214b49483b5697b9063c38fcea509.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1003,
+   "b": 4775,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0168",
+   "files": [
+    [
+     "train",
+     "8-56-_270_jpg.rf.ee0596aad7a6aa46e5349f90fd8e1586.jpg"
+    ],
+    [
+     "test",
+     "8-41-_0_flip_jpg.rf.12720c0c156aba4c58bced54646176be.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 167,
+   "b": 1057,
+   "d": 28,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0169",
+   "files": [
+    [
+     "train",
+     "4-1-_180_flip_jpg.rf.1057b8f23fd02b820697b177219e6774.jpg"
+    ],
+    [
+     "train",
+     "8-79-_270_jpg.rf.ff9058661a051b0bc2ad1ff07b71cfb3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 949,
+   "b": 1000,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0170",
+   "files": [
+    [
+     "train",
+     "8-39-_270_flip_jpg.rf.b60d83be247f5317631bbf6024aa9a45.jpg"
+    ],
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1451,
+   "b": 4378,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0171",
+   "files": [
+    [
+     "train",
+     "Centerline-Crack_jpg.rf.450be0aff05c3ea9ec025f2591b58bb0.jpg"
+    ],
+    [
+     "valid",
+     "crack_2_png_jpg.rf.26f267ac0341d8c9db66e54f1159e114.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1095,
+   "b": 1097,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0172",
+   "files": [
+    [
+     "train",
+     "8-90-_0_jpg.rf.fd2dc0ddae9177cd2432fcb9ce71c350.jpg"
+    ],
+    [
+     "train",
+     "8-91-_180_flip_jpg.rf.e5de4c0875d7c2b34263de93da7e5bd7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2195,
+   "b": 2198,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0173",
+   "files": [
+    [
+     "train",
+     "IMG_3620_block_2_2_png_jpg.rf.b9d4a788a7b5397683d763616153f1d9.jpg"
+    ],
+    [
+     "train",
+     "IMG_3620_block_2_2_png_jpg.rf.d377771c967cb8042f2e9490b93281bf.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1014,
+   "b": 4291,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0174",
+   "files": [
+    [
+     "train",
+     "8-63-_180_flip_jpg.rf.fd8e2a369a651f914c9b9c0a351185c3.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1016,
+   "b": 1017,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0175",
+   "files": [
+    [
+     "train",
+     "8-64-_0_flip_jpg.rf.13d0e0470f78df52fb80c9ba43d6cc12.jpg"
+    ],
+    [
+     "train",
+     "8-65-_180_flip_jpg.rf.288dd0152f47ff1c2110234c5b7f6aa5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3194,
+   "b": 2234,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0176",
+   "files": [
+    [
+     "train",
+     "poor-Welding-Images_30_jpeg_jpg.rf.5efabff2715bc4f2df830396f8f3e0cb.jpg"
+    ],
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.d93a63d63f6d327106f6d01681756fcc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1149,
+   "b": 1155,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0177",
+   "files": [
+    [
+     "train",
+     "9-18-_270_jpg.rf.418de88ac293275300e3452304faee23.jpg"
+    ],
+    [
+     "train",
+     "9-20-_0_flip_jpg.rf.21cf340342c7879651fbbe6933f9cf49.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 986,
+   "b": 988,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0178",
+   "files": [
+    [
+     "train",
+     "8-50-_270_flip_jpg.rf.d5de46b029d03999bf6879388b11b914.jpg"
+    ],
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 940,
+   "b": 996,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0179",
+   "files": [
+    [
+     "train",
+     "8-21-_0_jpg.rf.c3eb70dfb72bd8b2558c2247ddbd60ea.jpg"
+    ],
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 3921,
+   "b": 4000,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0180",
+   "files": [
+    [
+     "train",
+     "weld_new-4-_jpg.rf.1eb9f07aa60fbd5477753012e6bc3664.jpg"
+    ],
+    [
+     "train",
+     "welds_imperfections-62-_jpg.rf.2f19d5c7785f8d4b881954a945e05724.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1058,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0181",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1117,
+   "b": 4321,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0182",
+   "files": [
+    [
+     "train",
+     "8-97-_0_flip_jpg.rf.8eed5f179409689c3ce5bfbb4cfbcbcb.jpg"
+    ],
+    [
+     "valid",
+     "8-96-_180_flip_jpg.rf.d0981fe5b53246cde3310c1e79c842fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 459,
+   "b": 464,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0183",
+   "files": [
+    [
+     "train",
+     "7-112-_180_jpg.rf.a89b02b52dfc374575aa407a058d2320.jpg"
+    ],
+    [
+     "train",
+     "7-113-_0_jpg.rf.bf3857c98d99f1d1ee76303001dce207.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 921,
+   "b": 1097,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0184",
+   "files": [
+    [
+     "train",
+     "8-11-_0_flip_jpg.rf.d6e28dd28f6034a0ed3ed99223c6cd48.jpg"
+    ],
+    [
+     "train",
+     "8-91-_180_flip_jpg.rf.e5de4c0875d7c2b34263de93da7e5bd7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3822,
+   "b": 4682,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0185",
+   "files": [
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.9bd26313cbe635e0077f7a749662f943.jpg"
+    ],
+    [
+     "test",
+     "5-145-_270_flip_jpg.rf.1014db0a0c90b72b2bbfccb9c512c614.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 930,
+   "b": 1097,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0186",
+   "files": [
+    [
+     "train",
+     "8-12-_270_jpg.rf.38330bec9c433e94e069527992f4af1a.jpg"
+    ],
+    [
+     "train",
+     "8-91-_180_flip_jpg.rf.e5de4c0875d7c2b34263de93da7e5bd7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1225,
+   "b": 4344,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0187",
+   "files": [
+    [
+     "train",
+     "9-8-_90_flip_jpg.rf.e41e3e1925998ccb64653e5a298d4354.jpg"
+    ],
+    [
+     "valid",
+     "9-7-_0_jpg.rf.052a232de423a4985d412f6b067bef0b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1120,
+   "b": 4325,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0188",
+   "files": [
+    [
+     "train",
+     "8-99-_180_jpg.rf.ee11ed34d1b7076c35d3eda247ee2040.jpg"
+    ],
+    [
+     "valid",
+     "8-98-_0_flip_jpg.rf.0ce70f43672fab270fea8ac7b10c36d8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 2036,
+   "b": 3438,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0189",
+   "files": [
+    [
+     "train",
+     "images-5-_jpg.rf.44f818a999c2a715f609b0780abd3ae0.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102823_png_jpg.rf.658a0d138353921ace5546f0cda3fb55.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 983,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0190",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 920,
+   "b": 4769,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0191",
+   "files": [
+    [
+     "train",
+     "8-109-_90_flip_jpg.rf.6a164a06218b723d18033dbd241b9942.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1113,
+   "b": 4770,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0192",
+   "files": [
+    [
+     "train",
+     "8-95-_180_flip_jpg.rf.d2ddca45f329cc8865f71753833aba5e.jpg"
+    ],
+    [
+     "test",
+     "8-20-_180_jpg.rf.7e87984bdb4dc045c10783ba70a0e870.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 973,
+   "b": 1004,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0193",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-57-_0_jpg.rf.cb17a2d3eb9a1002464a90959c0087eb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 586,
+   "b": 591,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0194",
+   "files": [
+    [
+     "train",
+     "7-207-_0_flip_jpg.rf.1644571da7df4441d5033b3af07f3cd1.jpg"
+    ],
+    [
+     "train",
+     "7-208-_0_jpg.rf.d8cbf973e143ef66831dd9cda9269a82.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1021,
+   "b": 1025,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0195",
+   "files": [
+    [
+     "train",
+     "8-66-_0_flip_jpg.rf.bf620f56613c04d5560de8728e269490.jpg"
+    ],
+    [
+     "train",
+     "8-67-_180_jpg.rf.9eaf79c189ab3d63e4857bde89397c71.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1046,
+   "b": 1087,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0196",
+   "files": [
+    [
+     "train",
+     "8-75-_90_flip_jpg.rf.c3eff897ef43901776783f40b3b8604d.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 983,
+   "b": 1087,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0197",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3392,
+   "b": 644,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0198",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.19878399dff6cde9cf826caf090ba8ab.jpg"
+    ],
+    [
+     "train",
+     "7-223-_180_jpg.rf.30f99c2e250193cb6856afa34d6c9f5c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 187,
+   "b": 189,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0199",
+   "files": [
+    [
+     "train",
+     "4-149-_0_jpg.rf.c26327620e89c74606112bebcf9cd825.jpg"
+    ],
+    [
+     "train",
+     "4-150-_0_flip_jpg.rf.0bca9623da5aca2ee45c81979f9f1e79.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1074,
+   "b": 1075,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0200",
+   "files": [
+    [
+     "train",
+     "8-85-_270_jpg.rf.6abc8ab38ec4093ecd413fb9850a9184.jpg"
+    ],
+    [
+     "train",
+     "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 932,
+   "b": 1101,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0201",
+   "files": [
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ],
+    [
+     "train",
+     "8-92-_180_flip_jpg.rf.c919b2dba3a40cd587e49e0f9c6dc1cc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1025,
+   "b": 4786,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0202",
+   "files": [
+    [
+     "train",
+     "8-67-_180_jpg.rf.9eaf79c189ab3d63e4857bde89397c71.jpg"
+    ],
+    [
+     "test",
+     "8-68-_90_flip_jpg.rf.f27e4f43907237e5ecfea7dbafed7d81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4291,
+   "b": 4785,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0203",
+   "files": [
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ],
+    [
+     "test",
+     "8-64-_270_flip_jpg.rf.9783ae6aa99b5fa68545f790a2d2bda3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 935,
+   "b": 1101,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0204",
+   "files": [
+    [
+     "train",
+     "8-14-_180_jpg.rf.648c9276e1ef0dbdbf82742140238564.jpg"
+    ],
+    [
+     "train",
+     "8-92-_180_flip_jpg.rf.c919b2dba3a40cd587e49e0f9c6dc1cc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 479,
+   "b": 4149,
+   "d": 12,
+   "test_id": "test_00016",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0205",
+   "files": [
+    [
+     "train",
+     "7-141-_180_flip_jpg.rf.ec40ec1e846c7176beb7a41dfdc55573.jpg"
+    ],
+    [
+     "valid",
+     "7-129-_0_jpg.rf.7fa06a90328272f72456e770c600bceb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 994,
+   "b": 4281,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0206",
+   "files": [
+    [
+     "train",
+     "8-53-_0_jpg.rf.6cb13aeec0c8403627dea2170d19fd3b.jpg"
+    ],
+    [
+     "valid",
+     "8-50-_180_flip_jpg.rf.fbba9ec147d884fa8324c7e45a7f0a81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 944,
+   "b": 973,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0207",
+   "files": [
+    [
+     "train",
+     "8-32-_270_jpg.rf.5797258a5651a6f65d40fe1af4ca92bb.jpg"
+    ],
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1841,
+   "b": 2140,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0208",
+   "files": [
+    [
+     "train",
+     "image-2_png_jpg.rf.2f7176ea0b88ff197aae162a346716fa.jpg"
+    ],
+    [
+     "train",
+     "IMG_20230131_185555_jpg.rf.4cef3bcd8f764b887cac408539db9300.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 916,
+   "b": 1017,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0209",
+   "files": [
+    [
+     "train",
+     "8-10-_180_flip_jpg.rf.5af69ef88bc5633b58ae8ce10c4b7e3a.jpg"
+    ],
+    [
+     "train",
+     "8-65-_180_flip_jpg.rf.288dd0152f47ff1c2110234c5b7f6aa5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1061,
+   "b": 1065,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0210",
+   "files": [
+    [
+     "train",
+     "8-80-_0_flip_jpg.rf.fe2de8cd0a1abdbe6734c29554588ea9.jpg"
+    ],
+    [
+     "train",
+     "8-81-_180_jpg.rf.cb5121ff4ca13a29ca7a69be8c8c1077.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1201,
+   "b": 4342,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0211",
+   "files": [
+    [
+     "train",
+     "9-67-_0_jpg.rf.047cbbdb52eb6d43c1fe2a07c283bf93.jpg"
+    ],
+    [
+     "valid",
+     "9-66-_90_flip_jpg.rf.2ec62557749e17186ce356aae6971a18.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 394,
+   "b": 3701,
+   "d": 24,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0212",
+   "files": [
+    [
+     "train",
+     "5-61-_0_flip_jpg.rf.d8f7d32e42a12442f16c0da4da734e08.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103645_png_jpg.rf.58280bc4e82b2741e8784764fe4b55a5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 951,
+   "b": 1083,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0213",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 983,
+   "b": 1070,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0214",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-84-_180_flip_jpg.rf.ccc5599b4665f27d79a949c0e68f1d42.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1057,
+   "b": 1065,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0215",
+   "files": [
+    [
+     "train",
+     "8-79-_270_jpg.rf.ff9058661a051b0bc2ad1ff07b71cfb3.jpg"
+    ],
+    [
+     "train",
+     "8-81-_180_jpg.rf.cb5121ff4ca13a29ca7a69be8c8c1077.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 981,
+   "b": 1041,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0216",
+   "files": [
+    [
+     "train",
+     "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg"
+    ],
+    [
+     "train",
+     "8-72-_180_flip_jpg.rf.8ec636c315d9e034f91e066829df4897.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1013,
+   "b": 4288,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0217",
+   "files": [
+    [
+     "train",
+     "8-61-_0_flip_jpg.rf.f29aafc8ef0b6fce678ea443ea677569.jpg"
+    ],
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3011,
+   "b": 3018,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0218",
+   "files": [
+    [
+     "train",
+     "IMG_3654_block_0_1_png_jpg.rf.4cc74a33bd6213523f6bb3cd0a483f5a.jpg"
+    ],
+    [
+     "train",
+     "IMG_3654_block_0_1_png_jpg.rf.e91031bca8cf74197ca8cdf504a386c1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 934,
+   "b": 975,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0219",
+   "files": [
+    [
+     "train",
+     "8-14-_180_flip_jpg.rf.00ad79eb1677951fd885a61aada0b91e.jpg"
+    ],
+    [
+     "train",
+     "8-48-_0_flip_jpg.rf.10a243662ca3b6851aec39a37e2f6b32.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1000,
+   "b": 1004,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0220",
+   "files": [
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ],
+    [
+     "train",
+     "8-57-_0_jpg.rf.cb17a2d3eb9a1002464a90959c0087eb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1009,
+   "b": 4276,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0221",
+   "files": [
+    [
+     "train",
+     "8-59-_270_jpg.rf.de5658024ca491f81b52f60644a5f73c.jpg"
+    ],
+    [
+     "valid",
+     "8-47-_180_jpg.rf.0e365286b952b08e7f2833580187eb20.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3796,
+   "b": 3802,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0222",
+   "files": [
+    [
+     "train",
+     "surface-porosity-1-_jpg.rf.7378657f5e889889e5e042528cb4e229.jpg"
+    ],
+    [
+     "train",
+     "surface-porosity-1-_jpg.rf.fc10e056b8765e784fa1a4c04c57b7dc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 961,
+   "b": 964,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0223",
+   "files": [
+    [
+     "train",
+     "8-42-_270_flip_jpg.rf.7cd45909d9be5db9ce7adbb5f6505d07.jpg"
+    ],
+    [
+     "train",
+     "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1081,
+   "b": 4270,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0224",
+   "files": [
+    [
+     "train",
+     "8-87-_270_jpg.rf.b7332cec855b31502fb9370e6f73a3ba.jpg"
+    ],
+    [
+     "valid",
+     "8-2-_270_flip_jpg.rf.57a126f911fd1e9f70ab388b39f7b19b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1012,
+   "b": 1058,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0225",
+   "files": [
+    [
+     "train",
+     "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg"
+    ],
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2406,
+   "b": 2431,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0226",
+   "files": [
+    [
+     "train",
+     "IMG_3623_block_2_0_png_jpg.rf.49eb1949ca02064c256366e4b55ae59a.jpg"
+    ],
+    [
+     "train",
+     "IMG_3623_block_2_0_png_jpg.rf.fe85a2111d8852a6566d7b5495d00f28.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1017,
+   "b": 1023,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0227",
+   "files": [
+    [
+     "train",
+     "8-65-_180_flip_jpg.rf.288dd0152f47ff1c2110234c5b7f6aa5.jpg"
+    ],
+    [
+     "train",
+     "8-66-_90_flip_jpg.rf.a6caae9e0a5fe2857f83bb701d5d1bf1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1023,
+   "b": 4281,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0228",
+   "files": [
+    [
+     "train",
+     "8-66-_90_flip_jpg.rf.a6caae9e0a5fe2857f83bb701d5d1bf1.jpg"
+    ],
+    [
+     "valid",
+     "8-50-_180_flip_jpg.rf.fbba9ec147d884fa8324c7e45a7f0a81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1298,
+   "b": 1313,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0229",
+   "files": [
+    [
+     "train",
+     "bad_weld_vid373_jpeg_jpg.rf.0de1177ee831851dc1758f3d76cb4dff.jpg"
+    ],
+    [
+     "train",
+     "bad_weld_vid374_jpeg_jpg.rf.098aa71713b2a412e3c939271c52d6a4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 932,
+   "b": 1097,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0230",
+   "files": [
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ],
+    [
+     "train",
+     "8-91-_180_flip_jpg.rf.e5de4c0875d7c2b34263de93da7e5bd7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 798,
+   "b": 4750,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0231",
+   "files": [
+    [
+     "train",
+     "7-50-_90_flip_jpg.rf.bd36e242ba13f243fb1bfe656e26c4f8.jpg"
+    ],
+    [
+     "test",
+     "7-49-_0_flip_jpg.rf.8635eb554d1f4edb1836a986ff5f167b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1544,
+   "b": 3963,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0232",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_12_jpg.rf.b934545e19915267c0e7955d96fceacf.jpg"
+    ],
+    [
+     "train",
+     "welding-porosity_jpg.rf.cd1526dc9ea48e67d3188d1a1b6ff065.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4399,
+   "b": 4620,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0233",
+   "files": [
+    [
+     "valid",
+     "imagertrty4s_jpeg_jpg.rf.01370d217bffc3e99f10e1ae29a2b46a.jpg"
+    ],
+    [
+     "valid",
+     "weld-cracking-aluminum_png_jpg.rf.a0dc0802a73ee6111f7b7e3064f3df41.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2219,
+   "b": 2240,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0234",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.64a26c0ecbe3de2c9bab074cb7dbf31b.jpg"
+    ],
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.f28b56bd37a8f00e177399dc5d55cb88.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 973,
+   "b": 993,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0235",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-53-_0_flip_jpg.rf.b4a9e215ac503bb6b211d7bef004d1cb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 694,
+   "b": 4195,
+   "d": 12,
+   "test_id": "test_00024",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0236",
+   "files": [
+    [
+     "train",
+     "7-252-_0_flip_jpg.rf.e010ebb202ecc4b7c4c1fba88f11df97.jpg"
+    ],
+    [
+     "valid",
+     "7-240-_180_flip_jpg.rf.64766bfd9bcdb16379ea064a7567238a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1051,
+   "b": 4286,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0237",
+   "files": [
+    [
+     "train",
+     "8-78-_0_flip_jpg.rf.55ced2782513704ad5db4855097795d7.jpg"
+    ],
+    [
+     "valid",
+     "8-56-_0_flip_jpg.rf.f1d18868ccb77263eaa8f5b14e2cfad8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4696,
+   "b": 413,
+   "d": 6,
+   "test_id": "test_00066",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0238",
+   "files": [
+    [
+     "test",
+     "6-36-_270_jpg.rf.482bb8d2759fce2590eefca9ea63973b.jpg"
+    ],
+    [
+     "train",
+     "6-35-_180_jpg.rf.3a2d895045b006ec4d95ea67e0f5a304.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3800,
+   "b": 4076,
+   "d": 20,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0239",
+   "files": [
+    [
+     "train",
+     "surface-porosity-1-_jpg.rf.d3ec4ef9bf7985a4d6d436ae2bb1eb53.jpg"
+    ],
+    [
+     "valid",
+     "4-33-_0_flip_jpg.rf.975829fffc3209d39b62d579b330147a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1206,
+   "b": 1209,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0240",
+   "files": [
+    [
+     "train",
+     "9-68-_270_jpg.rf.2a74fa23f7a8918d68b35574b4cf79d4.jpg"
+    ],
+    [
+     "train",
+     "9-69-_180_flip_jpg.rf.1887e164562ba5016a775b9ebfa658ca.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1552,
+   "b": 1589,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0241",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_21_jpeg_jpg.rf.2842461b3537808a0ea447bc5309527b.jpg"
+    ],
+    [
+     "train",
+     "crack_7_png_jpg.rf.04fa46446e9dc93a9dc487b9ba663495.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1196,
+   "b": 4802,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0242",
+   "files": [
+    [
+     "train",
+     "9-6-_180_jpg.rf.aecb69fc5dc6000a35053882f750f3b1.jpg"
+    ],
+    [
+     "test",
+     "9-20-_180_jpg.rf.e81f729c4ecb0b573b7431800137d78a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 988,
+   "b": 991,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0243",
+   "files": [
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ],
+    [
+     "train",
+     "8-52-_180_flip_jpg.rf.824935d3df78e8c6b660e6f537842aff.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1012,
+   "b": 1087,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0244",
+   "files": [
+    [
+     "train",
+     "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1129,
+   "b": 1138,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0245",
+   "files": [
+    [
+     "train",
+     "9-12-_0_flip_jpg.rf.e0046042188b3d3513008a5443492c02.jpg"
+    ],
+    [
+     "train",
+     "9-15-_0_flip_jpg.rf.4fb409b089dd7e37e5040072ddf4f4f1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4042,
+   "b": 41,
+   "d": 12,
+   "test_id": "test_00002",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0246",
+   "files": [
+    [
+     "valid",
+     "12-71-_0_jpg.rf.074b6a2959a001607a0b5de95486ba89.jpg"
+    ],
+    [
+     "train",
+     "12-70-_0_flip_jpg.rf.171ec557f51640d0ce543ff5a18882ca.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1226,
+   "b": 4812,
+   "d": 4,
+   "strata": [
+    "U3_link_le4",
+    "U6_test_nearest"
+   ],
+   "test_id": "test_00044",
+   "id": "P0247",
+   "files": [
+    [
+     "train",
+     "9-9-_0_flip_jpg.rf.67548d67a1f8f1daedb9b71392e6637d.jpg"
+    ],
+    [
+     "test",
+     "9-8-_0_flip_jpg.rf.2b7aefee0cf908ad8159cba208a66318.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2772,
+   "b": 2775,
+   "d": 6,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0248",
+   "files": [
+    [
+     "train",
+     "IMG_3628_block_1_1_png_jpg.rf.77ae9dff49faaee451c6756e3ab84143.jpg"
+    ],
+    [
+     "train",
+     "IMG_3628_block_1_1_png_jpg.rf.9344b62088b9b6dcc284883471c1e67b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2205,
+   "b": 2238,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0249",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.1a7b9854174768b7f354adc5e815280b.jpg"
+    ],
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.ebbf5d14360f1ab28c9d3ca8258aa0bc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 941,
+   "b": 4274,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0250",
+   "files": [
+    [
+     "train",
+     "8-29-_270_jpg.rf.34b23c8572f465e889b0ed76d84e0642.jpg"
+    ],
+    [
+     "valid",
+     "8-46-_0_jpg.rf.5cf9be3ab172627a3f23906bb3d2a52b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1067,
+   "b": 1061,
+   "d": 4,
+   "test_id": "test_00039",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0251",
+   "files": [
+    [
+     "train",
+     "8-81-_90_jpg.rf.e75ac2797305915339f5a940ee5c6e0b.jpg"
+    ],
+    [
+     "train",
+     "8-80-_0_flip_jpg.rf.fe2de8cd0a1abdbe6734c29554588ea9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1108,
+   "b": 1109,
+   "d": 4,
+   "test_id": "test_00040",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0252",
+   "files": [
+    [
+     "train",
+     "8-93-_90_jpg.rf.518d9b7dc3ac18a247217041384429f7.jpg"
+    ],
+    [
+     "train",
+     "8-94-_0_jpg.rf.56b266dedccae4d11188a1886fa983a8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1313,
+   "b": 1523,
+   "d": 30,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0253",
+   "files": [
+    [
+     "train",
+     "bad_weld_vid374_jpeg_jpg.rf.098aa71713b2a412e3c939271c52d6a4.jpg"
+    ],
+    [
+     "train",
+     "crack-welding-images_11_jpeg_jpg.rf.425006168bc542f0c269c59db605f0b6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1006,
+   "b": 1014,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0254",
+   "files": [
+    [
+     "train",
+     "8-58-_0_flip_jpg.rf.60548864b957ec96742cf06028f293ab.jpg"
+    ],
+    [
+     "train",
+     "8-63-_180_flip_jpg.rf.fd8e2a369a651f914c9b9c0a351185c3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3484,
+   "b": 4366,
+   "d": 30,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0255",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103025_png_jpg.rf.216fe3af17fd8531f27f4bffb8888e32.jpg"
+    ],
+    [
+     "valid",
+     "common-welding-defects_jpg.rf.882ad7b1a0fec30ed184fa3f18d2b7f6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2808,
+   "b": 2827,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0256",
+   "files": [
+    [
+     "train",
+     "IMG_3628_block_2_0_png_jpg.rf.6f25b20c88f04be4fc3f378b6c188e91.jpg"
+    ],
+    [
+     "train",
+     "IMG_3628_block_2_0_png_jpg.rf.f903819d243b39523a8b3cb7f71f6fdc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1011,
+   "b": 1032,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0257",
+   "files": [
+    [
+     "train",
+     "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg"
+    ],
+    [
+     "train",
+     "8-7-_90_flip_jpg.rf.359ff2f8b2f72dbb2a8a1775e2064a30.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 951,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0258",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 981,
+   "b": 985,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0259",
+   "files": [
+    [
+     "train",
+     "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg"
+    ],
+    [
+     "train",
+     "8-50-_0_flip_jpg.rf.b9a97ea80bfb46af331eb2eb38cdeba3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 4081,
+   "b": 4393,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0260",
+   "files": [
+    [
+     "valid",
+     "4-91-_180_jpg.rf.fbe7f93476fe3a28aa69cdada20a48e0.jpg"
+    ],
+    [
+     "valid",
+     "Fig472_1_jpg.rf.406e0cdf07fd6f070e3fdce8196d8472.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2676,
+   "b": 2684,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0261",
+   "files": [
+    [
+     "train",
+     "IMG_3627_block_2_2_png_jpg.rf.3398330cc770e866ac147189a3908391.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_2_2_png_jpg.rf.7bd7f975dae31af04055c640480f20e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1027,
+   "b": 1041,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0262",
+   "files": [
+    [
+     "train",
+     "8-69-_0_jpg.rf.eccc5401d139ef07baff013eee760ed8.jpg"
+    ],
+    [
+     "train",
+     "8-72-_180_flip_jpg.rf.8ec636c315d9e034f91e066829df4897.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1155,
+   "b": 4344,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0263",
+   "files": [
+    [
+     "train",
+     "9-20-_0_flip_jpg.rf.21cf340342c7879651fbbe6933f9cf49.jpg"
+    ],
+    [
+     "valid",
+     "9-7-_0_jpg.rf.052a232de423a4985d412f6b067bef0b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 597,
+   "b": 4176,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0264",
+   "files": [
+    [
+     "train",
+     "7-209-_180_flip_jpg.rf.5ee9a841829207053cfa43e73c7d552f.jpg"
+    ],
+    [
+     "valid",
+     "7-209-_270_jpg.rf.c339020121ca3913be8319e60a982ec3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 581,
+   "b": 586,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0265",
+   "files": [
+    [
+     "train",
+     "7-206-_180_flip_jpg.rf.eeabf01a6b6d8c57e70e20b4abef5887.jpg"
+    ],
+    [
+     "train",
+     "7-207-_0_flip_jpg.rf.1644571da7df4441d5033b3af07f3cd1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 666,
+   "b": 663,
+   "d": 8,
+   "test_id": "test_00023",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0266",
+   "files": [
+    [
+     "train",
+     "7-236-_90_jpg.rf.a0923cd3bca92aae6b433b929f27938d.jpg"
+    ],
+    [
+     "train",
+     "7-235-_0_flip_jpg.rf.4ee99ed3d5cb29c3f6c2cd372ddd210a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1063,
+   "b": 4305,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0267",
+   "files": [
+    [
+     "train",
+     "8-80-_90_flip_jpg.rf.c3a66acca72da55ebcbb03f71d1a7c95.jpg"
+    ],
+    [
+     "valid",
+     "8-79-_0_jpg.rf.44a2b317b5c40dca84b87a41425296a6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 983,
+   "b": 1058,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0268",
+   "files": [
+    [
+     "train",
+     "8-5-_0_flip_jpg.rf.aeb5c9088900cc5d8e120b65aa66e1e4.jpg"
+    ],
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1084,
+   "b": 1090,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0269",
+   "files": [
+    [
+     "train",
+     "8-88-_180_flip_jpg.rf.15daa44a719c8dc4bf2904965224bdb8.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 866,
+   "b": 868,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0270",
+   "files": [
+    [
+     "train",
+     "7-72-_180_jpg.rf.1ec33530083d93ebe430cf1ced49101f.jpg"
+    ],
+    [
+     "train",
+     "7-73-_0_flip_jpg.rf.537f4e705cd900ea2d1eaa914892e431.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 141,
+   "b": 4055,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0271",
+   "files": [
+    [
+     "train",
+     "3-47-_0_flip_jpg.rf.bac2126255e37cd5aec5a69516da8547.jpg"
+    ],
+    [
+     "valid",
+     "3-46-_180_jpg.rf.e3309cbbd3af7735a394a994a94f32fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 3687,
+   "b": 2670,
+   "d": 20,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0272",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.d6d63c8f3073bd1ab1c015f3a9062b76.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_2_1_png_jpg.rf.d6f04c3144dba5896fdb99679c535a89.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 945,
+   "b": 1001,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0273",
+   "files": [
+    [
+     "train",
+     "8-32-_90_jpg.rf.08a4c5924d40fb5cda52b4183d01a68f.jpg"
+    ],
+    [
+     "train",
+     "8-56-_0_jpg.rf.c1bda4a46cb6ed7a882b8d7e2cd689ed.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1042,
+   "b": 4299,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0274",
+   "files": [
+    [
+     "train",
+     "8-72-_180_jpg.rf.b2d9a8243859bdff8414da141389d068.jpg"
+    ],
+    [
+     "valid",
+     "8-73-_0_flip_jpg.rf.12bb98afdf139b8a4504e3794baab9c5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4325,
+   "b": 4775,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0275",
+   "files": [
+    [
+     "valid",
+     "8-98-_0_flip_jpg.rf.0ce70f43672fab270fea8ac7b10c36d8.jpg"
+    ],
+    [
+     "test",
+     "8-41-_0_flip_jpg.rf.12720c0c156aba4c58bced54646176be.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1066,
+   "b": 1068,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0276",
+   "files": [
+    [
+     "train",
+     "8-81-_90_flip_jpg.rf.a8e3c00f5a345a99c47169b681c06de2.jpg"
+    ],
+    [
+     "train",
+     "8-82-_180_jpg.rf.31b57533f617e0df2640ffdc75a46c62.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 990,
+   "b": 1000,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0277",
+   "files": [
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ],
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 973,
+   "b": 1061,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0278",
+   "files": [
+    [
+     "train",
+     "8-47-_180_flip_jpg.rf.8123646cee9ac31a9d9ef204819e5602.jpg"
+    ],
+    [
+     "train",
+     "8-80-_0_flip_jpg.rf.fe2de8cd0a1abdbe6734c29554588ea9.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1040,
+   "b": 1041,
+   "d": 4,
+   "test_id": "test_00038",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0279",
+   "files": [
+    [
+     "train",
+     "8-71-_90_jpg.rf.95879c9296804d6a7f06d132b3f7288e.jpg"
+    ],
+    [
+     "train",
+     "8-72-_180_flip_jpg.rf.8ec636c315d9e034f91e066829df4897.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1008,
+   "b": 1105,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0280",
+   "files": [
+    [
+     "train",
+     "8-59-_180_flip_jpg.rf.989c3a096752708109227ae62610a02d.jpg"
+    ],
+    [
+     "train",
+     "8-93-_180_flip_jpg.rf.1caf7f6beed8bb2687800c4a8e12d1c3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1061,
+   "b": 1105,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0281",
+   "files": [
+    [
+     "train",
+     "8-80-_0_flip_jpg.rf.fe2de8cd0a1abdbe6734c29554588ea9.jpg"
+    ],
+    [
+     "train",
+     "8-93-_180_flip_jpg.rf.1caf7f6beed8bb2687800c4a8e12d1c3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1049,
+   "b": 1101,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0282",
+   "files": [
+    [
+     "train",
+     "8-77-_180_jpg.rf.7ce6f5793f9540e44a3b8202bb805967.jpg"
+    ],
+    [
+     "train",
+     "8-92-_180_flip_jpg.rf.c919b2dba3a40cd587e49e0f9c6dc1cc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 711,
+   "b": 717,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0283",
+   "files": [
+    [
+     "train",
+     "7-260-_0_flip_jpg.rf.acf8ab5c90192379aa092c39034026d4.jpg"
+    ],
+    [
+     "train",
+     "7-261-_0_flip_jpg.rf.eed9ec5fb8398fb6ba6f67c19af37b31.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1179,
+   "b": 1182,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0284",
+   "files": [
+    [
+     "train",
+     "9-42-_0_jpg.rf.af53602ff8de3ffa112eb1b0037bf21f.jpg"
+    ],
+    [
+     "train",
+     "9-43-_0_jpg.rf.d373a3ef7477857302cac80ee2956776.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 994,
+   "b": 1013,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0285",
+   "files": [
+    [
+     "train",
+     "8-53-_0_jpg.rf.6cb13aeec0c8403627dea2170d19fd3b.jpg"
+    ],
+    [
+     "train",
+     "8-61-_0_flip_jpg.rf.f29aafc8ef0b6fce678ea443ea677569.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 979,
+   "b": 993,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0286",
+   "files": [
+    [
+     "train",
+     "8-49-_0_flip_jpg.rf.1dfdcbbef8457fc1fa2a65d66859773c.jpg"
+    ],
+    [
+     "train",
+     "8-53-_0_flip_jpg.rf.b4a9e215ac503bb6b211d7bef004d1cb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 981,
+   "b": 4276,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0287",
+   "files": [
+    [
+     "train",
+     "8-49-_180_jpg.rf.83bdf8273e7d143de0bd09f92e0875fa.jpg"
+    ],
+    [
+     "valid",
+     "8-47-_180_jpg.rf.0e365286b952b08e7f2833580187eb20.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4831,
+   "b": 161,
+   "d": 10,
+   "test_id": "test_00048",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0288",
+   "files": [
+    [
+     "test",
+     "crack-welding-images_17_jpeg_jpg.rf.0b0a8e5af145b7b807f7261c57d2947c.jpg"
+    ],
+    [
+     "train",
+     "3-Cracks-4-_jpg.rf.18cd1e471a53786d9a643a4dfaf385df.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 961,
+   "b": 966,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0289",
+   "files": [
+    [
+     "train",
+     "8-42-_270_flip_jpg.rf.7cd45909d9be5db9ce7adbb5f6505d07.jpg"
+    ],
+    [
+     "train",
+     "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 1461,
+   "b": 1501,
+   "d": 6,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0290",
+   "files": [
+    [
+     "train",
+     "common-welding-defects_jpg.rf.3097ce816b2c8402f1173ab510636b69.jpg"
+    ],
+    [
+     "train",
+     "common-welding-defects_jpg.rf.df8eacc72486ae03a2239ae2bd04609e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 999,
+   "b": 4283,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0291",
+   "files": [
+    [
+     "train",
+     "8-54-_90_jpg.rf.34e7cdaae846285ab362a9874992f364.jpg"
+    ],
+    [
+     "valid",
+     "8-51-_180_flip_jpg.rf.63791f1b13e970fce89b3ed821c37fa6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1075,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0292",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 924,
+   "b": 925,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0293",
+   "files": [
+    [
+     "train",
+     "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg"
+    ],
+    [
+     "train",
+     "8-114-_90_jpg.rf.6bf98d0ab8ddb5926f52e3165f1f7556.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 1797,
+   "b": 1803,
+   "d": 6,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0294",
+   "files": [
+    [
+     "train",
+     "FB_IMG_1675164497985_jpg.rf.02cb7d1eced2de8b05294e62d6593403.jpg"
+    ],
+    [
+     "train",
+     "FB_IMG_1675164497985_jpg.rf.39d8af56678d38e182e2a69c61e568c2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1023,
+   "b": 4785,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0295",
+   "files": [
+    [
+     "train",
+     "8-66-_90_flip_jpg.rf.a6caae9e0a5fe2857f83bb701d5d1bf1.jpg"
+    ],
+    [
+     "test",
+     "8-64-_270_flip_jpg.rf.9783ae6aa99b5fa68545f790a2d2bda3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1970,
+   "b": 2105,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0296",
+   "files": [
+    [
+     "train",
+     "images-17-_jpeg_jpg.rf.402b890bcb86ead8592c5e6e272d5c37.jpg"
+    ],
+    [
+     "train",
+     "IMG_20220604_180041_jpg.rf.90dc2c69f02f89e41d67a38efacc7308.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1090,
+   "b": 4785,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0297",
+   "files": [
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ],
+    [
+     "test",
+     "8-64-_270_flip_jpg.rf.9783ae6aa99b5fa68545f790a2d2bda3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 592,
+   "b": 600,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0298",
+   "files": [
+    [
+     "train",
+     "7-208-_270_flip_jpg.rf.8c4baa724553a86d0f56e913936fff2a.jpg"
+    ],
+    [
+     "train",
+     "7-209-_90_flip_jpg.rf.77715f4fd3ba55912b6b44a05e6d569f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1451,
+   "b": 1526,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0299",
+   "files": [
+    [
+     "train",
+     "Centerline-Crack_jpg.rf.450be0aff05c3ea9ec025f2591b58bb0.jpg"
+    ],
+    [
+     "train",
+     "crack-welding-images_11_jpeg_jpg.rf.64cb3d7997c91c1417326d541f77c570.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 950,
+   "b": 4287,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0300",
+   "files": [
+    [
+     "train",
+     "8-39-_90_jpg.rf.2f3214b49483b5697b9063c38fcea509.jpg"
+    ],
+    [
+     "valid",
+     "8-57-_180_jpg.rf.fa8fe023291d9d4c7ff2a753ec0d5075.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1174,
+   "b": 1177,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0301",
+   "files": [
+    [
+     "train",
+     "9-40-_270_flip_jpg.rf.34d0b89462c943142e91cc33fe02be4c.jpg"
+    ],
+    [
+     "train",
+     "9-41-_180_jpg.rf.230ecc8bc2933ff5d9a2a5b8fa4f09a7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 567,
+   "b": 560,
+   "d": 12,
+   "test_id": "test_00020",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0302",
+   "files": [
+    [
+     "train",
+     "7-203-_0_jpg.rf.a3be381ac93658112057c69066636949.jpg"
+    ],
+    [
+     "train",
+     "7-202-_0_jpg.rf.2ed199a0a50e2fc9628e5badbfd0a83b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1156,
+   "b": 1172,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0303",
+   "files": [
+    [
+     "train",
+     "9-3-_0_flip_jpg.rf.537e4db08cc40ad28a94422ad81b0de1.jpg"
+    ],
+    [
+     "train",
+     "9-4-_270_jpg.rf.d1d38f50382b31aa50ccc3e2e64148e7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 4843,
+   "b": 4256,
+   "d": 24,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0304",
+   "files": [
+    [
+     "test",
+     "Example-of-Welding-Porosity_jpg.rf.e4eb14975e8d71eee9cbf95bec22237f.jpg"
+    ],
+    [
+     "valid",
+     "7-93-_0_jpg.rf.b1c594695399e3e152a115c5deb8e2f5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1136,
+   "b": 1138,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0305",
+   "files": [
+    [
+     "train",
+     "9-14-_270_jpg.rf.04efaae33f98a20b3fd42ea2e3cf0ff2.jpg"
+    ],
+    [
+     "train",
+     "9-15-_0_flip_jpg.rf.4fb409b089dd7e37e5040072ddf4f4f1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 699,
+   "b": 704,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0306",
+   "files": [
+    [
+     "train",
+     "7-254-_0_jpg.rf.9cd4af49b93829c3c7c1d225adeac2d0.jpg"
+    ],
+    [
+     "train",
+     "7-256-_180_flip_jpg.rf.e2b7e136105ec00170518763911fab8d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2229,
+   "b": 4447,
+   "d": 6,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0307",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.b034829d6d341e3438352abab565035a.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3621_block_0_1_png_jpg.rf.3fbaa0c937a6890f70906bca8c225d80.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 831,
+   "b": 832,
+   "d": 8,
+   "test_id": "test_00030",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0308",
+   "files": [
+    [
+     "train",
+     "7-60-_90_jpg.rf.bcc76b4893c002a4df8b202f6ca42cec.jpg"
+    ],
+    [
+     "train",
+     "7-61-_180_flip_jpg.rf.bb3c2824e77bc70cc45a8b3c1e8983cf.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2472,
+   "b": 2497,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0309",
+   "files": [
+    [
+     "train",
+     "IMG_3624_block_0_0_png_jpg.rf.2f87c3753cfb09d734afe6db86e463ad.jpg"
+    ],
+    [
+     "train",
+     "IMG_3624_block_0_0_png_jpg.rf.faee48bad6f83bfdf15f9f476990852c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4235,
+   "b": 797,
+   "d": 12,
+   "test_id": "test_00029",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0310",
+   "files": [
+    [
+     "valid",
+     "7-51-_0_jpg.rf.1526dc7cd70d16ce0897ca2b06a6dd3f.jpg"
+    ],
+    [
+     "train",
+     "7-50-_0_jpg.rf.dc98af491082dc237da851e7438e2486.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1028,
+   "b": 4786,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0311",
+   "files": [
+    [
+     "train",
+     "8-69-_270_flip_jpg.rf.193a2b43244b1d929a1dda506f95a7a7.jpg"
+    ],
+    [
+     "test",
+     "8-68-_90_flip_jpg.rf.f27e4f43907237e5ecfea7dbafed7d81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1080,
+   "b": 1087,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0312",
+   "files": [
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 918,
+   "b": 4771,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0313",
+   "files": [
+    [
+     "train",
+     "8-102-_270_flip_jpg.rf.14220193b4ad55be4a7903f99782ce8b.jpg"
+    ],
+    [
+     "test",
+     "8-26-_0_jpg.rf.28984a1f49c18132f645362acfc5dd36.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1015,
+   "b": 4286,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0314",
+   "files": [
+    [
+     "train",
+     "8-63-_270_jpg.rf.a3cddeb0e8355b14bbcdeede2d8001bd.jpg"
+    ],
+    [
+     "valid",
+     "8-56-_0_flip_jpg.rf.f1d18868ccb77263eaa8f5b14e2cfad8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 4341,
+   "b": 1791,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0315",
+   "files": [
+    [
+     "valid",
+     "9-65-_90_flip_jpg.rf.73f7448781fd8e1675812330c82e6b84.jpg"
+    ],
+    [
+     "train",
+     "FB_IMG_1675164495572_jpg.rf.80df85752c81bcee3a30ff6b9f228d34.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 692,
+   "b": 4200,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0316",
+   "files": [
+    [
+     "train",
+     "7-250-_0_flip_jpg.rf.6e4b541800493dcba4993d526028d8f1.jpg"
+    ],
+    [
+     "valid",
+     "7-251-_0_flip_jpg.rf.caf8184d74bf4261c083059d27b1da51.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1002,
+   "b": 4274,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0317",
+   "files": [
+    [
+     "train",
+     "8-56-_180_jpg.rf.da55f444bbfd9bce6913193b9c4cd8f3.jpg"
+    ],
+    [
+     "valid",
+     "8-46-_0_jpg.rf.5cf9be3ab172627a3f23906bb3d2a52b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 990,
+   "b": 1021,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0318",
+   "files": [
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ],
+    [
+     "train",
+     "8-66-_0_flip_jpg.rf.bf620f56613c04d5560de8728e269490.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3968,
+   "b": 3974,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0319",
+   "files": [
+    [
+     "train",
+     "welding-seam_Praphan-Jampala_shutterstock_jpg.rf.7606bf5dbf944374773cbd97b4a1f98e.jpg"
+    ],
+    [
+     "train",
+     "welding-seam_Praphan-Jampala_shutterstock_jpg.rf.ebc9569f22648e70b781c5dc4ca01399.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 926,
+   "b": 1105,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0320",
+   "files": [
+    [
+     "train",
+     "8-116-_180_flip_jpg.rf.fb991dea9f6d8733d78f54ddd6424c1a.jpg"
+    ],
+    [
+     "train",
+     "8-93-_180_flip_jpg.rf.1caf7f6beed8bb2687800c4a8e12d1c3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1095,
+   "b": 4283,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0321",
+   "files": [
+    [
+     "train",
+     "8-90-_0_jpg.rf.fd2dc0ddae9177cd2432fcb9ce71c350.jpg"
+    ],
+    [
+     "valid",
+     "8-51-_180_flip_jpg.rf.63791f1b13e970fce89b3ed821c37fa6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4335,
+   "b": 4799,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0322",
+   "files": [
+    [
+     "valid",
+     "9-44-_0_flip_jpg.rf.f34e048a7c4e6ab6f9389201be2f8327.jpg"
+    ],
+    [
+     "test",
+     "9-10-_270_jpg.rf.30fd4b189f6e99a2c546dc5eb59b88fc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 916,
+   "b": 1090,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0323",
+   "files": [
+    [
+     "train",
+     "8-10-_180_flip_jpg.rf.5af69ef88bc5633b58ae8ce10c4b7e3a.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 807,
+   "b": 808,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0324",
+   "files": [
+    [
+     "train",
+     "7-54-_270_flip_jpg.rf.c0f58d73e4a442203bd3c8c8529128e1.jpg"
+    ],
+    [
+     "train",
+     "7-55-_0_flip_jpg.rf.067009814c01963e7e1b20c07a508e97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 927,
+   "b": 4291,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0325",
+   "files": [
+    [
+     "train",
+     "8-12-_0_jpg.rf.46a39828b6b8ea407ad55cedf5a57fc3.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1106,
+   "b": 4283,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0326",
+   "files": [
+    [
+     "train",
+     "8-93-_180_jpg.rf.c3bb387d278bb5cb06eb6319cdfb29da.jpg"
+    ],
+    [
+     "valid",
+     "8-51-_180_flip_jpg.rf.63791f1b13e970fce89b3ed821c37fa6.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1004,
+   "b": 4277,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0327",
+   "files": [
+    [
+     "train",
+     "8-57-_0_jpg.rf.cb17a2d3eb9a1002464a90959c0087eb.jpg"
+    ],
+    [
+     "valid",
+     "8-49-_270_flip_jpg.rf.3e5f2c8e9e218bb605047d19c680e642.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4205,
+   "b": 699,
+   "d": 6,
+   "test_id": "test_00025",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0328",
+   "files": [
+    [
+     "valid",
+     "7-255-_90_jpg.rf.1e4093dfcfdc08d672a7fadee4117e2f.jpg"
+    ],
+    [
+     "train",
+     "7-254-_0_jpg.rf.9cd4af49b93829c3c7c1d225adeac2d0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 916,
+   "b": 1083,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0329",
+   "files": [
+    [
+     "train",
+     "8-10-_180_flip_jpg.rf.5af69ef88bc5633b58ae8ce10c4b7e3a.jpg"
+    ],
+    [
+     "train",
+     "8-88-_0_flip_jpg.rf.2accb4b13a0bef28afe284cdc697aa97.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1049,
+   "b": 4284,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0330",
+   "files": [
+    [
+     "train",
+     "8-77-_180_jpg.rf.7ce6f5793f9540e44a3b8202bb805967.jpg"
+    ],
+    [
+     "valid",
+     "8-53-_270_flip_jpg.rf.79fbf3366f516f6fe199c1a734b6380f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 869,
+   "b": 3189,
+   "d": 22,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0331",
+   "files": [
+    [
+     "train",
+     "7-73-_90_jpg.rf.eed686dd352aac628982a0a8e0d081a2.jpg"
+    ],
+    [
+     "train",
+     "photox_jpg.rf.80f44e97eecbddf71256460aa674c313.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 370,
+   "b": 4462,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0332",
+   "files": [
+    [
+     "train",
+     "5-4-_0_flip_jpg.rf.7ee42f34658ab181c76276ec971467c8.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3622_block_2_2_png_jpg.rf.05d1865cbe2dd361c442a97c741a902d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4274,
+   "b": 4276,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0333",
+   "files": [
+    [
+     "valid",
+     "8-46-_0_jpg.rf.5cf9be3ab172627a3f23906bb3d2a52b.jpg"
+    ],
+    [
+     "valid",
+     "8-47-_180_jpg.rf.0e365286b952b08e7f2833580187eb20.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1193,
+   "b": 4344,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0334",
+   "files": [
+    [
+     "train",
+     "9-5-_0_flip_jpg.rf.361f347449dc0d18ca283975ea8ea9f3.jpg"
+    ],
+    [
+     "valid",
+     "9-7-_0_jpg.rf.052a232de423a4985d412f6b067bef0b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 610,
+   "b": 4179,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0335",
+   "files": [
+    [
+     "train",
+     "7-212-_90_flip_jpg.rf.605a5c481d041c86b19c6a0da195637e.jpg"
+    ],
+    [
+     "valid",
+     "7-211-_0_flip_jpg.rf.5db795a57a95442bedcef5ee15969a7d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1058,
+   "b": 1090,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0336",
+   "files": [
+    [
+     "train",
+     "8-8-_0_jpg.rf.daaa30fa2c768cbfb7e7eeb2e536f4c6.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 96,
+   "b": 98,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0337",
+   "files": [
+    [
+     "train",
+     "280490384_341760774761935_1655426378473161441_n-Copy_png_jpg.rf.a70a2d2ee75e35a67a76126e160ae7d0.jpg"
+    ],
+    [
+     "train",
+     "280490384_341760774761935_1655426378473161441_n-Copy_png_jpg.rf.bcf23e99ec3eafb2ec99e78036f5be10.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 924,
+   "b": 960,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0338",
+   "files": [
+    [
+     "train",
+     "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg"
+    ],
+    [
+     "train",
+     "8-42-_0_flip_jpg.rf.71cbc8ccb3c06089f90cf6efad5f197a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1176,
+   "b": 1177,
+   "d": 0,
+   "test_id": "test_00042",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0339",
+   "files": [
+    [
+     "train",
+     "9-40-_90_jpg.rf.5d45e235a5ce946a9bb09fbf481aef17.jpg"
+    ],
+    [
+     "train",
+     "9-41-_180_jpg.rf.230ecc8bc2933ff5d9a2a5b8fa4f09a7.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1431,
+   "b": 2158,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0340",
+   "files": [
+    [
+     "train",
+     "bad_weld_vid691_jpeg_jpg.rf.c9e622a58d128ef1c629728390ee3b27.jpg"
+    ],
+    [
+     "train",
+     "IMG_3620_block_1_2_png_jpg.rf.0c509f9c269d4f8230caa376ded4c1a4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1454,
+   "b": 3811,
+   "d": 10,
+   "test_id": "test_00047",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0341",
+   "files": [
+    [
+     "train",
+     "common-welding-defects_jpg.rf.033f8f71f439753e4a173d6e01dba239.jpg"
+    ],
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.2071e07a8607b10609cad6d2c737dfbc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 999,
+   "b": 4769,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0342",
+   "files": [
+    [
+     "train",
+     "8-54-_90_jpg.rf.34e7cdaae846285ab362a9874992f364.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 517,
+   "b": 518,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0343",
+   "files": [
+    [
+     "train",
+     "7-158-_90_flip_jpg.rf.0ffabf659b1f8cc0a292dd3f4c7e1620.jpg"
+    ],
+    [
+     "train",
+     "7-159-_180_jpg.rf.63cd63371fd7bb3da84a7c57d944397e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4263,
+   "b": 1090,
+   "d": 4,
+   "test_id": "test_00033",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0344",
+   "files": [
+    [
+     "valid",
+     "8-10-_0_jpg.rf.9397538ec4d0a877dc2973fa5323d7b6.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1087,
+   "b": 4798,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0345",
+   "files": [
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ],
+    [
+     "test",
+     "8-9-_0_jpg.rf.ffdd6b23470376ca61908b0bd1256fda.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1097,
+   "b": 1101,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0346",
+   "files": [
+    [
+     "train",
+     "8-91-_180_flip_jpg.rf.e5de4c0875d7c2b34263de93da7e5bd7.jpg"
+    ],
+    [
+     "train",
+     "8-92-_180_flip_jpg.rf.c919b2dba3a40cd587e49e0f9c6dc1cc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 988,
+   "b": 993,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0347",
+   "files": [
+    [
+     "train",
+     "8-51-_0_flip_jpg.rf.e4c3c836012397af7fee322b23dae508.jpg"
+    ],
+    [
+     "train",
+     "8-53-_0_flip_jpg.rf.b4a9e215ac503bb6b211d7bef004d1cb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4347,
+   "b": 4810,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0348",
+   "files": [
+    [
+     "valid",
+     "9-70-_90_jpg.rf.bbfcf50065a4cc2433751a4df10a2b82.jpg"
+    ],
+    [
+     "test",
+     "9-71-_180_jpg.rf.1a978bc3abab61afd26060eb2e3523e0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1159,
+   "b": 1163,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0349",
+   "files": [
+    [
+     "train",
+     "9-35-_0_jpg.rf.9db49be338a246fcd15b62f6ac283b59.jpg"
+    ],
+    [
+     "train",
+     "9-36-_90_jpg.rf.b608dac64015b969b3df6152e3c59964.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 925,
+   "b": 964,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0350",
+   "files": [
+    [
+     "train",
+     "8-114-_90_jpg.rf.6bf98d0ab8ddb5926f52e3165f1f7556.jpg"
+    ],
+    [
+     "train",
+     "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 743,
+   "b": 4703,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0351",
+   "files": [
+    [
+     "train",
+     "7-33-_90_jpg.rf.bd7fc46f48f01dfee82ab222b1cfb36c.jpg"
+    ],
+    [
+     "test",
+     "7-11-_90_jpg.rf.06372f858ab13f3950fdbe2d76fe9b4c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1129,
+   "b": 1134,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0352",
+   "files": [
+    [
+     "train",
+     "9-12-_0_flip_jpg.rf.e0046042188b3d3513008a5443492c02.jpg"
+    ],
+    [
+     "train",
+     "9-13-_90_jpg.rf.ae0a92c14b4530e62dc72be0136fa510.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1209,
+   "b": 1214,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0353",
+   "files": [
+    [
+     "train",
+     "9-69-_180_flip_jpg.rf.1887e164562ba5016a775b9ebfa658ca.jpg"
+    ],
+    [
+     "train",
+     "9-70-_0_flip_jpg.rf.0ba7ac003d3f3b6d219c764be69e9c7f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1998,
+   "b": 2036,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0354",
+   "files": [
+    [
+     "train",
+     "images-2-_jpg.rf.6c62ed39ce853f6b4c9e041a9b9870e0.jpg"
+    ],
+    [
+     "train",
+     "images-5-_jpg.rf.44f818a999c2a715f609b0780abd3ae0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2555,
+   "b": 2578,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0355",
+   "files": [
+    [
+     "train",
+     "IMG_3625_block_0_2_png_jpg.rf.235e337154a358544d263c3e1bb81fef.jpg"
+    ],
+    [
+     "train",
+     "IMG_3625_block_0_2_png_jpg.rf.ce11b42c736351ae7e48699a98232504.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 928,
+   "b": 4769,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0356",
+   "files": [
+    [
+     "train",
+     "8-12-_180_flip_jpg.rf.4d1c77af4a8550a2f498d53b7f0978f8.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1695,
+   "b": 3552,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0357",
+   "files": [
+    [
+     "train",
+     "element-part-welded-structure-arc-welded-seam-technological-holes-element-part-welded-structure-arc-214336100_jpg.rf.f26a48e9742cd0ef8fe81fedc64be549.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.0b6674233aa239a01a4dc846e074b9f1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1012,
+   "b": 1090,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0358",
+   "files": [
+    [
+     "train",
+     "8-6-_90_jpg.rf.68693c39f7287e002e4b7c0393da7431.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 996,
+   "b": 1016,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0359",
+   "files": [
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ],
+    [
+     "train",
+     "8-64-_0_flip_jpg.rf.13d0e0470f78df52fb80c9ba43d6cc12.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 924,
+   "b": 964,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0360",
+   "files": [
+    [
+     "train",
+     "8-113-_180_jpg.rf.cb400b1107880fbe72a21d8595fb97fd.jpg"
+    ],
+    [
+     "train",
+     "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4328,
+   "b": 1136,
+   "d": 2,
+   "test_id": "test_00041",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0361",
+   "files": [
+    [
+     "valid",
+     "9-15-_90_jpg.rf.957ef554602118cef3ce41f973298cf9.jpg"
+    ],
+    [
+     "train",
+     "9-14-_270_jpg.rf.04efaae33f98a20b3fd42ea2e3cf0ff2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1030,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0362",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 4284,
+   "b": 4780,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0363",
+   "files": [
+    [
+     "valid",
+     "8-53-_270_flip_jpg.rf.79fbf3366f516f6fe199c1a734b6380f.jpg"
+    ],
+    [
+     "test",
+     "8-55-_270_flip_jpg.rf.26b6da7f0f886fc54042b67417e03f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 4321,
+   "b": 4770,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0364",
+   "files": [
+    [
+     "valid",
+     "8-96-_180_flip_jpg.rf.d0981fe5b53246cde3310c1e79c842fa.jpg"
+    ],
+    [
+     "test",
+     "8-20-_180_jpg.rf.7e87984bdb4dc045c10783ba70a0e870.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 1075,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0365",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-86-_0_jpg.rf.40a07660dccdee85f3fd65059d1d87e4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1112,
+   "b": 4321,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0366",
+   "files": [
+    [
+     "train",
+     "8-95-_0_jpg.rf.3b2fbcbcd82bed6c87c9f32cf0fbf00a.jpg"
+    ],
+    [
+     "valid",
+     "8-96-_180_flip_jpg.rf.d0981fe5b53246cde3310c1e79c842fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 944,
+   "b": 946,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0367",
+   "files": [
+    [
+     "train",
+     "8-32-_270_jpg.rf.5797258a5651a6f65d40fe1af4ca92bb.jpg"
+    ],
+    [
+     "train",
+     "8-33-_270_jpg.rf.9460f1248d17eace0f796e3b1b217ebb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 977,
+   "b": 985,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0368",
+   "files": [
+    [
+     "train",
+     "8-48-_180_jpg.rf.097979a89cdd974412dc8d969fb6371e.jpg"
+    ],
+    [
+     "train",
+     "8-50-_0_flip_jpg.rf.b9a97ea80bfb46af331eb2eb38cdeba3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 2651,
+   "b": 2659,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0369",
+   "files": [
+    [
+     "train",
+     "IMG_3627_block_2_1_png_jpg.rf.32556a44c0652a6b4c5098e6a1417f17.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_2_1_png_jpg.rf.81b072277ee14a63900f808a73dc9da1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 994,
+   "b": 4076,
+   "d": 26,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0370",
+   "files": [
+    [
+     "train",
+     "8-53-_0_jpg.rf.6cb13aeec0c8403627dea2170d19fd3b.jpg"
+    ],
+    [
+     "valid",
+     "4-33-_0_flip_jpg.rf.975829fffc3209d39b62d579b330147a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1118,
+   "b": 4321,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0371",
+   "files": [
+    [
+     "train",
+     "8-98-_90_flip_jpg.rf.336f836955d331ad19eb5c405994f254.jpg"
+    ],
+    [
+     "valid",
+     "8-96-_180_flip_jpg.rf.d0981fe5b53246cde3310c1e79c842fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1089,
+   "b": 4288,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0372",
+   "files": [
+    [
+     "train",
+     "8-89-_90_jpg.rf.dc006546795f60a8c344575378f2bbc6.jpg"
+    ],
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1164,
+   "b": 4331,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0373",
+   "files": [
+    [
+     "train",
+     "9-37-_0_flip_jpg.rf.ee6448775ed3365e738216f71a1f03bc.jpg"
+    ],
+    [
+     "valid",
+     "9-36-_180_jpg.rf.f9269578e8647aa7b7e5b63c9db51c17.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 928,
+   "b": 1090,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0374",
+   "files": [
+    [
+     "train",
+     "8-12-_180_flip_jpg.rf.4d1c77af4a8550a2f498d53b7f0978f8.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 1601,
+   "b": 1420,
+   "d": 30,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0375",
+   "files": [
+    [
+     "train",
+     "crack_welding_jpg.rf.4096e289bdfbe081bae1ee57360ecc48.jpg"
+    ],
+    [
+     "train",
+     "bad_weld_vid689_jpeg_jpg.rf.7dd5d28d6b02cdc92ce22d611bf919a8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3035,
+   "b": 3039,
+   "d": 2,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0376",
+   "files": [
+    [
+     "train",
+     "IMG_3654_block_2_2_png_jpg.rf.4c3d10613fab51972cc8fae0f706390e.jpg"
+    ],
+    [
+     "train",
+     "IMG_3654_block_2_2_png_jpg.rf.6fa0c7a5cb455000d2236dbcb8cb7548.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 965,
+   "b": 4274,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0377",
+   "files": [
+    [
+     "train",
+     "8-43-_270_jpg.rf.c4d00fc6f642d49f89e96e6e86e86309.jpg"
+    ],
+    [
+     "valid",
+     "8-46-_0_jpg.rf.5cf9be3ab172627a3f23906bb3d2a52b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 947,
+   "b": 4769,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0378",
+   "files": [
+    [
+     "train",
+     "8-36-_0_flip_jpg.rf.57bebf1639e5a3817a4f54033263360c.jpg"
+    ],
+    [
+     "test",
+     "8-110-_180_jpg.rf.bc23eaebfd49637b1bf9972936d65921.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1138,
+   "b": 4800,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0379",
+   "files": [
+    [
+     "train",
+     "9-15-_0_flip_jpg.rf.4fb409b089dd7e37e5040072ddf4f4f1.jpg"
+    ],
+    [
+     "test",
+     "9-13-_0_flip_jpg.rf.54b173ff4e29bdb1d1b164aec59d4792.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_pos_same_content",
+   "a": 3654,
+   "b": 4942,
+   "d": 4,
+   "strata": [
+    "C_pos_same_content"
+   ],
+   "id": "P0380",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.3c798ee12a6ed5a4cc53eaadda42a7dd.jpg"
+    ],
+    [
+     "test",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.91bbff53707dba913a6958008176a935.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 1005,
+   "b": 1047,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0381",
+   "files": [
+    [
+     "train",
+     "8-57-_270_flip_jpg.rf.bbd3283e57eb17464d0e6c6879d790e4.jpg"
+    ],
+    [
+     "train",
+     "8-76-_0_jpg.rf.2f8d25b9c04c3b322c373565de37a8f5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 951,
+   "b": 1073,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0382",
+   "files": [
+    [
+     "train",
+     "8-4-_0_flip_jpg.rf.3f0cec432302fc404340b423d919deb9.jpg"
+    ],
+    [
+     "train",
+     "8-85-_180_jpg.rf.32e8b3df7dfaa9bfe857c1e1169f4f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1030,
+   "b": 1090,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0383",
+   "files": [
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ],
+    [
+     "train",
+     "8-9-_180_flip_jpg.rf.3ea3a9d1180ef9bca80c50c5c0a7e406.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1002,
+   "b": 4284,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0384",
+   "files": [
+    [
+     "train",
+     "8-56-_180_jpg.rf.da55f444bbfd9bce6913193b9c4cd8f3.jpg"
+    ],
+    [
+     "valid",
+     "8-53-_270_flip_jpg.rf.79fbf3366f516f6fe199c1a734b6380f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 3649,
+   "b": 4624,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0385",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.2bb2ebd593451da3bce8eb9631108390.jpg"
+    ],
+    [
+     "valid",
+     "weld-defects-1_jpg.rf.eb456cd724a44f08ff5904af375118da.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 4673,
+   "b": 214,
+   "d": 10,
+   "test_id": "test_00008",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0386",
+   "files": [
+    [
+     "test",
+     "4-85-_180_jpg.rf.a3ed81a1786049234387468326e8ca04.jpg"
+    ],
+    [
+     "train",
+     "4-84-_270_flip_jpg.rf.384e948d156c004d810bb4b8eaea7d3c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 990,
+   "b": 1025,
+   "d": 12,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0387",
+   "files": [
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ],
+    [
+     "train",
+     "8-67-_180_jpg.rf.9eaf79c189ab3d63e4857bde89397c71.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 4181,
+   "b": 3899,
+   "d": 30,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0388",
+   "files": [
+    [
+     "valid",
+     "7-214-_90_jpg.rf.42f2f56280ecba675632d4c483274231.jpg"
+    ],
+    [
+     "train",
+     "weld_new-25-_jpg.rf.5737af9517d503e52d806015f089a5db.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 998,
+   "b": 4281,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0389",
+   "files": [
+    [
+     "train",
+     "8-54-_90_flip_jpg.rf.e8749a97927f99c85eaac4a94866c535.jpg"
+    ],
+    [
+     "valid",
+     "8-50-_180_flip_jpg.rf.fbba9ec147d884fa8324c7e45a7f0a81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 941,
+   "b": 996,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0390",
+   "files": [
+    [
+     "train",
+     "8-29-_270_jpg.rf.34b23c8572f465e889b0ed76d84e0642.jpg"
+    ],
+    [
+     "train",
+     "8-54-_0_flip_jpg.rf.8daddeff98f59f2ea5bd33576efcb7ec.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 702,
+   "b": 704,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0391",
+   "files": [
+    [
+     "train",
+     "7-255-_180_jpg.rf.9a7526ffd312e559f6b0fad76d2fa007.jpg"
+    ],
+    [
+     "train",
+     "7-256-_180_flip_jpg.rf.e2b7e136105ec00170518763911fab8d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1011,
+   "b": 1080,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0392",
+   "files": [
+    [
+     "train",
+     "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 1199,
+   "b": 4799,
+   "d": 10,
+   "test_id": "test_00043",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0393",
+   "files": [
+    [
+     "train",
+     "9-65-_0_flip_jpg.rf.13d27e43e3d4d38410e293e3f3610889.jpg"
+    ],
+    [
+     "test",
+     "9-10-_270_jpg.rf.30fd4b189f6e99a2c546dc5eb59b88fc.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U5_link_9_12",
+   "a": 932,
+   "b": 946,
+   "d": 10,
+   "strata": [
+    "U5_link_9_12"
+   ],
+   "id": "P0394",
+   "files": [
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ],
+    [
+     "train",
+     "8-33-_270_jpg.rf.9460f1248d17eace0f796e3b1b217ebb.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1120,
+   "b": 4321,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0395",
+   "files": [
+    [
+     "train",
+     "8-99-_180_jpg.rf.ee11ed34d1b7076c35d3eda247ee2040.jpg"
+    ],
+    [
+     "valid",
+     "8-96-_180_flip_jpg.rf.d0981fe5b53246cde3310c1e79c842fa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 3174,
+   "b": 4379,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0396",
+   "files": [
+    [
+     "train",
+     "Not-perfect-welding-images_10_jpeg_jpg.rf.0cd1f663a6b17270ce2d01bb2aa2bfb6.jpg"
+    ],
+    [
+     "valid",
+     "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U6_test_nearest",
+   "a": 414,
+   "b": 415,
+   "d": 12,
+   "test_id": "test_00014",
+   "strata": [
+    "U6_test_nearest"
+   ],
+   "id": "P0397",
+   "files": [
+    [
+     "train",
+     "6-76-_180_flip_jpg.rf.74556361757cfd4938355bcc3e5d6969.jpg"
+    ],
+    [
+     "train",
+     "6-83-_90_jpg.rf.a3281aeb80fd9a27c508e5f8282ca9d0.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 958,
+   "b": 1013,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0398",
+   "files": [
+    [
+     "train",
+     "8-40-_90_flip_jpg.rf.8cf75830c03147ee09cc1d1f64d05b62.jpg"
+    ],
+    [
+     "train",
+     "8-61-_0_flip_jpg.rf.f29aafc8ef0b6fce678ea443ea677569.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 1011,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0399",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-6-_180_jpg.rf.723a967cf0a31127a5d5754a19c9f51d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 343,
+   "b": 348,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0400",
+   "files": [
+    [
+     "train",
+     "5-179-_0_flip_jpg.rf.ce78ce7ca2934b2149cacdf9c272e7c7.jpg"
+    ],
+    [
+     "train",
+     "5-180-_270_flip_jpg.rf.daf0ef4f25e5aa60ff6a359f35d2a7af.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1085,
+   "b": 4306,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0401",
+   "files": [
+    [
+     "train",
+     "8-88-_180_jpg.rf.f483ccf49a4f5fc45ba4675dfb3b108c.jpg"
+    ],
+    [
+     "valid",
+     "8-8-_180_jpg.rf.0f28d52a66a75f675eb3c6f597cad206.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1030,
+   "b": 1087,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0402",
+   "files": [
+    [
+     "train",
+     "8-7-_0_jpg.rf.356ab3fe06eaab56d78fffd7ed93439e.jpg"
+    ],
+    [
+     "train",
+     "8-89-_180_jpg.rf.f18f602110f6819b95da5b1da2fecf7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 942,
+   "b": 1073,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0403",
+   "files": [
+    [
+     "train",
+     "8-3-_0_jpg.rf.a544abe5492bda44a86d702341e83032.jpg"
+    ],
+    [
+     "train",
+     "8-85-_180_jpg.rf.32e8b3df7dfaa9bfe857c1e1169f4f45.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1122,
+   "b": 1226,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0404",
+   "files": [
+    [
+     "train",
+     "9-10-_0_jpg.rf.98231f929141c94f47d3c45379a1d18d.jpg"
+    ],
+    [
+     "train",
+     "9-9-_0_flip_jpg.rf.67548d67a1f8f1daedb9b71392e6637d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1037,
+   "b": 4299,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0405",
+   "files": [
+    [
+     "train",
+     "8-71-_0_flip_jpg.rf.e3ff846bf3862a1061bf3aa4a7e7abe8.jpg"
+    ],
+    [
+     "valid",
+     "8-73-_0_flip_jpg.rf.12bb98afdf139b8a4504e3794baab9c5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1002,
+   "b": 4291,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0406",
+   "files": [
+    [
+     "train",
+     "8-56-_180_jpg.rf.da55f444bbfd9bce6913193b9c4cd8f3.jpg"
+    ],
+    [
+     "valid",
+     "8-62-_90_jpg.rf.318d7225281a1caac18a30ab4f7db3d2.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 964,
+   "b": 966,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0407",
+   "files": [
+    [
+     "train",
+     "8-43-_0_jpg.rf.cdd28983f95a6f40d86b92dc1b772c96.jpg"
+    ],
+    [
+     "train",
+     "8-44-_270_flip_jpg.rf.c15807bf2cc770ec3f1db60ecd8f9464.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1059,
+   "b": 1080,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0408",
+   "files": [
+    [
+     "train",
+     "8-8-_180_flip_jpg.rf.d5898201c62a1f4d6a57a3c54036691b.jpg"
+    ],
+    [
+     "train",
+     "8-87-_180_flip_jpg.rf.dd2c73f6fcc87b2cb723a9e7719037b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 1000,
+   "b": 4288,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0409",
+   "files": [
+    [
+     "train",
+     "8-55-_0_jpg.rf.b289fc3ba099db0f4c191aee4886f64f.jpg"
+    ],
+    [
+     "valid",
+     "8-60-_90_flip_jpg.rf.8280453072cbc7d2d0584d3e0e059d58.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 927,
+   "b": 941,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0410",
+   "files": [
+    [
+     "train",
+     "8-12-_0_jpg.rf.46a39828b6b8ea407ad55cedf5a57fc3.jpg"
+    ],
+    [
+     "train",
+     "8-29-_270_jpg.rf.34b23c8572f465e889b0ed76d84e0642.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1539,
+   "b": 4379,
+   "d": 0,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0411",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_12_jpeg_jpg.rf.29819ce15d473ab0ae1d47087d896ea3.jpg"
+    ],
+    [
+     "valid",
+     "crack_4_png_jpg.rf.0d8611aa1a16bfd3ec9939e11b692e83.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1006,
+   "b": 1008,
+   "d": 4,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0412",
+   "files": [
+    [
+     "train",
+     "8-58-_0_flip_jpg.rf.60548864b957ec96742cf06028f293ab.jpg"
+    ],
+    [
+     "train",
+     "8-59-_180_flip_jpg.rf.989c3a096752708109227ae62610a02d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 990,
+   "b": 4786,
+   "d": 8,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0413",
+   "files": [
+    [
+     "train",
+     "8-52-_0_jpg.rf.fa2b0cb5ef2589d4f78eb51da4ed3582.jpg"
+    ],
+    [
+     "test",
+     "8-68-_90_flip_jpg.rf.f27e4f43907237e5ecfea7dbafed7d81.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U3_link_le4",
+   "a": 1153,
+   "b": 1156,
+   "d": 2,
+   "strata": [
+    "U3_link_le4"
+   ],
+   "id": "P0414",
+   "files": [
+    [
+     "train",
+     "9-2-_90_flip_jpg.rf.725c035e7b8f7d0d4b57582f02cc692b.jpg"
+    ],
+    [
+     "train",
+     "9-3-_0_flip_jpg.rf.537e4db08cc40ad28a94422ad81b0de1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U4_link_5_8",
+   "a": 932,
+   "b": 1094,
+   "d": 6,
+   "strata": [
+    "U4_link_5_8"
+   ],
+   "id": "P0415",
+   "files": [
+    [
+     "train",
+     "8-13-_0_jpg.rf.47ba9a2f43e58f23eb3c7ec789950707.jpg"
+    ],
+    [
+     "train",
+     "8-90-_0_flip_jpg.rf.3fd6d024064be93f463c3a9c860d4700.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "C_neg_far",
+   "a": 569,
+   "b": 4483,
+   "d": 24,
+   "strata": [
+    "C_neg_far"
+   ],
+   "id": "P0416",
+   "files": [
+    [
+     "train",
+     "7-203-_270_flip_jpg.rf.fb0dce12aa902f82107bbf6dc67093d5.jpg"
+    ],
+    [
+     "valid",
+     "IMG_3624_block_0_0_png_jpg.rf.8bf3854736bc5648453b550e7f86a382.jpg"
+    ]
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "stratum": "U1_content_group",
+   "content": "img_3654_block_2_2",
+   "reps": [
+    3027
+   ],
+   "sizes": [
+    22
+   ],
+   "id": "G01",
+   "files": [
+    [
+     "train",
+     "IMG_3654_block_2_2_png_jpg.rf.01ecd93ce0e21af88d4b2fb45866fd10.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-102754",
+   "reps": [
+    3391,
+    3400,
+    3393,
+    3398,
+    3392,
+    3410
+   ],
+   "sizes": [
+    12,
+    10,
+    7,
+    7,
+    5,
+    3
+   ],
+   "id": "G02",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.15271a79882989fa3b235458110c1a20.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.4a9d37efe4e4c2e2456deefc0bc0137a.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.201563b7de35ed493355207572177ecd.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.3c355b1a30c6f03a20c73beea98875fc.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.19878399dff6cde9cf826caf090ba8ab.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102754_png_jpg.rf.90d38f645ff19174e8649c1ce1a36a95.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-16-",
+   "reps": [
+    1942,
+    1960
+   ],
+   "sizes": [
+    22,
+    11
+   ],
+   "id": "G03",
+   "files": [
+    [
+     "train",
+     "images-16-_jpeg_jpg.rf.01646542c215d62ec3604ce96e14873c.jpg"
+    ],
+    [
+     "train",
+     "images-16-_jpg.rf.0d9e5eeb15a4b621a901b1dc667784c1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-101905",
+   "reps": [
+    3343,
+    3342,
+    3344
+   ],
+   "sizes": [
+    19,
+    9,
+    3
+   ],
+   "id": "G04",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-101905_png_jpg.rf.08cc0eb18cd1251ef6811bf71578294a.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-101905_png_jpg.rf.05a2e0d989f5c94cdffc19fb4a32c49d.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-101905_png_jpg.rf.0aa7b6cc70c47b8d940e3d9c6cceda69.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3627",
+   "reps": [
+    2615,
+    2618,
+    2645,
+    2648,
+    2672
+   ],
+   "sizes": [
+    3,
+    32,
+    4,
+    28,
+    36
+   ],
+   "id": "G05",
+   "files": [
+    [
+     "train",
+     "IMG_3627_block_0_1_png_jpg.rf.65f38704f657cc145ef1311126f58204.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_0_2_png_jpg.rf.09559815b1b4d5653d6164adc6316242.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_1_1_png_jpg.rf.4cd8c297c1fcabfedd6b877d2a5a18a6.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_2_1_png_jpg.rf.0a35fff09c5abdfd257d70e129ca94ff.jpg"
+    ],
+    [
+     "train",
+     "IMG_3627_block_2_2_png_jpg.rf.0f7ce6aff92c1cd3168a6d1c9724df7b.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103049",
+   "reps": [
+    3511,
+    3516
+   ],
+   "sizes": [
+    34,
+    7
+   ],
+   "id": "G06",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103049_png_jpg.rf.0314d24ead34ef801e627194a7af9265.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103049_png_jpg.rf.1e0616e5b756d61cc7cbfbb706bcf345.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "weld-defects-2",
+   "reps": [
+    3861,
+    3865,
+    3870,
+    3864
+   ],
+   "sizes": [
+    10,
+    10,
+    7,
+    4
+   ],
+   "id": "G07",
+   "files": [
+    [
+     "train",
+     "weld-defects-2_jpg.rf.0a0f4a255deaa7ec8163fac22259170a.jpg"
+    ],
+    [
+     "train",
+     "weld-defects-2_jpg.rf.3609ceea3f19ab41b7aeb82ebc3dd316.jpg"
+    ],
+    [
+     "train",
+     "weld-defects-2_jpg.rf.54d7a5b1d349385275a8ea6ce639c2c9.jpg"
+    ],
+    [
+     "train",
+     "weld-defects-2_jpg.rf.2cb249612a7459410e2eb5bfd3d073c1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "weld-defects-1",
+   "reps": [
+    3843,
+    3839,
+    3841,
+    4624,
+    4625
+   ],
+   "sizes": [
+    15,
+    6,
+    6,
+    3,
+    1
+   ],
+   "id": "G08",
+   "files": [
+    [
+     "train",
+     "weld-defects-1_jpg.rf.50b7ec595beabd0ba4e5e8e7fdf150f6.jpg"
+    ],
+    [
+     "train",
+     "weld-defects-1_jpg.rf.1de3c66defac77bfb588a408e89bc3cd.jpg"
+    ],
+    [
+     "train",
+     "weld-defects-1_jpg.rf.30749b82f3ecf3d9bee339eb687722ba.jpg"
+    ],
+    [
+     "valid",
+     "weld-defects-1_jpg.rf.eb456cd724a44f08ff5904af375118da.jpg"
+    ],
+    [
+     "valid",
+     "weld-defects-1_jpg.rf.eb885c0997f79920572ac3d5753c4a92.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3634",
+   "reps": [
+    2920,
+    2929,
+    2951
+   ],
+   "sizes": [
+    13,
+    14,
+    3
+   ],
+   "id": "G09",
+   "files": [
+    [
+     "train",
+     "IMG_3634_block_1_1_png_jpg.rf.05bf44e4a9bc1ac34bc2464182e552c7.jpg"
+    ],
+    [
+     "train",
+     "IMG_3634_block_1_2_png_jpg.rf.01ca81a6996723fcdf1552ded7919869.jpg"
+    ],
+    [
+     "train",
+     "IMG_3634_block_2_2_png_jpg.rf.208bfda7869f2a08a794b6e8fd524459.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3654",
+   "reps": [
+    3006,
+    3021,
+    3027
+   ],
+   "sizes": [
+    16,
+    11,
+    22
+   ],
+   "id": "G10",
+   "files": [
+    [
+     "train",
+     "IMG_3654_block_0_1_png_jpg.rf.284ff610b7c975405798bc0201513a61.jpg"
+    ],
+    [
+     "train",
+     "IMG_3654_block_1_1_png_jpg.rf.07c58f8940fdc13c358a6b1fbc005190.jpg"
+    ],
+    [
+     "train",
+     "IMG_3654_block_2_2_png_jpg.rf.01ecd93ce0e21af88d4b2fb45866fd10.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-5-",
+   "reps": [
+    2036,
+    2040,
+    2035,
+    4861
+   ],
+   "sizes": [
+    6,
+    5,
+    3,
+    1
+   ],
+   "id": "G11",
+   "files": [
+    [
+     "train",
+     "images-5-_jpg.rf.44f818a999c2a715f609b0780abd3ae0.jpg"
+    ],
+    [
+     "train",
+     "images-5-_jpg.rf.b344e9dd1fc408fa564ec04d9f33bced.jpg"
+    ],
+    [
+     "train",
+     "images-5-_jpg.rf.2fc43d713b42d2eb591ca213391f6b22.jpg"
+    ],
+    [
+     "test",
+     "images-5-_jpg.rf.d605176603fdd4983ac99e8652f03403.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "img_3628_block_1_1",
+   "reps": [
+    2753
+   ],
+   "sizes": [
+    43
+   ],
+   "id": "G12",
+   "files": [
+    [
+     "train",
+     "IMG_3628_block_1_1_png_jpg.rf.000ce187fadd54f77c28cc92e7ce7790.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "fig472_1",
+   "reps": [
+    1825,
+    1822,
+    1820
+   ],
+   "sizes": [
+    5,
+    4,
+    3
+   ],
+   "id": "G13",
+   "files": [
+    [
+     "train",
+     "Fig472_1_jpg.rf.a0e707dafbbce4f5df896a110d2e17c1.jpg"
+    ],
+    [
+     "train",
+     "Fig472_1_jpg.rf.60759ac8c880757d11add17801c38625.jpg"
+    ],
+    [
+     "train",
+     "Fig472_1_jpg.rf.071d50fe85836b92c6723a04019d7573.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547",
+   "reps": [
+    3805,
+    3804,
+    3810,
+    3809
+   ],
+   "sizes": [
+    14,
+    9,
+    9,
+    3
+   ],
+   "id": "G14",
+   "files": [
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.02d7fbff3d98a9d68ef49c83bce5a479.jpg"
+    ],
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.02cf664fbfcf85fe7bf1ce2dbf77f6ff.jpg"
+    ],
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.17bc2835068a9ef5e61dbbafd126c40e.jpg"
+    ],
+    [
+     "train",
+     "weld-defect-work-was-carried-out-using-semi-automatic-arc-welding-mig-welding-weld-defect-work-was-carried-out-using-semi-242005547_jpg.rf.139a2b87cb2a66aa64933d10ced46588.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "porosity-hero-image-1",
+   "reps": [
+    3203,
+    3202,
+    3206
+   ],
+   "sizes": [
+    7,
+    3,
+    3
+   ],
+   "id": "G15",
+   "files": [
+    [
+     "train",
+     "Porosity-hero-image-1_jpg.rf.55f25fede4ee7d140af7205939471d4d.jpg"
+    ],
+    [
+     "train",
+     "Porosity-hero-image-1_jpg.rf.4bad3e25791f622bc6f4fa66b34efbef.jpg"
+    ],
+    [
+     "train",
+     "Porosity-hero-image-1_jpg.rf.837a4fa904ae01c41bd0c2b8b92f635d.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3625",
+   "reps": [
+    2527,
+    2553,
+    2586
+   ],
+   "sizes": [
+    28,
+    38,
+    35
+   ],
+   "id": "G16",
+   "files": [
+    [
+     "train",
+     "IMG_3625_block_0_1_png_jpg.rf.04390f31556a5065f0ed8eee9062cb7c.jpg"
+    ],
+    [
+     "train",
+     "IMG_3625_block_0_2_png_jpg.rf.21ce023f638df92948b5d0a07469d178.jpg"
+    ],
+    [
+     "train",
+     "IMG_3625_block_2_2_png_jpg.rf.24a312350a6c1b8d57cc014fd858637a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "istockphoto-1006281510-170667a",
+   "reps": [
+    3147,
+    3152,
+    3148,
+    3151
+   ],
+   "sizes": [
+    6,
+    5,
+    4,
+    4
+   ],
+   "id": "G17",
+   "files": [
+    [
+     "train",
+     "istockphoto-1006281510-170667a_jpg.rf.00c51746d835b6e8d70a8dae805ab183.jpg"
+    ],
+    [
+     "train",
+     "istockphoto-1006281510-170667a_jpg.rf.3f8c0c5b10634373a127908c93c75539.jpg"
+    ],
+    [
+     "train",
+     "istockphoto-1006281510-170667a_jpg.rf.1504a8768f55c039fbd25aeb99157cf7.jpg"
+    ],
+    [
+     "train",
+     "istockphoto-1006281510-170667a_jpg.rf.35de0e7751f9c455a88b562ffb8b124f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "f4767bec-f5ef-43a5-82f3-46fa537b843d",
+   "reps": [
+    1751,
+    1749,
+    1756,
+    1757
+   ],
+   "sizes": [
+    15,
+    6,
+    4,
+    3
+   ],
+   "id": "G18",
+   "files": [
+    [
+     "train",
+     "F4767BEC-F5EF-43A5-82F3-46FA537B843D_jpeg_jpg.rf.2aeeb923973b4c06899fa46cda6382c9.jpg"
+    ],
+    [
+     "train",
+     "F4767BEC-F5EF-43A5-82F3-46FA537B843D_jpeg_jpg.rf.116736101552ff1b89d70694c144198b.jpg"
+    ],
+    [
+     "train",
+     "F4767BEC-F5EF-43A5-82F3-46FA537B843D_jpeg_jpg.rf.774580840285b97b958fae18a2104cd4.jpg"
+    ],
+    [
+     "train",
+     "F4767BEC-F5EF-43A5-82F3-46FA537B843D_jpeg_jpg.rf.7ec3a2e93899661b3ea1aa6685034cc8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103334",
+   "reps": [
+    3553,
+    3549,
+    3551,
+    3554
+   ],
+   "sizes": [
+    43,
+    15,
+    9,
+    4
+   ],
+   "id": "G19",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.0cb4ccba6d4b2c9d1528f3344e12404e.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.0114d6be35af3cc20115080500cad595.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.07450ec935f3262c9031f7e508f2c1b2.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103334_png_jpg.rf.10507f935ba1a447df0edba60fbb9b63.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "crack-welding-images_21",
+   "reps": [
+    1552,
+    1556
+   ],
+   "sizes": [
+    9,
+    2
+   ],
+   "id": "G20",
+   "files": [
+    [
+     "train",
+     "crack-welding-images_21_jpeg_jpg.rf.2842461b3537808a0ea447bc5309527b.jpg"
+    ],
+    [
+     "train",
+     "crack-welding-images_21_jpeg_jpg.rf.bb161cfa0b280ae648e1fc2202b80c13.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "download-2-",
+   "reps": [
+    1629,
+    1630,
+    1638
+   ],
+   "sizes": [
+    16,
+    6,
+    3
+   ],
+   "id": "G21",
+   "files": [
+    [
+     "train",
+     "download-2-_jpg.rf.02b474171726535e30ca4829bd26d9a3.jpg"
+    ],
+    [
+     "train",
+     "download-2-_jpg.rf.02f882536061b85c7c338b894dc2d061.jpg"
+    ],
+    [
+     "train",
+     "download-2-_jpg.rf.525ec272da5ceb8272ade221196316ae.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "welding-porosity",
+   "reps": [
+    3936,
+    3937,
+    4638
+   ],
+   "sizes": [
+    22,
+    9,
+    1
+   ],
+   "id": "G22",
+   "files": [
+    [
+     "train",
+     "welding-porosity_jpg.rf.0b56b8fe92bb113402f0e004c0213349.jpg"
+    ],
+    [
+     "train",
+     "welding-porosity_jpg.rf.0dbbd1e85b58f0dfac16f8ab64b83ad7.jpg"
+    ],
+    [
+     "valid",
+     "welding-porosity_jpg.rf.71c89fb5010c4b5ba5ca2196263d6bbd.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "porosity-1",
+   "reps": [
+    3198,
+    3199
+   ],
+   "sizes": [
+    3,
+    2
+   ],
+   "id": "G23",
+   "files": [
+    [
+     "train",
+     "Porosity-1_jpg.rf.4ad449385881d43fcb5fdf0880822bd8.jpg"
+    ],
+    [
+     "train",
+     "Porosity-1_jpg.rf.6f25b938c939d789f3d8d62068f76b9c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103707",
+   "reps": [
+    3711,
+    3710,
+    3719,
+    3709,
+    3713
+   ],
+   "sizes": [
+    19,
+    15,
+    12,
+    9,
+    6
+   ],
+   "id": "G24",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.0ec8a47f3197199168a46b43d9eeb7e2.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.07b269a455bad4fbb115bc1485474af5.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.4093ef9c77d14c631be7e2379dc4b6bc.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.026f6bde5573e97d8d8f8a49d11ab391.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103707_png_jpg.rf.2d5d13bad25b511e0f37525c97ec5977.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-19-",
+   "reps": [
+    1978,
+    1990
+   ],
+   "sizes": [
+    15,
+    3
+   ],
+   "id": "G25",
+   "files": [
+    [
+     "train",
+     "images-19-_jpeg_jpg.rf.00375da2a1d554df88e632cf97fc6aff.jpg"
+    ],
+    [
+     "train",
+     "images-19-_jpg.rf.65957228b78a723433ce0d38ef85a41f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "received_1223730668231833",
+   "reps": [
+    3248,
+    3249,
+    3247,
+    3279,
+    4922
+   ],
+   "sizes": [
+    22,
+    15,
+    7,
+    3,
+    1
+   ],
+   "id": "G26",
+   "files": [
+    [
+     "train",
+     "received_1223730668231833_jpeg_jpg.rf.05b5e809a25aef58116bb8f646a6e074.jpg"
+    ],
+    [
+     "train",
+     "received_1223730668231833_jpeg_jpg.rf.1a20dfa5e90c44c212999957c3c4ac40.jpg"
+    ],
+    [
+     "train",
+     "received_1223730668231833_jpeg_jpg.rf.00a696751a72eeec2c0fda3d9dde89c5.jpg"
+    ],
+    [
+     "train",
+     "received_1223730668231833_jpeg_jpg.rf.f6bcb2b85c4708471eff2177f8dfa8f0.jpg"
+    ],
+    [
+     "test",
+     "received_1223730668231833_jpeg_jpg.rf.eaac3cc899cea726eb3cebf9130ccf5c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3620",
+   "reps": [
+    2155,
+    2182
+   ],
+   "sizes": [
+    30,
+    23
+   ],
+   "id": "G27",
+   "files": [
+    [
+     "train",
+     "IMG_3620_block_1_2_png_jpg.rf.01d2049d73d0663e0ff9d91a72ca9779.jpg"
+    ],
+    [
+     "train",
+     "IMG_3620_block_2_2_png_jpg.rf.001734cfa426cf34c78d6ec425d7f98a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-3-",
+   "reps": [
+    2017,
+    2014,
+    2019
+   ],
+   "sizes": [
+    11,
+    6,
+    3
+   ],
+   "id": "G28",
+   "files": [
+    [
+     "train",
+     "images-3-_jpg.rf.3caeaf9f72ec745b8c78eebcd019f7be.jpg"
+    ],
+    [
+     "train",
+     "images-3-_jpg.rf.035da20e253e79cdaf1be73641b10853.jpg"
+    ],
+    [
+     "train",
+     "images-3-_jpg.rf.6bca5464f1b429ca799f06b54f9de0e8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "common-welding-defects",
+   "reps": [
+    1454,
+    1462,
+    1455,
+    1459,
+    1480
+   ],
+   "sizes": [
+    27,
+    14,
+    9,
+    8,
+    7
+   ],
+   "id": "G29",
+   "files": [
+    [
+     "train",
+     "common-welding-defects_jpg.rf.033f8f71f439753e4a173d6e01dba239.jpg"
+    ],
+    [
+     "train",
+     "common-welding-defects_jpg.rf.34ce65794d6c438bf51daf689e2c01ee.jpg"
+    ],
+    [
+     "train",
+     "common-welding-defects_jpg.rf.0e99ee9d1627b3f8f45248498fad9069.jpg"
+    ],
+    [
+     "train",
+     "common-welding-defects_jpg.rf.1e5f2db5c98762bef15cb3df8534b639.jpg"
+    ],
+    [
+     "train",
+     "common-welding-defects_jpg.rf.80b9279dfd146700cbe20ab0ed653061.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103025",
+   "reps": [
+    3482,
+    3481,
+    3487,
+    3491
+   ],
+   "sizes": [
+    12,
+    10,
+    8,
+    3
+   ],
+   "id": "G30",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103025_png_jpg.rf.16e260a80a1939adc66a08b6108a237d.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103025_png_jpg.rf.16a89ee65936283f57b6859750b285b5.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103025_png_jpg.rf.2d4a40d1a99ad1250691291a188207e9.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103025_png_jpg.rf.5e4a8c858e5f770ca47913f3f8764c65.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "img_3621_block_0_1",
+   "reps": [
+    2203
+   ],
+   "sizes": [
+    48
+   ],
+   "id": "G31",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.12573226bbe22c49b21895b1ba2398d1.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "fb_img_1675164497985",
+   "reps": [
+    1797
+   ],
+   "sizes": [
+    24
+   ],
+   "id": "G32",
+   "files": [
+    [
+     "train",
+     "FB_IMG_1675164497985_jpg.rf.02cb7d1eced2de8b05294e62d6593403.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3623",
+   "reps": [
+    2359,
+    2371,
+    2432
+   ],
+   "sizes": [
+    21,
+    29,
+    38
+   ],
+   "id": "G33",
+   "files": [
+    [
+     "train",
+     "IMG_3623_block_0_2_png_jpg.rf.31b32cfe426824e21e2821cd7760af02.jpg"
+    ],
+    [
+     "train",
+     "IMG_3623_block_1_2_png_jpg.rf.019a10ed6f16e7f9da69f7418058625d.jpg"
+    ],
+    [
+     "train",
+     "IMG_3623_block_2_1_png_jpg.rf.0b7b4dc49ee7b5b906ae2ed6f09a998e.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3740",
+   "reps": [
+    3123,
+    3129,
+    3135
+   ],
+   "sizes": [
+    6,
+    7,
+    7
+   ],
+   "id": "G34",
+   "files": [
+    [
+     "train",
+     "IMG_3740_block_0_1_png_jpg.rf.188cb17b0e22a386aad30c6bef148c18.jpg"
+    ],
+    [
+     "train",
+     "IMG_3740_block_1_2_png_jpg.rf.35e19e9ef48ed35aad92875bb65d9ed5.jpg"
+    ],
+    [
+     "train",
+     "IMG_3740_block_2_1_png_jpg.rf.18bce62df02037bce1a958ff861c3c5f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3718",
+   "reps": [
+    3084,
+    3093
+   ],
+   "sizes": [
+    6,
+    6
+   ],
+   "id": "G35",
+   "files": [
+    [
+     "train",
+     "IMG_3718_block_0_2_png_jpg.rf.2d5d62eedc51a1c4fc8e7222f2c0f67b.jpg"
+    ],
+    [
+     "train",
+     "IMG_3718_block_2_2_png_jpg.rf.1859d58240d17748a37a22c75cc11987.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "img_20230131_114447",
+   "reps": [
+    2121,
+    2118,
+    2117
+   ],
+   "sizes": [
+    6,
+    5,
+    4
+   ],
+   "id": "G36",
+   "files": [
+    [
+     "train",
+     "IMG_20230131_114447_jpg.rf.5d3618ffb146ef1e734ba84d0ad86d2c.jpg"
+    ],
+    [
+     "train",
+     "IMG_20230131_114447_jpg.rf.0ddfb0cecfa96cb021d6585b553bbea4.jpg"
+    ],
+    [
+     "train",
+     "IMG_20230131_114447_jpg.rf.0d75835173e2d21f12bb3af7c5c7531c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "fb_img_1675164489292",
+   "reps": [
+    1776
+   ],
+   "sizes": [
+    6
+   ],
+   "id": "G37",
+   "files": [
+    [
+     "train",
+     "FB_IMG_1675164489292_jpg.rf.0a62bb1a9ee9ddcf31368232dd4660b4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "element-part-welded-structure-arc-welded-seam-technological-holes-element-part-welded-structure-arc-214336100",
+   "reps": [
+    1668,
+    1670,
+    1671
+   ],
+   "sizes": [
+    13,
+    9,
+    6
+   ],
+   "id": "G38",
+   "files": [
+    [
+     "train",
+     "element-part-welded-structure-arc-welded-seam-technological-holes-element-part-welded-structure-arc-214336100_jpg.rf.004cfd8911218466558e161f1597acb3.jpg"
+    ],
+    [
+     "train",
+     "element-part-welded-structure-arc-welded-seam-technological-holes-element-part-welded-structure-arc-214336100_jpg.rf.1b29d7f889b78868a3ee99df3d548b22.jpg"
+    ],
+    [
+     "train",
+     "element-part-welded-structure-arc-welded-seam-technological-holes-element-part-welded-structure-arc-214336100_jpg.rf.21e2e57aa55d635d1a7b005a051675aa.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "22-possible-causes-of-weld-metal-porosity-weld-beads",
+   "reps": [
+    71,
+    72,
+    70,
+    75
+   ],
+   "sizes": [
+    5,
+    5,
+    3,
+    3
+   ],
+   "id": "G39",
+   "files": [
+    [
+     "train",
+     "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.00c846c93ca0c2a25c72f04768eb899e.jpg"
+    ],
+    [
+     "train",
+     "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.07c8d21f640abf8b782ca972b3f6f091.jpg"
+    ],
+    [
+     "train",
+     "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.007896a11a5c138db9d985f04a2292eb.jpg"
+    ],
+    [
+     "train",
+     "22-possible-causes-of-weld-metal-porosity-weld-beads_jpg.rf.783fb4a440e161adce16d148c832a52f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-102823",
+   "reps": [
+    3429,
+    3430,
+    3431
+   ],
+   "sizes": [
+    12,
+    12,
+    7
+   ],
+   "id": "G40",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102823_png_jpg.rf.05a7cb6a0722ee9c3941f12b585971fb.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102823_png_jpg.rf.073309f04c6b58d238b4c8b859ab83a8.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102823_png_jpg.rf.1617daba8fa2a4beb6e4d45bc05b53b5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images",
+   "reps": [
+    2070,
+    2068,
+    2069
+   ],
+   "sizes": [
+    6,
+    3,
+    3
+   ],
+   "id": "G41",
+   "files": [
+    [
+     "train",
+     "images_jpg.rf.228cd6bf5229aaba056c04b8d49ec7c3.jpg"
+    ],
+    [
+     "train",
+     "images_jpg.rf.075c5d2e4743c5a70d8afb89ecdea2a3.jpg"
+    ],
+    [
+     "train",
+     "images_jpg.rf.12c7bceb3a3691dced49d897fc3e4bbe.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-102953",
+   "reps": [
+    3468,
+    3474
+   ],
+   "sizes": [
+    11,
+    4
+   ],
+   "id": "G42",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102953_png_jpg.rf.05b12fdedf5c3d8ce4e5b175332b00be.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102953_png_jpg.rf.60f5fd56cb1ead01929f660b70ceb1ab.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "element-of-a-part-of-a-welded-structure-an-arc-welded-seam-technological-holes-industry-2f5b8yc",
+   "reps": [
+    1653,
+    1656
+   ],
+   "sizes": [
+    9,
+    6
+   ],
+   "id": "G43",
+   "files": [
+    [
+     "train",
+     "element-of-a-part-of-a-welded-structure-an-arc-welded-seam-technological-holes-industry-2F5B8YC_jpg.rf.1a90edd36fcd2501b12937ab0bac1e70.jpg"
+    ],
+    [
+     "train",
+     "element-of-a-part-of-a-welded-structure-an-arc-welded-seam-technological-holes-industry-2F5B8YC_jpg.rf.43252e8b086d8283411f326b1f75a22a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "img_3623_block_0_2",
+   "reps": [
+    2359
+   ],
+   "sizes": [
+    21
+   ],
+   "id": "G44",
+   "files": [
+    [
+     "train",
+     "IMG_3623_block_0_2_png_jpg.rf.31b32cfe426824e21e2821cd7760af02.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3709",
+   "reps": [
+    3069,
+    3075,
+    3078
+   ],
+   "sizes": [
+    7,
+    5,
+    7
+   ],
+   "id": "G45",
+   "files": [
+    [
+     "train",
+     "IMG_3709_block_0_1_png_jpg.rf.540d68a66b753a69cd853585f5209888.jpg"
+    ],
+    [
+     "train",
+     "IMG_3709_block_0_2_png_jpg.rf.29e511f287aa08b3bb2c4766595c5c9c.jpg"
+    ],
+    [
+     "train",
+     "IMG_3709_block_2_2_png_jpg.rf.01177a8895cd336083d2dcdf51ab6ee3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103358",
+   "reps": [
+    3616,
+    3626,
+    3618,
+    3622,
+    3617
+   ],
+   "sizes": [
+    10,
+    8,
+    7,
+    7,
+    3
+   ],
+   "id": "G46",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.01aa619cd95b3c573841a927be7bdc2c.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.6d4b2db5a1bbdb40458d0a275d345556.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.105c31c99f0cc83a9d458b7f4f6d3790.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.578bece76ae1de489eb671ec0d5e13fc.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103358_png_jpg.rf.0f6725d772276e3c882fdab91091dad5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3629",
+   "reps": [
+    2855,
+    2878
+   ],
+   "sizes": [
+    12,
+    12
+   ],
+   "id": "G47",
+   "files": [
+    [
+     "train",
+     "IMG_3629_block_0_1_png_jpg.rf.2e98425ab665e34a5bad3e18b4499994.jpg"
+    ],
+    [
+     "train",
+     "IMG_3629_block_1_2_png_jpg.rf.1c2f52ec763b41abb02c702d78efb973.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-102204",
+   "reps": [
+    3380,
+    3374,
+    3375
+   ],
+   "sizes": [
+    11,
+    7,
+    6
+   ],
+   "id": "G48",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-102204_png_jpg.rf.6d24d4c63c1200616583a4b4a3f55c88.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102204_png_jpg.rf.142625909bcbd242fcd8ed420640f373.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-102204_png_jpg.rf.1e7499bac0197038135b5977545bc56c.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "porosity-mig-s_tcm410-633706",
+   "reps": [
+    3215,
+    3213,
+    3211
+   ],
+   "sizes": [
+    13,
+    9,
+    7
+   ],
+   "id": "G49",
+   "files": [
+    [
+     "train",
+     "porosity-mig-s_tcm410-633706_png_jpg.rf.281290993940a387495000bd313f3b5b.jpg"
+    ],
+    [
+     "train",
+     "porosity-mig-s_tcm410-633706_png_jpg.rf.1b3c32a07cf253f4481e7d61cb8425d3.jpg"
+    ],
+    [
+     "train",
+     "porosity-mig-s_tcm410-633706_png_jpg.rf.0a73cce75a4f6d8d89c49ce571a37708.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-1-",
+   "reps": [
+    1873,
+    1881
+   ],
+   "sizes": [
+    13,
+    2
+   ],
+   "id": "G50",
+   "files": [
+    [
+     "train",
+     "images-1-_jpg.rf.0eaf715fae46e56993a724f090878c8a.jpg"
+    ],
+    [
+     "train",
+     "images-1-_jpg.rf.a270938d5dd13fe9c1e6ad6653cac3e5.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3622",
+   "reps": [
+    2295,
+    2338
+   ],
+   "sizes": [
+    48,
+    26
+   ],
+   "id": "G51",
+   "files": [
+    [
+     "train",
+     "IMG_3622_block_2_1_png_jpg.rf.04984b99f8f0b57b90cbc85114dc4fd2.jpg"
+    ],
+    [
+     "train",
+     "IMG_3622_block_2_2_png_jpg.rf.0b2c1b71fbc754cd248ff57316212106.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "centerline-crack",
+   "reps": [
+    1451,
+    4827
+   ],
+   "sizes": [
+    4,
+    1
+   ],
+   "id": "G52",
+   "files": [
+    [
+     "train",
+     "Centerline-Crack_jpg.rf.450be0aff05c3ea9ec025f2591b58bb0.jpg"
+    ],
+    [
+     "test",
+     "Centerline-Crack_jpg.rf.280a6090fe356f381e51c5e40b869389.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-7-",
+   "reps": [
+    2047,
+    2049
+   ],
+   "sizes": [
+    6,
+    3
+   ],
+   "id": "G53",
+   "files": [
+    [
+     "train",
+     "images-7-_jpg.rf.00371157c60d453d0a7ac1e0d04ee467.jpg"
+    ],
+    [
+     "train",
+     "images-7-_jpg.rf.21a47efb55a0513449f29485830e1a17.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-2-",
+   "reps": [
+    1992,
+    1996,
+    1993
+   ],
+   "sizes": [
+    9,
+    3,
+    1
+   ],
+   "id": "G54",
+   "files": [
+    [
+     "train",
+     "images-2-_jpg.rf.0d421810ff7ebebfb16b4a77e9f562e3.jpg"
+    ],
+    [
+     "train",
+     "images-2-_jpg.rf.3a69a4b792dd1444b9cd60fe693c1f12.jpg"
+    ],
+    [
+     "train",
+     "images-2-_jpg.rf.0dd2a3932cde943667973ffc42d78a1f.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3630",
+   "reps": [
+    2902,
+    2905
+   ],
+   "sizes": [
+    5,
+    3
+   ],
+   "id": "G55",
+   "files": [
+    [
+     "train",
+     "IMG_3630_block_1_2_png_jpg.rf.3088efc98b2b864087313c4f425e358b.jpg"
+    ],
+    [
+     "train",
+     "IMG_3630_block_2_2_png_jpg.rf.131a7c3d01110220574faa73f118afd3.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "sro-170400-hammer-01",
+   "reps": [
+    3763,
+    3764,
+    3769
+   ],
+   "sizes": [
+    15,
+    7,
+    7
+   ],
+   "id": "G56",
+   "files": [
+    [
+     "train",
+     "sro-170400-hammer-01_jpg.rf.00914a01179f6986cd09375e3d278128.jpg"
+    ],
+    [
+     "train",
+     "sro-170400-hammer-01_jpg.rf.125feb439ab697f879bf694a4e7ece23.jpg"
+    ],
+    [
+     "train",
+     "sro-170400-hammer-01_jpg.rf.4ddc065f30f801f9b374f9870b123ac4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "example-of-welding-porosity",
+   "reps": [
+    1699,
+    1701,
+    1702,
+    1709
+   ],
+   "sizes": [
+    19,
+    7,
+    7,
+    4
+   ],
+   "id": "G57",
+   "files": [
+    [
+     "train",
+     "Example-of-Welding-Porosity_jpg.rf.24e2d7cade08bdd66f24fe432428162b.jpg"
+    ],
+    [
+     "train",
+     "Example-of-Welding-Porosity_jpg.rf.27f36920cf51de0c7a216e94b14ead6f.jpg"
+    ],
+    [
+     "train",
+     "Example-of-Welding-Porosity_jpg.rf.2e1ec00cd37e8d502f6b61695d5f283a.jpg"
+    ],
+    [
+     "train",
+     "Example-of-Welding-Porosity_jpg.rf.61b53a9acc2b9a6979c04684ecdb56c8.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "screenshot-2023-02-08-103619",
+   "reps": [
+    3647,
+    3653,
+    3648,
+    3649,
+    3656,
+    3652
+   ],
+   "sizes": [
+    13,
+    12,
+    11,
+    9,
+    7,
+    5
+   ],
+   "id": "G58",
+   "files": [
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.0cc08d04a7489c1d6e58909d08b0b0c5.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.3af7aa973c87decc9acb6421fddc93e7.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.2b787ac4d2d92e5fe943c26b65647aa1.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.2bb2ebd593451da3bce8eb9631108390.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.45b48dc002ca5ca7ae6c11c91ccf8a9b.jpg"
+    ],
+    [
+     "train",
+     "Screenshot-2023-02-08-103619_png_jpg.rf.383e41e2d757ff9c68ffe9bf5e7cfb9a.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U1_content_group",
+   "content": "images-11-",
+   "reps": [
+    1902,
+    1919
+   ],
+   "sizes": [
+    21,
+    5
+   ],
+   "id": "G59",
+   "files": [
+    [
+     "train",
+     "images-11-_jpeg_jpg.rf.04eddc35f800c2816150bd0d06b53fc8.jpg"
+    ],
+    [
+     "train",
+     "images-11-_jpg.rf.05f813be9c9111f76ad16257ae4032d4.jpg"
+    ]
+   ]
+  },
+  {
+   "stratum": "U2_tiled_parent",
+   "parent": "img_3621",
+   "reps": [
+    2203,
+    4869
+   ],
+   "sizes": [
+    48,
+    1
+   ],
+   "id": "G60",
+   "files": [
+    [
+     "train",
+     "IMG_3621_block_0_1_png_jpg.rf.12573226bbe22c49b21895b1ba2398d1.jpg"
+    ],
+    [
+     "test",
+     "IMG_3621_block_2_2_png_jpg.rf.93ccf9959f23491573e6bdb620061775.jpg"
+    ]
+   ]
+  }
+ ],
+ "author_pairs": [
+  {
+   "aid": "A01",
+   "pid": "P0270"
+  },
+  {
+   "aid": "A02",
+   "pid": "P0250"
+  },
+  {
+   "aid": "A03",
+   "pid": "P0234"
+  },
+  {
+   "aid": "A04",
+   "pid": "P0100"
+  },
+  {
+   "aid": "A05",
+   "pid": "P0318"
+  },
+  {
+   "aid": "A06",
+   "pid": "P0117"
+  },
+  {
+   "aid": "A07",
+   "pid": "P0240"
+  },
+  {
+   "aid": "A08",
+   "pid": "P0236"
+  },
+  {
+   "aid": "A09",
+   "pid": "P0006"
+  },
+  {
+   "aid": "A10",
+   "pid": "P0287"
+  },
+  {
+   "aid": "A11",
+   "pid": "P0398"
+  },
+  {
+   "aid": "A12",
+   "pid": "P0021"
+  },
+  {
+   "aid": "A13",
+   "pid": "P0008"
+  },
+  {
+   "aid": "A14",
+   "pid": "P0313"
+  },
+  {
+   "aid": "A15",
+   "pid": "P0108"
+  },
+  {
+   "aid": "A16",
+   "pid": "P0092"
+  },
+  {
+   "aid": "A17",
+   "pid": "P0181"
+  },
+  {
+   "aid": "A18",
+   "pid": "P0143"
+  },
+  {
+   "aid": "A19",
+   "pid": "P0299"
+  },
+  {
+   "aid": "A20",
+   "pid": "P0252"
+  },
+  {
+   "aid": "A21",
+   "pid": "P0413"
+  },
+  {
+   "aid": "A22",
+   "pid": "P0148"
+  },
+  {
+   "aid": "A23",
+   "pid": "P0095"
+  },
+  {
+   "aid": "A24",
+   "pid": "P0070"
+  },
+  {
+   "aid": "A25",
+   "pid": "P0215"
+  },
+  {
+   "aid": "A26",
+   "pid": "P0067"
+  },
+  {
+   "aid": "A27",
+   "pid": "P0226"
+  },
+  {
+   "aid": "A28",
+   "pid": "P0322"
+  },
+  {
+   "aid": "A29",
+   "pid": "P0326"
+  },
+  {
+   "aid": "A30",
+   "pid": "P0372"
+  },
+  {
+   "aid": "A31",
+   "pid": "P0291"
+  },
+  {
+   "aid": "A32",
+   "pid": "P0199"
+  },
+  {
+   "aid": "A33",
+   "pid": "P0211"
+  },
+  {
+   "aid": "A34",
+   "pid": "P0112"
+  },
+  {
+   "aid": "A35",
+   "pid": "P0019"
+  },
+  {
+   "aid": "A36",
+   "pid": "P0383"
+  },
+  {
+   "aid": "A37",
+   "pid": "P0378"
+  },
+  {
+   "aid": "A38",
+   "pid": "P0105"
+  },
+  {
+   "aid": "A39",
+   "pid": "P0375"
+  },
+  {
+   "aid": "A40",
+   "pid": "P0308"
+  },
+  {
+   "aid": "A41",
+   "pid": "P0129"
+  },
+  {
+   "aid": "A42",
+   "pid": "P0196"
+  },
+  {
+   "aid": "A43",
+   "pid": "P0274"
+  },
+  {
+   "aid": "A44",
+   "pid": "P0158"
+  },
+  {
+   "aid": "A45",
+   "pid": "P0341"
+  },
+  {
+   "aid": "A46",
+   "pid": "P0214"
+  },
+  {
+   "aid": "A47",
+   "pid": "P0179"
+  },
+  {
+   "aid": "A48",
+   "pid": "P0359"
+  },
+  {
+   "aid": "A49",
+   "pid": "P0044"
+  },
+  {
+   "aid": "A50",
+   "pid": "P0329"
+  },
+  {
+   "aid": "A51",
+   "pid": "P0029"
+  },
+  {
+   "aid": "A52",
+   "pid": "P0397"
+  },
+  {
+   "aid": "A53",
+   "pid": "P0280"
+  },
+  {
+   "aid": "A54",
+   "pid": "P0195"
+  },
+  {
+   "aid": "A55",
+   "pid": "P0281"
+  },
+  {
+   "aid": "A56",
+   "pid": "P0302"
+  },
+  {
+   "aid": "A57",
+   "pid": "P0357"
+  },
+  {
+   "aid": "A58",
+   "pid": "P0140"
+  },
+  {
+   "aid": "A59",
+   "pid": "P0286"
+  },
+  {
+   "aid": "A60",
+   "pid": "P0239"
+  }
+ ],
+ "author_groups": [
+  {
+   "aid": "AG1",
+   "gid": "G08"
+  },
+  {
+   "aid": "AG2",
+   "gid": "G48"
+  },
+  {
+   "aid": "AG3",
+   "gid": "G04"
+  },
+  {
+   "aid": "AG4",
+   "gid": "G55"
+  },
+  {
+   "aid": "AG5",
+   "gid": "G28"
+  }
+ ],
+ "counts": {
+  "links_le4": 179,
+  "links_5_8": 402,
+  "links_9_12": 1423,
+  "U6_test_images": 31,
+  "pairs_total_after_dedup": 416,
+  "groups_U1": 47,
+  "groups_U2": 13
+ }
+}

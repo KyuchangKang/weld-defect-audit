@@ -16,7 +16,8 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2\04_experiments\data\final0_clean")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2") / "04_experiments" / "data" / "final0_clean"
 EXPECTED_COUNTS = {"train": 3567, "valid": 142, "test": 71}
 NC = 5
 # CLAUDE.md 핵심 수치: 클래스 순서 Geometric/Non-fusion/crack/porosity/spatters

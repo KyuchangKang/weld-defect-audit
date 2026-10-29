@@ -1,0 +1,62 @@
+{
+ "raw_distribution": {
+  "original_rule": {
+   "files": 4958,
+   "content_groups": 708,
+   "parents": 686,
+   "leaking_parents": 407,
+   "leaking_share": 0.5933
+  },
+  "rule_as_specified": {
+   "files": 4958,
+   "content_groups": 708,
+   "parents": 667,
+   "leaking_parents": 395,
+   "leaking_share": 0.5922
+  }
+ },
+ "final0_clean": {
+  "manifest_files": 3780,
+  "parents_rule_as_specified": 667,
+  "parents_spanning_splits": 5,
+  "spanning": {
+   "img_3624": [
+    "test",
+    "train"
+   ],
+   "img_3628": [
+    "train",
+    "valid"
+   ],
+   "img_3634": [
+    "train",
+    "valid"
+   ],
+   "img_3647": [
+    "test",
+    "train"
+   ],
+   "img_3709": [
+    "train",
+    "valid"
+   ]
+  },
+  "valid_images_affected": [
+   "valid_00103",
+   "valid_00105",
+   "valid_00106",
+   "valid_00107",
+   "valid_00109",
+   "valid_00110",
+   "valid_00111",
+   "valid_00136"
+  ],
+  "test_images_affected": [
+   "test_00057",
+   "test_00059"
+  ],
+  "n_valid_affected": 8,
+  "n_test_affected": 2,
+  "manifest_parent_ids_with_block": 321
+ }
+}

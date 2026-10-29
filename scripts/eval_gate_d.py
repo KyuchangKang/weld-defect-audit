@@ -16,10 +16,11 @@ import shutil
 import statistics
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN_YAML = BASE / "04_experiments" / "data" / "final0_clean" / "data.yaml"
 TEST_IMAGES = BASE / "04_experiments" / "data" / "final0_clean" / "test" / "images"
-LOCAL_RUNS = Path(r"D:\runs\weld2")
+LOCAL_RUNS = runs_dir(r"D:\runs\weld2")
 LOCAL_OUT = LOCAL_RUNS / "gateD"
 OUT_DIR = BASE / "05_results" / "test_eval"
 E4_JSON = BASE / "05_results" / "e4_leak_eval.json"

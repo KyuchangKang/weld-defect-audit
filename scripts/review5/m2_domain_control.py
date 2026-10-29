@@ -21,12 +21,15 @@
 import os, re, json, shutil, collections
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
-UN = Path(r"D:\runs\weld2\review4\test_unseen")
-SE = Path(r"D:\runs\weld2\review4\test_seen")
-RAW_BEST = Path(r"D:\runs\weld2\E4_v5n_raw\weights\best.pt")   # 조건 (a) 모델
-LOCAL = Path(r"D:\runs\weld2\m2_domain")
+UN = runs_dir(r"D:\runs\weld2") / "review4" / "test_unseen"
+SE = runs_dir(r"D:\runs\weld2") / "review4" / "test_seen"
+RAW_BEST = runs_dir(r"D:\runs\weld2") / "E4_v5n_raw" / "weights" / "best.pt"   # 조건 (a) 모델
+LOCAL = runs_dir(r"D:\runs\weld2") / "m2_domain"
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 

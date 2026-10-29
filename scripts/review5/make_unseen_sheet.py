@@ -2,7 +2,10 @@
 """이분 대조의 unseen-parent 30장 육안 확인 시트 (M2 도메인 판정용)."""
 import os, math
 from PIL import Image, ImageDraw
-SRC = r'D:\runs\weld2\review4\test_unseen\images'
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+SRC = str(runs_dir(r"D:\runs\weld2") / "review4" / "test_unseen" / "images")
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'unseen30_sheet.png')
 fs = sorted(os.listdir(SRC))
 C, TH, PAD, LAB = 6, 260, 8, 26

@@ -10,7 +10,10 @@ import numpy as np
 from PIL import Image
 import imagehash
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 SRC = BASE / "04_experiments" / "data" / "final0"
 OUT = BASE / "08_revision" / "1st_revision" / "work" / "results" / "grouping_sensitivity.json"
 CACHE = BASE / "08_revision" / "1st_revision" / "work" / "results" / "dihedral_phash_cache.npz"

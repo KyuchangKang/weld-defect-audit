@@ -28,10 +28,13 @@ from pathlib import Path
 
 import rot90_patch  # noqa: F401  (must be imported at top level: re-applied in spawn workers)
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
-M8_DATA = Path(r"D:\runs\weld2\diversity\data")          # dataset used by the existing B seed 42
-LOCAL = Path(r"D:\runs\weld2\aug_r2")
+M8_DATA = runs_dir(r"D:\runs\weld2") / "diversity" / "data"          # dataset used by the existing B seed 42
+LOCAL = runs_dir(r"D:\runs\weld2") / "aug_r2"
 WORK = BASE / "08_revision" / "2nd_revision" / "work"
 RES = WORK / "results"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]

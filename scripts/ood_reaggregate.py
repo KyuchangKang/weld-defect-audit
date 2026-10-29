@@ -13,9 +13,10 @@ import statistics
 from collections import Counter
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
-LOCAL = Path(r"D:\runs\weld2\upgrade")
+LOCAL = runs_dir(r"D:\runs\weld2") / "upgrade"
 OUT = BASE / "05_results" / "upgrade" / "ood_reanalysis.json"
 
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
@@ -64,7 +65,7 @@ def main():
         print(f"== {name}: {n} images, instances={inst}")
 
     for rid, seed in RUNS.items():
-        w = Path(r"D:\runs\weld2") / rid / "weights" / "best.pt"
+        w = runs_dir(r"D:\runs\weld2") / rid / "weights" / "best.pt"
         m = YOLO(str(w))
         for name, (yaml, n, inst) in subsets.items():
             r = m.val(data=str(yaml), split="test", batch=4, imgsz=640, device="cpu",

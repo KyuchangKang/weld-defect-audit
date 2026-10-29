@@ -20,9 +20,10 @@ import shutil
 import time
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 DATA = BASE / "04_experiments" / "data" / "final0_clean" / "data.yaml"
-LOCAL_RUNS = Path(r"D:\runs\weld2")  # Dropbox 밖(원시 산출물·다운로드 가중치)
+LOCAL_RUNS = runs_dir(r"D:\runs\weld2")  # Dropbox 밖(원시 산출물·다운로드 가중치)
 DBX_RUNS = BASE / "05_results" / "runs"  # 핵심 결과만
 
 FIXED = dict(epochs=100, batch=16, imgsz=640, lr0=0.01, cache=False, workers=8,

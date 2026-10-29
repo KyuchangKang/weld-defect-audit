@@ -15,9 +15,10 @@ import sys
 import time
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 TEST_IMAGES = BASE / "04_experiments" / "data" / "final0_clean" / "test" / "images"
-LOCAL_RUNS = Path(r"D:\runs\weld2")
+LOCAL_RUNS = runs_dir(r"D:\runs\weld2")
 OUT_DIR = BASE / "05_results"
 
 DEFAULT_RUNS = [

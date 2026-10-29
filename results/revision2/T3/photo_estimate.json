@@ -1,0 +1,38 @@
+{
+ "parents_rule_as_specified": 667,
+ "links_by_band": {
+  "le4": 179,
+  "5-8": 402,
+  "9-12": 1423
+ },
+ "judged_links_by_band": {
+  "le4": 179,
+  "5-8": 105,
+  "9-12": 60
+ },
+ "same_scene_rate": {
+  "not": {
+   "le4": 0.9776536312849162,
+   "5-8": 0.8380952380952381,
+   "9-12": 0.6833333333333333
+  },
+  "same": {
+   "le4": 1.0,
+   "5-8": 0.9523809523809523,
+   "9-12": 0.9
+  }
+ },
+ "photos_merge_judged_positive_only": 486,
+ "photos_merge_all_links_le12": 341,
+ "photos_merge_all_links_le4": 550,
+ "photos_montecarlo_unsure_not": {
+  "median": 370,
+  "p2.5": 362,
+  "p97.5": 376
+ },
+ "photos_montecarlo_unsure_same": {
+  "median": 350,
+  "p2.5": 346,
+  "p97.5": 356
+ }
+}

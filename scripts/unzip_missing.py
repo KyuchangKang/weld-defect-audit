@@ -1,7 +1,8 @@
 import zipfile
 from pathlib import Path
 
-BASE = Path(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2")
 pairs = [
     (BASE / r"04_experiments\data\welding defect final0.v1i.yolov8.zip", BASE / r"04_experiments\data\final0"),
     (BASE / r"04_experiments\data\Weld Defect.v1i.yolov8.v2i.yolov8.zip", BASE / r"04_experiments\data\ikkj"),

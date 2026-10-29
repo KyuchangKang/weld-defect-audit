@@ -3,7 +3,10 @@
 import csv, json
 from collections import Counter, defaultdict
 from pathlib import Path
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
 OUT = BASE / "08_revision" / "1st_revision" / "work" / "results" / "split_distribution.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]

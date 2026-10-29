@@ -13,10 +13,11 @@
 import json
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 RAW_YAML = BASE / "04_experiments" / "data" / "final0" / "data.yaml"
 CLEAN_YAML = BASE / "04_experiments" / "data" / "final0_clean" / "data.yaml"
-WEIGHTS = Path(r"D:\runs\weld2") / "E4_v5n_raw" / "weights" / "best.pt"
+WEIGHTS = runs_dir(r"D:\runs\weld2") / "E4_v5n_raw" / "weights" / "best.pt"
 OUT = BASE / "05_results" / "e4_leak_eval.json"
 
 

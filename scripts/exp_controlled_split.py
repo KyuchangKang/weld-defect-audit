@@ -21,10 +21,11 @@ import statistics
 from collections import Counter
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 DATA = BASE / "04_experiments" / "data"
 RAW = DATA / "final0"
-LOCAL = Path(r"D:\runs\weld2\ctrl")
+LOCAL = runs_dir(r"D:\runs\weld2") / "ctrl"
 OUT = BASE / "05_results" / "upgrade" / "controlled_split.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 N_TRAIN_MATCH = 3567          # final0_clean train 파일 수
@@ -33,7 +34,7 @@ N_SUBSETS = 20                # test 부분집합 반복
 SEED = 42
 TRAIN_KW = dict(epochs=100, batch=16, imgsz=640, lr0=0.01, device=0,
                 workers=4, cache=False, exist_ok=True, plots=False, verbose=False)
-RAW_BEST = Path(r"D:\runs\weld2\E4_v5n_raw\weights\best.pt")
+RAW_BEST = runs_dir(r"D:\runs\weld2") / "E4_v5n_raw" / "weights" / "best.pt"
 
 
 def ep(p):

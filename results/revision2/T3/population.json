@@ -1,0 +1,31 @@
+{
+ "n_images": 4958,
+ "same_content_pairs": 44747,
+ "same_content_confirmed_d0_d4_d8": [
+  13549,
+  29554,
+  30928
+ ],
+ "same_content_unconfirmed_d_gt8": 13819,
+ "content_groups_with_unconfirmed_pair": 47,
+ "content_groups_multi": 587,
+ "tile_sibling_pairs (same parent, different content)": 13089,
+ "parents_with_tiles": 13,
+ "cross_parent_d0": 403,
+ "cross_parent_d_le4": 2571,
+ "cross_parent_d5_8": 4307,
+ "cross_parent_d_le8": 6878,
+ "cross_parent_d9_12": 13877,
+ "cross_parent_d13_16": 57967,
+ "paper_reference": {
+  "same_content_pairs": 44747,
+  "confirmed_d0_d4_d8": [
+   13549,
+   29554,
+   30928
+  ],
+  "cross_parent_d0": 403,
+  "cross_parent_d_le4": 2571,
+  "cross_parent_d_le8": 6878
+ }
+}

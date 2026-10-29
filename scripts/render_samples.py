@@ -4,8 +4,9 @@ import random
 from pathlib import Path
 from PIL import Image, ImageDraw
 
-BASE = Path(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2\04_experiments\data")
-OUT = Path(r"C:\Users\ADMIN\AppData\Local\Temp\claude\C--Sync-cloud-Dropbox-------------Papers-paper-wedling2\f6c69a90-7d3e-48f2-9a5c-bf06671a8c4d\scratchpad\audit")
+from weldpaths import out_dir, project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2") / "04_experiments" / "data"
+OUT = out_dir(r"C:\Users\ADMIN\AppData\Local\Temp\claude\C--Sync-cloud-Dropbox-------------Papers-paper-wedling2\f6c69a90-7d3e-48f2-9a5c-bf06671a8c4d\scratchpad\audit")
 OUT.mkdir(exist_ok=True)
 NAMES = {
     "final0": ['GeomDef', 'NonFusion', 'crack', 'porosity', 'spatters'],

@@ -1,0 +1,138 @@
+{
+ "pairs": {
+  "C_neg_far": {
+   "n": 30,
+   "SAME": 1,
+   "ADJ": 0,
+   "DIFF": 26,
+   "UNSURE": 3,
+   "same_scene_share_of_all": 0.033,
+   "same_scene_share_of_decided": 0.037
+  },
+  "C_pos_same_content": {
+   "n": 30,
+   "SAME": 29,
+   "ADJ": 1,
+   "DIFF": 0,
+   "UNSURE": 0,
+   "same_scene_share_of_all": 1.0,
+   "same_scene_share_of_decided": 1.0
+  },
+  "U3_link_le4": {
+   "n": 179,
+   "SAME": 173,
+   "ADJ": 3,
+   "DIFF": 0,
+   "UNSURE": 3,
+   "same_scene_share_of_all": 0.983,
+   "same_scene_share_of_decided": 1.0
+  },
+  "U4_link_5_8": {
+   "n": 100,
+   "SAME": 83,
+   "ADJ": 0,
+   "DIFF": 5,
+   "UNSURE": 12,
+   "same_scene_share_of_all": 0.83,
+   "same_scene_share_of_decided": 0.943
+  },
+  "U5_link_9_12": {
+   "n": 50,
+   "SAME": 31,
+   "ADJ": 0,
+   "DIFF": 6,
+   "UNSURE": 13,
+   "same_scene_share_of_all": 0.62,
+   "same_scene_share_of_decided": 0.838
+  },
+  "U6_test_nearest": {
+   "n": 31,
+   "SAME": 28,
+   "ADJ": 1,
+   "DIFF": 0,
+   "UNSURE": 2,
+   "same_scene_share_of_all": 0.935,
+   "same_scene_share_of_decided": 1.0
+  }
+ },
+ "controls": {
+  "positive_correct": 30,
+  "positive_n": 30,
+  "negative_false_same_scene": 1,
+  "negative_n": 30,
+  "pass": true
+ },
+ "U6": {
+  "test_images": 31,
+  "same_scene_test_ids": [
+   "test_00002",
+   "test_00005",
+   "test_00008",
+   "test_00009",
+   "test_00014",
+   "test_00015",
+   "test_00016",
+   "test_00020",
+   "test_00021",
+   "test_00023",
+   "test_00024",
+   "test_00025",
+   "test_00027",
+   "test_00029",
+   "test_00030",
+   "test_00033",
+   "test_00034",
+   "test_00035",
+   "test_00036",
+   "test_00037",
+   "test_00038",
+   "test_00040",
+   "test_00041",
+   "test_00042",
+   "test_00043",
+   "test_00044",
+   "test_00048",
+   "test_00066",
+   "test_00067"
+  ],
+  "unsure_test_ids": [
+   "test_00039",
+   "test_00047"
+  ],
+  "by_distance": {
+   "5-8:SAME": 8,
+   "9-12:ADJ": 1,
+   "9-12:SAME": 9,
+   "9-12:UNSURE": 1,
+   "le4:SAME": 11,
+   "le4:UNSURE": 1
+  }
+ },
+ "groups": {
+  "U1_content_group": {
+   "n": 47,
+   "split_needed": 35,
+   "single_component": 6,
+   "blocks_total": 109,
+   "reps_total": 143
+  },
+  "U2_tiled_parent": {
+   "n": 13,
+   "split_needed": 13,
+   "single_component": 0,
+   "blocks_total": 29,
+   "reps_total": 35
+  }
+ },
+ "groups_flagged_over_grouping": [
+  "G05",
+  "G16",
+  "G25",
+  "G27",
+  "G28",
+  "G41",
+  "G50",
+  "G54",
+  "G59"
+ ]
+}

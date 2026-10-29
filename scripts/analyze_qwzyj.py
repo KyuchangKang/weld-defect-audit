@@ -8,7 +8,8 @@ from pathlib import Path
 from PIL import Image
 import numpy as np
 
-BASE = Path(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2\04_experiments\data")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"C:\Sync_cloud\Dropbox\군산대-랩-공동작업장\Papers\paper_wedling2") / "04_experiments" / "data"
 NAMES = ['crack', 'porosity', 'spatter']
 SPLITS = ["train", "valid", "test"]
 random.seed(7)

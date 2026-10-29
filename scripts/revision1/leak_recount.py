@@ -2,6 +2,8 @@
 import re, sys
 from collections import defaultdict
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+import weldpaths  # noqa: E402,F401  -- reads --root/--runs before sys.argv is reset below
 sys.argv=['x']
 exec(open(r'scripts/revision1/grouping_sensitivity.py',encoding='utf-8').read().split('files = []')[0])
 files=[]

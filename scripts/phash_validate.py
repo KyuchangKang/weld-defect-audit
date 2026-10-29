@@ -17,7 +17,8 @@ import numpy as np
 from PIL import Image
 import imagehash
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 SRC = BASE / "04_experiments" / "data" / "final0"
 MANIFEST = BASE / "04_experiments" / "data" / "final0_clean" / "manifest.csv"
 OUT = BASE / "05_results" / "upgrade" / "phash_validation.json"

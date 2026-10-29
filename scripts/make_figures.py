@@ -15,7 +15,8 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import FancyArrowPatch, FancyBboxPatch
 from PIL import Image
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 FIG = BASE / "06_manuscript" / "figures"
 PRED = BASE / "05_results" / "test_eval" / "pred_vis_s42"
 

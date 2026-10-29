@@ -11,7 +11,10 @@ from pathlib import Path
 
 import yaml
 
-RUNS = Path(r"D:\runs\weld2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+RUNS = runs_dir(r"D:\runs\weld2")
 OUT = Path(__file__).resolve().parent.parent / "results" / "T5"
 KEYS = ["model", "data", "epochs", "batch", "imgsz", "lr0", "seed", "workers", "cache", "patience",
         "optimizer", "momentum", "weight_decay", "warmup_epochs", "close_mosaic", "mosaic", "mixup",

@@ -7,8 +7,11 @@ from PIL import Image
 import imagehash
 
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
-PRIOR = Path(r'D:\Sync\Dropbox\paper_wedling2\04_experiments\data\prior_gts\The Welding Defect Dataset')
-FINAL0 = Path(r'D:\Sync\Dropbox\paper_wedling2\04_experiments\data\final0')
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+PRIOR = project_dir(r"D:\Sync\Dropbox\paper_wedling2") / "04_experiments" / "data" / "prior_gts" / "The Welding Defect Dataset"
+FINAL0 = project_dir(r"D:\Sync\Dropbox\paper_wedling2") / "04_experiments" / "data" / "final0"
 EXT = {'.jpg', '.jpeg', '.png', '.bmp', '.webp'}
 
 def collect(root):

@@ -1,0 +1,60 @@
+{"id":"G01","j":"A","n":"single d<=8 component (chain-connected); sheet cannot show a split"}
+{"id":"G02","j":"A/BCD/E/F","n":"A, E, F are collages that each contain a fragment of the BCD photo"}
+{"id":"G03","j":"A/B","n":"pipe bead vs pipe with crack: different photos"}
+{"id":"G04","j":"AC/B","n":"B is a collage containing a fragment of the AC joint"}
+{"id":"G05","j":"ACD/BE","n":"over-grouping: porosity-bead photo and wood/plate photo share one content id"}
+{"id":"G06","j":"AB","n":"rotation"}
+{"id":"G07","j":"A/BCD","n":"A collage contains a fragment of BCD"}
+{"id":"G08","j":"AB/C/D/E","n":"C, D, E are collages reusing the AB T-joint fragments"}
+{"id":"G09","j":"A/BC","n":"BC rotation + grayscale; A a different porosity photo"}
+{"id":"G10","j":"A/B/C","n":"A vs B possibly same bead (rot + grayscale) - uncertain; C wood/plate scene"}
+{"id":"G11","j":"ABD/C","n":"C collage contains fragment of ABD"}
+{"id":"G12","j":"A","n":"single component"}
+{"id":"G13","j":"A/B/C","n":"three distinct collages; share no obvious fragment"}
+{"id":"G14","j":"AC/B/D","n":"A and C same photo (rotation); B, D collages containing fragment of AC"}
+{"id":"G15","j":"A/B/C","n":"A photo; B, C collages, C contains fragment of A"}
+{"id":"G16","j":"A/BC","n":"over-grouping: parallel-bead plate vs stub plate; BC grayscale/colour"}
+{"id":"G17","j":"BCD/A","n":"A collage contains fragment of BCD"}
+{"id":"G18","j":"AD/B/C","n":"AD same T-joint (rot + grayscale); B, C collages containing a fragment"}
+{"id":"G19","j":"AC/B/D","n":"AC same porous T-joint (rotation); B, D collages containing fragment"}
+{"id":"G20","j":"AB","n":"same cracked pipe end (rotation)"}
+{"id":"G21","j":"AB/C","n":"AB mirror; C collage"}
+{"id":"G22","j":"A/B/C","n":"A grayscale photo; B, C collages containing the same copper-bead fragment"}
+{"id":"G23","j":"AB","n":"same captioned image (rot180)"}
+{"id":"G24","j":"AE/B/C/D","n":"AE same photo (mirror); B, C, D collages containing fragment of AE"}
+{"id":"G25","j":"A/B","n":"over-grouping: rusty plate crack vs aluminium frame crack"}
+{"id":"G26","j":"AD/B/C/E","n":"AD same porous bead (rotation); B, C, E collages, E contains fragment of AD"}
+{"id":"G27","j":"A/B","n":"over-grouping?: stub plate on wood vs teal plate on wood; different photos, possibly same plate series"}
+{"id":"G28","j":"A/B/C","n":"A photo; B collage containing fragment of A; C grayscale crack - unrelated (over-grouping)"}
+{"id":"G29","j":"AC/B/D/E","n":"AC same captioned image (rotation); B, D, E collages, E contains fragment"}
+{"id":"G30","j":"A/B/C/D","n":"C photo; A, B, D collages each containing a fragment of C"}
+{"id":"G31","j":"A","n":"single component"}
+{"id":"G32","j":"A","n":"single component"}
+{"id":"G33","j":"AB/C","n":"AB same stub plate (rot180 or adjacent crop); C parallel-bead plate - different photo"}
+{"id":"G34","j":"A/B/C","n":"three different regions of one plate; consistent with tiles of one photo, not confirmable"}
+{"id":"G35","j":"A/B","n":"two different regions of one stub plate; consistent with tiles, not confirmable"}
+{"id":"G36","j":"ABC","n":"same block (rotations)"}
+{"id":"G37","j":"A","n":"single component"}
+{"id":"G38","j":"A/B/C","n":"three different collages sharing fragments"}
+{"id":"G39","j":"BC/A/D","n":"BC same T-section (rotation); A, D collages containing fragment"}
+{"id":"G40","j":"AB/C","n":"AB same stock photo (mirror); C collage containing fragment of AB"}
+{"id":"G41","j":"AC/B","n":"AC same porosity line (rotation); B micrograph crack - unrelated (over-grouping)"}
+{"id":"G42","j":"A/B","n":"two collages sharing a fragment"}
+{"id":"G43","j":"A/B","n":"two collages sharing the alamy plate fragment"}
+{"id":"G44","j":"A","n":"single component"}
+{"id":"G45","j":"A/B/C","n":"three regions of one stub plate; consistent with tiles, not confirmable"}
+{"id":"G46","j":"AD/B/C/E","n":"AD same porous bead (rot + crop); B, C, E collages containing fragments"}
+{"id":"G47","j":"A/B","n":"porous beads vs plate edge on wood: different regions, possibly tiles"}
+{"id":"G48","j":"AC/B","n":"AC same blue bead with pore (rotation); B collage containing fragment"}
+{"id":"G49","j":"BC/A","n":"BC same grayscale porous bead (mirror); A collage"}
+{"id":"G50","j":"A/B","n":"over-grouping: porous bead pair vs grayscale crack micrograph"}
+{"id":"G51","j":"A/B","n":"parallel beads vs stub ends: different regions, possibly tiles of one plate"}
+{"id":"G52","j":"AB","n":"same zigzag crack (colour vs grayscale)"}
+{"id":"G53","j":"A/B","n":"B collage containing fragment of A"}
+{"id":"G54","j":"A/B/C","n":"B collage containing fragment of A; C grayscale crack micrograph - unrelated (over-grouping)"}
+{"id":"G55","j":"A/B","n":"porous beads vs plate edge on wood: different regions, possibly tiles"}
+{"id":"G56","j":"ABC","n":"same bead with pore (rotations)"}
+{"id":"G57","j":"AC/B/D","n":"AC same porous T-joint (rotation); B, D collages containing fragment"}
+{"id":"G58","j":"ACD/B/E/F","n":"ACD same porosity line (rotations); B, E, F collages containing fragments"}
+{"id":"G59","j":"A/B","n":"over-grouping: plate bead crack vs aluminium casting crack"}
+{"id":"G60","j":"A/B","n":"stub ends from two directions; different regions, possibly tiles"}

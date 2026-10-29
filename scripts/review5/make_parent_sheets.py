@@ -3,8 +3,11 @@
 import os, re, json, math, collections
 from PIL import Image, ImageDraw
 
-RAW_UN = r'D:\runs\weld2\review4\test_unseen\images'
-RAW_SE = r'D:\runs\weld2\review4\test_seen\images'
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+RAW_UN = str(runs_dir(r"D:\runs\weld2") / "review4" / "test_unseen" / "images")
+RAW_SE = str(runs_dir(r"D:\runs\weld2") / "review4" / "test_seen" / "images")
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUTD = os.path.join(HERE, 'parent_sheets'); os.makedirs(OUTD, exist_ok=True)
 

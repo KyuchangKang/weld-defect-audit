@@ -1,0 +1,284 @@
+{
+ "n_pairs": 60,
+ "examples_excluded": [
+  "A06",
+  "A08",
+  "A23",
+  "A25",
+  "A26",
+  "A28",
+  "A29",
+  "A30",
+  "A40",
+  "A47",
+  "A51",
+  "A57"
+ ],
+ "primary_48": {
+  "n": 48,
+  "author_counts": {
+   "SAME": 29,
+   "ADJ": 12,
+   "UNSURE": 3,
+   "DIFF": 4
+  },
+  "claude_counts": {
+   "SAME": 29,
+   "UNSURE": 15,
+   "DIFF": 4
+  },
+  "agree_4cat": "32/48",
+  "agree_3cat": "36/48",
+  "kappa_3cat_scene_diff_unsure": 0.454,
+  "binary_n_both_decided": 33,
+  "binary_agree": "33/33",
+  "kappa_binary_scene_vs_diff": 1.0,
+  "unsure_either": 15,
+  "confusion_3cat": {
+   "D->D": 4,
+   "S->S": 29,
+   "S->U": 12,
+   "U->U": 3
+  }
+ },
+ "all_60": {
+  "n": 60,
+  "author_counts": {
+   "SAME": 32,
+   "ADJ": 14,
+   "UNSURE": 8,
+   "DIFF": 6
+  },
+  "claude_counts": {
+   "SAME": 32,
+   "UNSURE": 20,
+   "ADJ": 2,
+   "DIFF": 6
+  },
+  "agree_4cat": "44/60",
+  "agree_3cat": "48/60",
+  "kappa_3cat_scene_diff_unsure": 0.609,
+  "binary_n_both_decided": 40,
+  "binary_agree": "40/40",
+  "kappa_binary_scene_vs_diff": 1.0,
+  "unsure_either": 20,
+  "confusion_3cat": {
+   "D->D": 6,
+   "S->S": 34,
+   "S->U": 12,
+   "U->U": 8
+  }
+ },
+ "disagreements_3cat": [
+  {
+   "id": "A02",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 고정구 기준 정렬(오른쪽 반시계 90°)해도 비드 끝단·반점·변색 불일치; 공통 고유 흔적 없음"
+  },
+  {
+   "id": "A04",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 오른쪽 시계 90°+좌우반전 시 변색 배치는 비슷하나 이음부 높이·하단 끝단 불일치; ADJ 가능; 경계 사례"
+  },
+  {
+   "id": "A05",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U5_link_9_12",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 같은 방향·좌우반전 모두 비드 상단·반점 불일치; 고유 흔적 미확인"
+  },
+  {
+   "id": "A07",
+   "author": "SAME",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 오른쪽 시계 90° 시 비드 중앙 크레이터 위치는 비슷하나 형태·끝단 다름; ADJ 가능; 경계 사례"
+  },
+  {
+   "id": "A18",
+   "author": "SAME",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 오른쪽 시계 90° 정렬해도 비드 형상 다름; 고유 흔적 없음"
+  },
+  {
+   "id": "A37",
+   "author": "SAME",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U5_link_9_12",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 상하반전해도 이음부 위치 불일치; 공통 고유 흔적 없음"
+  },
+  {
+   "id": "A42",
+   "author": "SAME",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U5_link_9_12",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 오른쪽 시계 90° 정렬 시 이음부 구성 불일치(3구간 대 2구간)"
+  },
+  {
+   "id": "A48",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 같은 방향이나 비드 결·변색 불일치; 고유 흔적 없음"
+  },
+  {
+   "id": "A52",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U6_test_nearest",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[중] 오른쪽 시계 90° 정렬해도 비드 형상 다름"
+  },
+  {
+   "id": "A53",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U5_link_9_12",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 이음부 높이는 비슷하나 우측 스크래치·하단 끝단 불일치; ADJ 가능"
+  },
+  {
+   "id": "A55",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U5_link_9_12",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 상하반전 시 이음부 높이는 비슷하나 하단 크레이터·스크래치 불일치; ADJ 가능"
+  },
+  {
+   "id": "A59",
+   "author": "ADJ",
+   "claude_v3": "UNSURE",
+   "claude_v1": "SAME",
+   "stratum": "U4_link_5_8",
+   "example": false,
+   "author_note": "",
+   "claude_note": "[하] 같은 방향이나 기공 위치·흰 띠 폭 불일치"
+  }
+ ],
+ "claude_v1_vs_v3_3cat": {
+  "S->S": 34,
+  "S->U": 16,
+  "D->D": 5,
+  "U->U": 4,
+  "U->D": 1
+ },
+ "author_vs_claude_v1_primary": {
+  "agree_3cat": "44/48",
+  "kappa_3cat": 0.604,
+  "kappa_binary": 1.0
+ },
+ "by_stratum_primary": {
+  "C_neg_far": {
+   "n": 3,
+   "agree3": 3,
+   "author_U": 0,
+   "claude_U": 0
+  },
+  "C_pos_same_content": {
+   "n": 5,
+   "agree3": 5,
+   "author_U": 0,
+   "claude_U": 0
+  },
+  "U3_link_le4": {
+   "n": 13,
+   "agree3": 13,
+   "author_U": 1,
+   "claude_U": 1
+  },
+  "U4_link_5_8": {
+   "n": 13,
+   "agree3": 7,
+   "author_U": 2,
+   "claude_U": 8
+  },
+  "U5_link_9_12": {
+   "n": 6,
+   "agree3": 1,
+   "author_U": 0,
+   "claude_U": 5
+  },
+  "U6_test_nearest": {
+   "n": 8,
+   "agree3": 7,
+   "author_U": 0,
+   "claude_U": 1
+  }
+ },
+ "groups": {
+  "AG1": {
+   "author": "ABD/C/E",
+   "claude_v3": "AB/C/D/E",
+   "exact": false,
+   "pair_links_agree": "8/10",
+   "author_note": ""
+  },
+  "AG2": {
+   "author": "AC/B",
+   "claude_v3": "AC/B",
+   "exact": true,
+   "pair_links_agree": "3/3",
+   "author_note": ""
+  },
+  "AG3": {
+   "author": "AC/B",
+   "claude_v3": "AC/B",
+   "exact": true,
+   "pair_links_agree": "3/3",
+   "author_note": ""
+  },
+  "AG4": {
+   "author": "A/B",
+   "claude_v3": "A/B",
+   "exact": true,
+   "pair_links_agree": "1/1",
+   "author_note": ""
+  },
+  "AG5": {
+   "author": "A/B/C",
+   "claude_v3": "A/B/C",
+   "exact": true,
+   "pair_links_agree": "3/3",
+   "author_note": ""
+  }
+ },
+ "typos_normalised": [
+  "판독표_저자.csv:A51 UNSRUE->UNSURE"
+ ]
+}

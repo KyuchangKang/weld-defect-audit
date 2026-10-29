@@ -27,7 +27,8 @@ import sys
 import zipfile
 from collections import Counter
 
-BASE = r'D:\Sync\Dropbox\paper_wedling2'
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = str(project_dir(r"D:\Sync\Dropbox\paper_wedling2"))
 ARCHIVE = os.path.join(BASE, '04_experiments', 'data',
                        'welding defect final0.v1i.yolov8.zip')
 OUTDIR = os.path.join(BASE, '07_submission', 'github_release', 'manifest')

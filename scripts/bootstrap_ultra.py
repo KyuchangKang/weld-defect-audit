@@ -16,12 +16,13 @@ from pathlib import Path
 
 import numpy as np
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 TEST = BASE / "04_experiments" / "data" / "final0_clean" / "test"
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
 ORIG_LBL = BASE / "04_experiments" / "data" / "label_fixes_20260813" / "labels_orig"
 IMPACT = BASE / "05_results" / "upgrade" / "phash_impact.json"
-WORK = Path(r"D:\runs\weld2\upgrade") / "boot"
+WORK = runs_dir(r"D:\runs\weld2") / "upgrade" / "boot"
 OUT = BASE / "05_results" / "upgrade" / "test_uncertainty.json"
 RUNS = {"E2_v5n": 42, "E3_v5n_s43": 43, "E3_v5n_s44": 44}
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
@@ -60,7 +61,7 @@ def three_seed_mean(per_run):
 
 def main():
     from ultralytics import YOLO
-    models = {rid: YOLO(str(Path(r"D:\runs\weld2") / rid / "weights" / "best.pt"))
+    models = {rid: YOLO(str(runs_dir(r"D:\runs\weld2") / rid / "weights" / "best.pt"))
               for rid in RUNS}
     imgs = sorted((TEST / "images").glob("*.jpg"))
     n = len(imgs)

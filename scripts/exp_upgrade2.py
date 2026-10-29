@@ -14,12 +14,13 @@ import statistics
 from collections import defaultdict
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 DATA = BASE / "04_experiments" / "data"
 CLEAN = DATA / "final0_clean"
 CLEAN_YAML = CLEAN / "data.yaml"
 RAW_YAML = DATA / "final0" / "data.yaml"
-LOCAL = Path(r"D:\runs\weld2\upgrade2")
+LOCAL = runs_dir(r"D:\runs\weld2") / "upgrade2"
 OUT = BASE / "05_results" / "upgrade" / "upgrade2_results.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 # workers 8→4 (2026-08-14): pinned host memory 고갈로 크래시 2회 — RAM 16GB 제약 강화 대응

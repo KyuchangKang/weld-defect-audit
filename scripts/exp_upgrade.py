@@ -17,12 +17,13 @@ import shutil
 from collections import Counter, defaultdict
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 DATA = BASE / "04_experiments" / "data"
 SRC = DATA / "final0"
 CLEAN_YAML = DATA / "final0_clean" / "data.yaml"
 RAW_YAML = SRC / "data.yaml"
-LOCAL = Path(r"D:\runs\weld2\upgrade")
+LOCAL = runs_dir(r"D:\runs\weld2") / "upgrade"
 OUT_DIR = BASE / "05_results" / "upgrade"
 OUT = OUT_DIR / "upgrade_results.json"
 
@@ -185,7 +186,7 @@ def main():
 
     # ---- R2: 조건 (d) ----
     if "R2_condition_d" not in results:
-        w = Path(r"D:\runs\weld2\E2_v5n\weights\best.pt")
+        w = runs_dir(r"D:\runs\weld2") / "E2_v5n" / "weights" / "best.pt"
         results["R2_condition_d"] = {
             "desc": "clean-trained v5nu (seed42) on RAW leaky test",
             **evaluate(w, RAW_YAML, "R2 (d) clean->raw")}

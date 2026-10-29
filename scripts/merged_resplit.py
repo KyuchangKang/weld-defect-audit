@@ -14,11 +14,12 @@ from pathlib import Path
 
 import numpy as np
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 SRC = BASE / "04_experiments" / "data" / "final0"
-HASH_NPY = Path(r"D:\runs\weld2\upgrade") / "phash_dihedral.npy"
-NAMES_JSON = Path(r"D:\runs\weld2\upgrade") / "phash_files.json"
-LOCAL = Path(r"D:\runs\weld2\upgrade2")
+HASH_NPY = runs_dir(r"D:\runs\weld2") / "upgrade" / "phash_dihedral.npy"
+NAMES_JSON = runs_dir(r"D:\runs\weld2") / "upgrade" / "phash_files.json"
+LOCAL = runs_dir(r"D:\runs\weld2") / "upgrade2"
 OUT = BASE / "05_results" / "upgrade" / "merged_resplit.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 SPLITS = ["train", "valid", "test"]

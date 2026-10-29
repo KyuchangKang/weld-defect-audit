@@ -15,12 +15,13 @@ import shutil
 import statistics
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 DATA = BASE / "04_experiments" / "data"
 RAW = DATA / "final0"
 CLEAN = DATA / "final0_clean"
-LOCAL = Path(r"D:\runs\weld2\review4")
-RUNS = Path(r"D:\runs\weld2")
+LOCAL = runs_dir(r"D:\runs\weld2") / "review4"
+RUNS = runs_dir(r"D:\runs\weld2")
 OUT = BASE / "05_results" / "upgrade" / "review4_reanalysis.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 CLEAN_SEEDS = {"E2_v5n": 42, "E3_v5n_s43": 43, "E3_v5n_s44": 44}

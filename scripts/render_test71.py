@@ -13,7 +13,8 @@ from pathlib import Path
 import cv2
 import numpy as np
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2\04_experiments")
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2") / "04_experiments"
 IMG_DIR = BASE / "data" / "final0_clean" / "test" / "images"
 LBL_DIR = BASE / "data" / "final0_clean" / "test" / "labels"
 OUT_IND = BASE / "audit_samples" / "test71"

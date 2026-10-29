@@ -1,0 +1,416 @@
+{"id":"P0001","j":"SAME","n":"rot90, scratch & fixture consistent"}
+{"id":"P0002","j":"SAME","n":"rot90, crater end"}
+{"id":"P0003","j":"SAME","n":"rot90"}
+{"id":"P0004","j":"SAME","n":"near identical"}
+{"id":"P0005","j":"SAME","n":"rot90"}
+{"id":"P0006","j":"SAME","n":"hflip, gap line"}
+{"id":"P0007","j":"SAME","n":"rot90, hole mid-bead"}
+{"id":"P0008","j":"SAME","n":"grayscale + rot90, two spots + wood"}
+{"id":"P0009","j":"SAME","n":"rot180, blue band"}
+{"id":"P0010","j":"SAME","n":"rot90 + crop, crack + hole"}
+{"id":"P0011","j":"SAME","n":"rot90"}
+{"id":"P0012","j":"SAME","n":"near identical, crack + mark"}
+{"id":"P0013","j":"SAME","n":"rot90"}
+{"id":"P0014","j":"SAME","n":"vflip, scratch"}
+{"id":"P0015","j":"SAME","n":"vflip, chalk 1"}
+{"id":"P0016","j":"SAME","n":"rot90, gap line + chalk bracket"}
+{"id":"P0017","j":"UNSURE","n":"pipe series; left lacks blue band seen in right"}
+{"id":"P0018","j":"SAME","n":"near identical"}
+{"id":"P0019","j":"SAME","n":"rot90, segment seams"}
+{"id":"P0020","j":"SAME","n":"rot90, crater"}
+{"id":"P0021","j":"SAME","n":"rot90"}
+{"id":"P0022","j":"SAME","n":"collage rot180"}
+{"id":"P0023","j":"SAME","n":"rot90"}
+{"id":"P0024","j":"SAME","n":"rot90, crater"}
+{"id":"P0025","j":"SAME","n":"rot180"}
+{"id":"P0026","j":"SAME","n":"rot90, stubs + wood"}
+{"id":"P0027","j":"SAME","n":"rot90"}
+{"id":"P0028","j":"SAME","n":"rot90, pipe series"}
+{"id":"P0029","j":"SAME","n":"rot90, pipe series"}
+{"id":"P0030","j":"SAME","n":"rot90"}
+{"id":"P0031","j":"SAME","n":"rot180"}
+{"id":"P0032","j":"SAME","n":"rot90"}
+{"id":"P0033","j":"ADJ","n":"same gap & chalk, different crop/lighting (bottom-left chalk absent)"}
+{"id":"P0034","j":"SAME","n":"near identical"}
+{"id":"P0035","j":"SAME","n":"hflip"}
+{"id":"P0036","j":"DIFF","n":"blob plate vs cracked bead"}
+{"id":"P0037","j":"SAME","n":"rot90"}
+{"id":"P0038","j":"SAME","n":"rot180"}
+{"id":"P0039","j":"SAME","n":"rot90"}
+{"id":"P0040","j":"SAME","n":"brightness only"}
+{"id":"P0041","j":"SAME","n":"rot90, end segment"}
+{"id":"P0042","j":"SAME","n":"rot180 grayscale"}
+{"id":"P0043","j":"SAME","n":"vflip, spatter + reflection"}
+{"id":"P0044","j":"SAME","n":"hflip, gap"}
+{"id":"P0045","j":"SAME","n":"near identical"}
+{"id":"P0046","j":"SAME","n":"rot90"}
+{"id":"P0047","j":"SAME","n":"rot180"}
+{"id":"P0048","j":"UNSURE","n":"pipe series; left shows segment seams, right uniform"}
+{"id":"P0049","j":"SAME","n":"rot90"}
+{"id":"P0050","j":"SAME","n":"rot90 + colour shift, orange frame crack"}
+{"id":"P0051","j":"UNSURE","n":"pipe series; seam positions ambiguous"}
+{"id":"P0052","j":"SAME","n":"rot90"}
+{"id":"P0053","j":"SAME","n":"near identical"}
+{"id":"P0054","j":"SAME","n":"near identical"}
+{"id":"P0055","j":"SAME","n":"rot180"}
+{"id":"P0056","j":"SAME","n":"colour shift"}
+{"id":"P0057","j":"SAME","n":"rot90"}
+{"id":"P0058","j":"SAME","n":"dihedral, gap + chalk"}
+{"id":"P0059","j":"SAME","n":"rot180"}
+{"id":"P0060","j":"SAME","n":"rot90, seam"}
+{"id":"P0061","j":"SAME","n":"rot180"}
+{"id":"P0062","j":"SAME","n":"rot180"}
+{"id":"P0063","j":"SAME","n":"mirror"}
+{"id":"P0064","j":"SAME","n":"rot180 + colour"}
+{"id":"P0065","j":"SAME","n":"brightness shift, same marks"}
+{"id":"P0066","j":"UNSURE","n":"pipe series; crater visible only in left"}
+{"id":"P0067","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0068","j":"SAME","n":"rot180"}
+{"id":"P0069","j":"SAME","n":"rot90, 3 segments"}
+{"id":"P0070","j":"SAME","n":"near identical"}
+{"id":"P0071","j":"UNSURE","n":"pipe series; tint pattern differs"}
+{"id":"P0072","j":"SAME","n":"rot90, gold segment"}
+{"id":"P0073","j":"SAME","n":"vflip"}
+{"id":"P0074","j":"UNSURE","n":"pipe series; seam only in right"}
+{"id":"P0075","j":"SAME","n":"rot90, 3 segments"}
+{"id":"P0076","j":"SAME","n":"rot90, seam blob"}
+{"id":"P0077","j":"SAME","n":"near identical"}
+{"id":"P0078","j":"UNSURE","n":"pipe series; tint/scratch differ"}
+{"id":"P0079","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0080","j":"DIFF","n":"plate porosity lines vs rusty collage"}
+{"id":"P0081","j":"SAME","n":"near identical"}
+{"id":"P0082","j":"SAME","n":"rot180"}
+{"id":"P0083","j":"SAME","n":"rot90"}
+{"id":"P0084","j":"UNSURE","n":"plate series; marking scheme similar, brackets differ"}
+{"id":"P0085","j":"DIFF","n":"stock porosity bead vs plate"}
+{"id":"P0086","j":"SAME","n":"near identical"}
+{"id":"P0087","j":"SAME","n":"rot180"}
+{"id":"P0088","j":"SAME","n":"near identical"}
+{"id":"P0089","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0090","j":"SAME","n":"near identical, chalk"}
+{"id":"P0091","j":"SAME","n":"near identical"}
+{"id":"P0092","j":"SAME","n":"rot90, cross gaps"}
+{"id":"P0093","j":"DIFF","n":"uniform bead vs 3-segment bead"}
+{"id":"P0094","j":"SAME","n":"rot90, gap + chalk"}
+{"id":"P0095","j":"DIFF","n":"IRON grayscale vs bolts stock photo"}
+{"id":"P0096","j":"SAME","n":"hflip"}
+{"id":"P0097","j":"SAME","n":"rot180"}
+{"id":"P0098","j":"SAME","n":"rot180, dark specimen"}
+{"id":"P0099","j":"DIFF","n":"captioned stock porosity vs different silver bead"}
+{"id":"P0100","j":"SAME","n":"rot90"}
+{"id":"P0101","j":"DIFF","n":"plate bead vs dark pipe bead"}
+{"id":"P0102","j":"SAME","n":"rot180"}
+{"id":"P0103","j":"SAME","n":"near identical"}
+{"id":"P0104","j":"SAME","n":"rot180"}
+{"id":"P0105","j":"SAME","n":"rotation"}
+{"id":"P0106","j":"SAME","n":"hflip"}
+{"id":"P0107","j":"SAME","n":"near identical, brackets"}
+{"id":"P0108","j":"SAME","n":"hflip"}
+{"id":"P0109","j":"SAME","n":"near identical"}
+{"id":"P0110","j":"ADJ","n":"dark pipe, same bead, different camera position"}
+{"id":"P0111","j":"SAME","n":"near identical"}
+{"id":"P0112","j":"DIFF","n":"zigzag crack vs plate spots"}
+{"id":"P0113","j":"SAME","n":"near identical"}
+{"id":"P0114","j":"SAME","n":"rot90"}
+{"id":"P0115","j":"SAME","n":"near identical"}
+{"id":"P0116","j":"SAME","n":"rot180"}
+{"id":"P0117","j":"SAME","n":"rot180"}
+{"id":"P0118","j":"SAME","n":"rot90"}
+{"id":"P0119","j":"SAME","n":"rot90"}
+{"id":"P0120","j":"UNSURE","n":"stub plate: plain region vs stub region, possibly same plate"}
+{"id":"P0121","j":"SAME","n":"rot180"}
+{"id":"P0122","j":"SAME","n":"rot90, seam"}
+{"id":"P0123","j":"SAME","n":"rot90 T-joint, spatter blobs"}
+{"id":"P0124","j":"SAME","n":"rot180"}
+{"id":"P0125","j":"UNSURE","n":"captioned stock porosity vs uncaptioned; cluster shapes differ"}
+{"id":"P0126","j":"SAME","n":"near identical"}
+{"id":"P0127","j":"SAME","n":"rot180"}
+{"id":"P0128","j":"SAME","n":"near identical"}
+{"id":"P0129","j":"SAME","n":"colour shift"}
+{"id":"P0130","j":"SAME","n":"vflip, spatter"}
+{"id":"P0131","j":"SAME","n":"rot90, seam"}
+{"id":"P0132","j":"SAME","n":"near identical crack"}
+{"id":"P0133","j":"DIFF","n":"uniform bead vs segmented bead"}
+{"id":"P0134","j":"DIFF","n":"watermarked T-joint vs grey pipe porosity"}
+{"id":"P0135","j":"SAME","n":"near identical"}
+{"id":"P0136","j":"SAME","n":"hflip dark pipe"}
+{"id":"P0137","j":"SAME","n":"near identical"}
+{"id":"P0138","j":"SAME","n":"grayscale variant"}
+{"id":"P0139","j":"SAME","n":"rot90, reflection"}
+{"id":"P0140","j":"SAME","n":"rot180"}
+{"id":"P0141","j":"SAME","n":"rotation grayscale porosity"}
+{"id":"P0142","j":"SAME","n":"rot180"}
+{"id":"P0143","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0144","j":"SAME","n":"rot90 stubs, stain"}
+{"id":"P0145","j":"SAME","n":"near identical"}
+{"id":"P0146","j":"SAME","n":"rot90 rods"}
+{"id":"P0147","j":"DIFF","n":"uniform bead vs segmented bead"}
+{"id":"P0148","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0149","j":"SAME","n":"hflip dark pipe"}
+{"id":"P0150","j":"SAME","n":"near identical"}
+{"id":"P0151","j":"UNSURE","n":"grayscale stubs vs copper stubs"}
+{"id":"P0152","j":"SAME","n":"rot180"}
+{"id":"P0153","j":"SAME","n":"rot90"}
+{"id":"P0154","j":"SAME","n":"rot90 crater"}
+{"id":"P0155","j":"SAME","n":"near identical"}
+{"id":"P0156","j":"SAME","n":"rot180"}
+{"id":"P0157","j":"SAME","n":"hflip"}
+{"id":"P0158","j":"SAME","n":"near identical dark pipe"}
+{"id":"P0159","j":"DIFF","n":"uniform bead vs segmented bead"}
+{"id":"P0160","j":"SAME","n":"near identical"}
+{"id":"P0161","j":"SAME","n":"rot180"}
+{"id":"P0162","j":"UNSURE","n":"pipe series; dark start end only in left"}
+{"id":"P0163","j":"SAME","n":"rot180"}
+{"id":"P0164","j":"UNSURE","n":"pipe series; tint pattern differs"}
+{"id":"P0165","j":"SAME","n":"rot180"}
+{"id":"P0166","j":"SAME","n":"hflip"}
+{"id":"P0167","j":"SAME","n":"rot90, hole mid-bead"}
+{"id":"P0168","j":"UNSURE","n":"pipe series; seam only in right"}
+{"id":"P0169","j":"DIFF","n":"chalk plate vs pipe"}
+{"id":"P0170","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0171","j":"SAME","n":"near identical crack"}
+{"id":"P0172","j":"SAME","n":"rot180"}
+{"id":"P0173","j":"SAME","n":"rot90 + grayscale"}
+{"id":"P0174","j":"SAME","n":"rot90"}
+{"id":"P0175","j":"SAME","n":"rot180"}
+{"id":"P0176","j":"DIFF","n":"T-joint vs stub plate"}
+{"id":"P0177","j":"SAME","n":"rot90 crater dark pipe"}
+{"id":"P0178","j":"SAME","n":"rot90"}
+{"id":"P0179","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0180","j":"SAME","n":"rot180 grayscale"}
+{"id":"P0181","j":"SAME","n":"near identical"}
+{"id":"P0182","j":"SAME","n":"rot180"}
+{"id":"P0183","j":"SAME","n":"hflip"}
+{"id":"P0184","j":"SAME","n":"rot180"}
+{"id":"P0185","j":"DIFF","n":"collage vs chalk plate"}
+{"id":"P0186","j":"SAME","n":"rot90 seam"}
+{"id":"P0187","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0188","j":"SAME","n":"rot180"}
+{"id":"P0189","j":"DIFF","n":"silver stock bead vs watermarked T-joint"}
+{"id":"P0190","j":"SAME","n":"rot180"}
+{"id":"P0191","j":"SAME","n":"rot90 hole seam"}
+{"id":"P0192","j":"SAME","n":"near identical"}
+{"id":"P0193","j":"SAME","n":"rot180"}
+{"id":"P0194","j":"SAME","n":"mirror, gaps + chalk"}
+{"id":"P0195","j":"SAME","n":"rot180"}
+{"id":"P0196","j":"SAME","n":"rot90 segments"}
+{"id":"P0197","j":"SAME","n":"rot180"}
+{"id":"P0198","j":"DIFF","n":"collage vs chalk plate"}
+{"id":"P0199","j":"SAME","n":"mirror"}
+{"id":"P0200","j":"SAME","n":"rot90 seam"}
+{"id":"P0201","j":"SAME","n":"rot180"}
+{"id":"P0202","j":"SAME","n":"rot90"}
+{"id":"P0203","j":"SAME","n":"vflip, tint"}
+{"id":"P0204","j":"SAME","n":"near identical"}
+{"id":"P0205","j":"SAME","n":"vflip, scratch"}
+{"id":"P0206","j":"SAME","n":"rot180"}
+{"id":"P0207","j":"SAME","n":"rot90"}
+{"id":"P0208","j":"SAME","n":"mirror"}
+{"id":"P0209","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0210","j":"SAME","n":"rot180 segments"}
+{"id":"P0211","j":"SAME","n":"rot90 crater dark pipe"}
+{"id":"P0212","j":"DIFF","n":"chalk plate vs stock porous bead"}
+{"id":"P0213","j":"SAME","n":"near identical"}
+{"id":"P0214","j":"SAME","n":"rot180"}
+{"id":"P0215","j":"SAME","n":"rot90 segments"}
+{"id":"P0216","j":"UNSURE","n":"pipe series; seam only in right"}
+{"id":"P0217","j":"SAME","n":"rot90 seam"}
+{"id":"P0218","j":"SAME","n":"rot90 blob"}
+{"id":"P0219","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0220","j":"SAME","n":"mirror"}
+{"id":"P0221","j":"SAME","n":"rot90"}
+{"id":"P0222","j":"SAME","n":"mirror blue ring"}
+{"id":"P0223","j":"SAME","n":"rot90 seam"}
+{"id":"P0224","j":"SAME","n":"mirror segments"}
+{"id":"P0225","j":"SAME","n":"rot90 gold end"}
+{"id":"P0226","j":"SAME","n":"rot90 stubs"}
+{"id":"P0227","j":"SAME","n":"rot90"}
+{"id":"P0228","j":"SAME","n":"rot90"}
+{"id":"P0229","j":"SAME","n":"rot90 captioned"}
+{"id":"P0230","j":"SAME","n":"rot180"}
+{"id":"P0231","j":"SAME","n":"rot90 plate"}
+{"id":"P0232","j":"DIFF","n":"grayscale crack vs captioned porosity"}
+{"id":"P0233","j":"SAME","n":"rot90 crack"}
+{"id":"P0234","j":"SAME","n":"rot90 + colour stubs"}
+{"id":"P0235","j":"SAME","n":"rot180"}
+{"id":"P0236","j":"ADJ","n":"same chalk-marked plate, different region/shot"}
+{"id":"P0237","j":"UNSURE","n":"pipe series; segments only in left"}
+{"id":"P0238","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0239","j":"DIFF","n":"blue-ring plate vs chalk plate"}
+{"id":"P0240","j":"SAME","n":"rot90 crater dark pipe"}
+{"id":"P0241","j":"SAME","n":"rot90 silver crack"}
+{"id":"P0242","j":"UNSURE","n":"dark pipe; bead shape differs"}
+{"id":"P0243","j":"SAME","n":"rot180"}
+{"id":"P0244","j":"SAME","n":"rot90 gold end"}
+{"id":"P0245","j":"SAME","n":"near identical dark pipe"}
+{"id":"P0246","j":"SAME","n":"rot180 hole"}
+{"id":"P0247","j":"SAME","n":"near identical"}
+{"id":"P0248","j":"SAME","n":"near identical"}
+{"id":"P0249","j":"SAME","n":"rot90 stubs"}
+{"id":"P0250","j":"SAME","n":"rot90"}
+{"id":"P0251","j":"UNSURE","n":"pipe series; seam positions ambiguous"}
+{"id":"P0252","j":"SAME","n":"rot90 seam"}
+{"id":"P0253","j":"DIFF","n":"captioned aluminium vs zigzag crack"}
+{"id":"P0254","j":"SAME","n":"rot180"}
+{"id":"P0255","j":"DIFF","n":"collage vs captioned porosity"}
+{"id":"P0256","j":"SAME","n":"rot90 spots + wood"}
+{"id":"P0257","j":"SAME","n":"rot90 gold end"}
+{"id":"P0258","j":"SAME","n":"near identical"}
+{"id":"P0259","j":"SAME","n":"rot180"}
+{"id":"P0260","j":"DIFF","n":"plate bead vs captioned collage"}
+{"id":"P0261","j":"SAME","n":"rot90 wood plate"}
+{"id":"P0262","j":"SAME","n":"rot180 seam"}
+{"id":"P0263","j":"SAME","n":"near identical dark pipe"}
+{"id":"P0264","j":"SAME","n":"rot90 cross gaps + chalk"}
+{"id":"P0265","j":"SAME","n":"mirror"}
+{"id":"P0266","j":"SAME","n":"rot90 + flip, mirrored chalk numeral"}
+{"id":"P0267","j":"SAME","n":"rot90 segments"}
+{"id":"P0268","j":"SAME","n":"near identical"}
+{"id":"P0269","j":"SAME","n":"near identical"}
+{"id":"P0270","j":"SAME","n":"vflip scratch"}
+{"id":"P0271","j":"SAME","n":"rot180 blue bracket"}
+{"id":"P0272","j":"DIFF","n":"collage vs porosity lines"}
+{"id":"P0273","j":"UNSURE","n":"pipe series; end segment only in left"}
+{"id":"P0274","j":"SAME","n":"rot180 seam"}
+{"id":"P0275","j":"UNSURE","n":"pipe series; seam only in right"}
+{"id":"P0276","j":"SAME","n":"rot90 segments"}
+{"id":"P0277","j":"SAME","n":"hflip"}
+{"id":"P0278","j":"UNSURE","n":"pipe series; seams only in right"}
+{"id":"P0279","j":"SAME","n":"rot90 seam"}
+{"id":"P0280","j":"SAME","n":"near identical"}
+{"id":"P0281","j":"SAME","n":"rot180 segments"}
+{"id":"P0282","j":"UNSURE","n":"pipe series; dark top segment only in left"}
+{"id":"P0283","j":"SAME","n":"near identical"}
+{"id":"P0284","j":"SAME","n":"near identical dark pipe"}
+{"id":"P0285","j":"SAME","n":"hflip"}
+{"id":"P0286","j":"SAME","n":"near identical"}
+{"id":"P0287","j":"SAME","n":"near identical"}
+{"id":"P0288","j":"SAME","n":"same stock photo, watermark/colour"}
+{"id":"P0289","j":"SAME","n":"near identical hole"}
+{"id":"P0290","j":"SAME","n":"mirror + grayscale captioned"}
+{"id":"P0291","j":"SAME","n":"rot90"}
+{"id":"P0292","j":"SAME","n":"mirror"}
+{"id":"P0293","j":"SAME","n":"rot90 hole"}
+{"id":"P0294","j":"ADJ","n":"orange frame crack, different viewpoint"}
+{"id":"P0295","j":"UNSURE","n":"pipe series; tint differs"}
+{"id":"P0296","j":"SAME","n":"rot90 yellow ellipse"}
+{"id":"P0297","j":"SAME","n":"rot90"}
+{"id":"P0298","j":"SAME","n":"rot180 cross gaps + chalk"}
+{"id":"P0299","j":"SAME","n":"near identical crack"}
+{"id":"P0300","j":"SAME","n":"rot90 hole"}
+{"id":"P0301","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0302","j":"SAME","n":"near identical"}
+{"id":"P0303","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0304","j":"DIFF","n":"porous T-joint vs plate bead"}
+{"id":"P0305","j":"SAME","n":"rot90 crater dark pipe"}
+{"id":"P0306","j":"ADJ","n":"same chalk-marked plate, different region/shot"}
+{"id":"P0307","j":"SAME","n":"rot90 + colour stubs"}
+{"id":"P0308","j":"SAME","n":"rot90 scratch"}
+{"id":"P0309","j":"SAME","n":"colour shift"}
+{"id":"P0310","j":"SAME","n":"near identical"}
+{"id":"P0311","j":"SAME","n":"vflip tint"}
+{"id":"P0312","j":"SAME","n":"near identical"}
+{"id":"P0313","j":"SAME","n":"rot90"}
+{"id":"P0314","j":"SAME","n":"rot90"}
+{"id":"P0315","j":"DIFF","n":"dark pipe vs orange frame"}
+{"id":"P0316","j":"SAME","n":"near identical chalk"}
+{"id":"P0317","j":"SAME","n":"rot180"}
+{"id":"P0318","j":"SAME","n":"mirror"}
+{"id":"P0319","j":"SAME","n":"colour shift"}
+{"id":"P0320","j":"SAME","n":"rot180 seam"}
+{"id":"P0321","j":"SAME","n":"rot180"}
+{"id":"P0322","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0323","j":"SAME","n":"near identical"}
+{"id":"P0324","j":"SAME","n":"rot90 scratch"}
+{"id":"P0325","j":"SAME","n":"rot90"}
+{"id":"P0326","j":"UNSURE","n":"pipe series; seam only in left"}
+{"id":"P0327","j":"SAME","n":"rot90"}
+{"id":"P0328","j":"SAME","n":"rot90 chalk"}
+{"id":"P0329","j":"SAME","n":"rot180"}
+{"id":"P0330","j":"SAME","n":"rot90"}
+{"id":"P0331","j":"DIFF","n":"plate bead vs concrete-like crack"}
+{"id":"P0332","j":"DIFF","n":"aluminium bead vs stub plate"}
+{"id":"P0333","j":"SAME","n":"rot180"}
+{"id":"P0334","j":"SAME","n":"mirror dark pipe"}
+{"id":"P0335","j":"SAME","n":"rot90 cross gaps"}
+{"id":"P0336","j":"SAME","n":"rot180"}
+{"id":"P0337","j":"SAME","n":"rot90 rusty pipe crack"}
+{"id":"P0338","j":"SAME","n":"rot180 seam"}
+{"id":"P0339","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0340","j":"DIFF","n":"IRON stock vs stub plate"}
+{"id":"P0341","j":"UNSURE","n":"captioned stock porosity vs uncaptioned; cluster shapes differ"}
+{"id":"P0342","j":"SAME","n":"rot90 seam"}
+{"id":"P0343","j":"SAME","n":"rot90 cross gaps"}
+{"id":"P0344","j":"SAME","n":"rot180"}
+{"id":"P0345","j":"SAME","n":"rot180"}
+{"id":"P0346","j":"SAME","n":"near identical"}
+{"id":"P0347","j":"SAME","n":"near identical"}
+{"id":"P0348","j":"SAME","n":"rot90 crater dark pipe"}
+{"id":"P0349","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0350","j":"SAME","n":"rot90 hole"}
+{"id":"P0351","j":"SAME","n":"vflip spatter"}
+{"id":"P0352","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0353","j":"SAME","n":"rot180 crater dark pipe"}
+{"id":"P0354","j":"DIFF","n":"purple porous bead vs silver bead"}
+{"id":"P0355","j":"SAME","n":"grayscale vs colour stubs"}
+{"id":"P0356","j":"SAME","n":"rot180 seam"}
+{"id":"P0357","j":"DIFF","n":"two different collages"}
+{"id":"P0358","j":"SAME","n":"rot90 gold end"}
+{"id":"P0359","j":"SAME","n":"hflip"}
+{"id":"P0360","j":"SAME","n":"rot180 seam"}
+{"id":"P0361","j":"SAME","n":"vflip crater dark pipe"}
+{"id":"P0362","j":"SAME","n":"near identical"}
+{"id":"P0363","j":"SAME","n":"near identical"}
+{"id":"P0364","j":"SAME","n":"mirror"}
+{"id":"P0365","j":"SAME","n":"near identical"}
+{"id":"P0366","j":"SAME","n":"rot180"}
+{"id":"P0367","j":"SAME","n":"near identical"}
+{"id":"P0368","j":"SAME","n":"rot180"}
+{"id":"P0369","j":"SAME","n":"rot180 porosity lines"}
+{"id":"P0370","j":"DIFF","n":"pipe vs chalk plate"}
+{"id":"P0371","j":"SAME","n":"rot90 seam"}
+{"id":"P0372","j":"UNSURE","n":"pipe series; end segment only in left"}
+{"id":"P0373","j":"SAME","n":"rot180 dark pipe"}
+{"id":"P0374","j":"SAME","n":"near identical"}
+{"id":"P0375","j":"DIFF","n":"inner pipe crack vs IRON stock"}
+{"id":"P0376","j":"SAME","n":"near identical"}
+{"id":"P0377","j":"SAME","n":"rot90 hole"}
+{"id":"P0378","j":"SAME","n":"rot180 seam"}
+{"id":"P0379","j":"SAME","n":"near identical"}
+{"id":"P0380","j":"SAME","n":"collage rot180"}
+{"id":"P0381","j":"DIFF","n":"uniform bead vs segmented bead"}
+{"id":"P0382","j":"SAME","n":"rot180"}
+{"id":"P0383","j":"SAME","n":"rot180"}
+{"id":"P0384","j":"SAME","n":"rot90"}
+{"id":"P0385","j":"DIFF","n":"porosity line plate vs porous T-joint"}
+{"id":"P0386","j":"SAME","n":"rot90 scratch"}
+{"id":"P0387","j":"SAME","n":"rot180"}
+{"id":"P0388","j":"DIFF","n":"chalk plate vs grey crack pipe"}
+{"id":"P0389","j":"SAME","n":"rot90"}
+{"id":"P0390","j":"SAME","n":"rot90"}
+{"id":"P0391","j":"SAME","n":"mirror chalk"}
+{"id":"P0392","j":"SAME","n":"mirror"}
+{"id":"P0393","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0394","j":"SAME","n":"rot90"}
+{"id":"P0395","j":"SAME","n":"mirror"}
+{"id":"P0396","j":"SAME","n":"rot90 crack + stub"}
+{"id":"P0397","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0398","j":"SAME","n":"rot90 hole"}
+{"id":"P0399","j":"SAME","n":"rot180"}
+{"id":"P0400","j":"SAME","n":"rot90 cross gaps"}
+{"id":"P0401","j":"SAME","n":"near identical"}
+{"id":"P0402","j":"SAME","n":"rot180"}
+{"id":"P0403","j":"SAME","n":"rot180"}
+{"id":"P0404","j":"SAME","n":"mirror dark pipe"}
+{"id":"P0405","j":"SAME","n":"near identical"}
+{"id":"P0406","j":"SAME","n":"rot90"}
+{"id":"P0407","j":"SAME","n":"rot90 hole"}
+{"id":"P0408","j":"SAME","n":"near identical"}
+{"id":"P0409","j":"SAME","n":"rot90"}
+{"id":"P0410","j":"SAME","n":"rot90"}
+{"id":"P0411","j":"SAME","n":"rot90 crack + stub"}
+{"id":"P0412","j":"SAME","n":"rot180"}
+{"id":"P0413","j":"SAME","n":"rot90"}
+{"id":"P0414","j":"SAME","n":"rot90 dark pipe"}
+{"id":"P0415","j":"SAME","n":"mirror"}
+{"id":"P0416","j":"DIFF","n":"chalk plate vs stub plate"}

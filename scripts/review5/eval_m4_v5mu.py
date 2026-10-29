@@ -14,9 +14,12 @@
 import json, statistics, os
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN_YAML = BASE / "04_experiments" / "data" / "final0_clean" / "data.yaml"
-LOCAL_RUNS = Path(r"D:\runs\weld2")
+LOCAL_RUNS = runs_dir(r"D:\runs\weld2")
 LOCAL_OUT = LOCAL_RUNS / "m4_v5mu"
 HERE = Path(os.path.dirname(os.path.abspath(__file__)))
 GATE_D = BASE / "05_results" / "test_eval" / "gate_d_results.json"

@@ -15,9 +15,10 @@ import shutil
 from collections import defaultdict
 from pathlib import Path
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 CLEAN = BASE / "04_experiments" / "data" / "final0_clean"
-LOCAL = Path(r"D:\runs\weld2\diversity")
+LOCAL = runs_dir(r"D:\runs\weld2") / "diversity"
 OUT = BASE / "05_results" / "upgrade" / "diversity_control.json"
 NAMES = ["Geometric defect", "Non-fusion defect", "crack", "porosity", "spatters"]
 EPOCHS = 720          # 495 x 720 = 356,400 ~= 3,567 x 100

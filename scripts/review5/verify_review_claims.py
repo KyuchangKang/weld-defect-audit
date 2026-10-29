@@ -3,10 +3,13 @@
    학습 없음 — 기존 산출물과 원 배포본만 사용. 결과는 evidence/claims.json 에 저장."""
 import csv, re, os, json, collections
 
-ROOT = r'D:\Sync\Dropbox\paper_wedling2'
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+ROOT = str(project_dir(r"D:\Sync\Dropbox\paper_wedling2"))
 RAW  = os.path.join(ROOT, r'04_experiments\data\final0')
 MAN  = os.path.join(ROOT, r'04_experiments\data\final0_clean\manifest.csv')
-BIS  = r'D:\runs\weld2\review4'
+BIS  = str(runs_dir(r"D:\runs\weld2") / "review4")
 OODJ = os.path.join(ROOT, r'05_results\upgrade\ood_reanalysis.json')
 NAMES = ['Geometric defect', 'Non-fusion defect', 'crack', 'porosity', 'spatters']
 out = {}

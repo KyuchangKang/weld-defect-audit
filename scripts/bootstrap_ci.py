@@ -15,7 +15,8 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-BASE = Path(r"D:\Sync\Dropbox\paper_wedling2")
+from weldpaths import project_dir, runs_dir  # noqa: E402  (path defaults; see weldpaths.py)
+BASE = project_dir(r"D:\Sync\Dropbox\paper_wedling2")
 TEST = BASE / "04_experiments" / "data" / "final0_clean" / "test"
 ORIG_LBL = BASE / "04_experiments" / "data" / "label_fixes_20260813" / "labels_orig"
 GATE_D = BASE / "05_results" / "test_eval" / "gate_d_results.json"
@@ -132,7 +133,7 @@ def main():
     per_run_imgs_corr, per_run_imgs_orig = {}, {}
 
     for rid in RUNS:
-        m = YOLO(str(Path(r"D:\runs\weld2") / rid / "weights" / "best.pt"))
+        m = YOLO(str(runs_dir(r"D:\runs\weld2") / rid / "weights" / "best.pt"))
         preds = []
         for f in imgs:
             r = m.predict(str(f), imgsz=640, device=0, conf=0.001, iou=0.7,

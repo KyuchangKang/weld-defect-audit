@@ -3,7 +3,10 @@
 검색 결과 레코드 전부를 저장하고, 제목/초록에서 데이터 무결성 관련 용어 언급 여부를 선별한다."""
 import json, re, time, urllib.parse, urllib.request
 from pathlib import Path
-OUT = Path(r"D:\Sync\Dropbox\paper_wedling2\08_revision\1st_revision\work\results")
+import pathlib as _pl, sys as _sys  # noqa: E401
+_sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))  # weldpaths.py is in scripts/
+from weldpaths import project_dir  # noqa: E402  (path defaults; see weldpaths.py)
+OUT = project_dir(r"D:\Sync\Dropbox\paper_wedling2") / "08_revision" / "1st_revision" / "work" / "results"
 QUERIES = {
   "Q1": '(weld OR welding) AND defect AND (YOLO OR "object detection" OR "deep learning")',
 }
