@@ -46,16 +46,6 @@ def read_sheet(p, col=1, note_col=2):
     return out
 
 
-def read_practice(p):
-    """Column 5 of the author sheet: a separate 'Claude practice reading' (header says: not the author's reading)."""
-    out = {}
-    for r in read_rows(p)[1:]:
-        if len(r) > 4 and r[4].strip():
-            f = next(csv.reader([r[4]]))
-            out[f[0].strip()] = (f[1].strip().upper(), ",".join(f[2:]).strip())
-    return out
-
-
 def scene(j):
     return {"SAME": "S", "ADJ": "S", "DIFF": "D", "UNSURE": "U"}[j]
 
@@ -78,7 +68,6 @@ def comembership(part, letters):
 
 
 au, cl = read_sheet(T3 / "판독표_저자.csv"), read_sheet(T3 / "판독표_Claude_v3.csv")
-pr = read_practice(T3 / "판독표_저자.csv")
 key = json.load(open(T3 / "key.json", encoding="utf-8"))
 v1 = {json.loads(l)["id"]: json.loads(l)["j"] for l in open(T3 / "judge_claude.jsonl", encoding="utf-8")}
 a2p = {x["aid"]: x["pid"] for x in key["author_pairs"]}
@@ -146,20 +135,6 @@ for x in key["author_groups"]:
               "author_note": au[aid][1]}
 out["groups"] = g
 out["typos_normalised"] = typo_log
-# supplementary: the practice reading in column 5 (not the author's reading; provenance to be confirmed by the author)
-if pr:
-    sup = {}
-    for name, sel in (("primary_48", [i for i in ids if i not in EXAMPLES]), ("all_60", ids)):
-        sel = [i for i in sel if i in pr]
-        for other, src in (("author", au), ("claude_v3", cl)):
-            three = [(scene(pr[i][0]), scene(src[i][0])) for i in sel]
-            sup[f"{name}_practice_vs_{other}"] = {
-                "n": len(three), "agree_3cat": f"{sum(x == y for x, y in three)}/{len(three)}",
-                "kappa_3cat": kappa(three)[0],
-                "kappa_binary": kappa([(x, y) for x, y in three if "U" not in (x, y)])[0]}
-    sup["practice_counts_all_60"] = dict(Counter(pr[i][0] for i in ids if i in pr))
-    sup["practice_groups"] = {x["aid"]: pr.get(x["aid"], ("", ""))[0] for x in key["author_groups"]}
-    out["supplementary_practice_reading"] = sup
 json.dump(out, open(T3 / "agreement.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(json.dumps({k: out[k] for k in ("primary_48", "all_60", "author_vs_claude_v1_primary", "claude_v1_vs_v3_3cat")},
                  ensure_ascii=False, indent=1))
