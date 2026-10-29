@@ -25,6 +25,16 @@
  "photos_merge_judged_positive_only": 486,
  "photos_merge_all_links_le12": 341,
  "photos_merge_all_links_le4": 550,
+ "leakage_rule_as_specified": {
+  "photos": 667,
+  "leaking": 395,
+  "share": 0.5922
+ },
+ "leakage_merge_judged_positive_only": {
+  "photos": 486,
+  "leaking": 295,
+  "share": 0.607
+ },
  "photos_montecarlo_unsure_not": {
   "median": 370,
   "p2.5": 362,

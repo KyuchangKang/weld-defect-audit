@@ -79,6 +79,28 @@ judged_pos = [k for k, j in judged.items() if j in ("SAME", "ADJ") and k in link
 res["photos_merge_judged_positive_only"] = components(judged_pos)
 res["photos_merge_all_links_le12"] = components(list(link))
 res["photos_merge_all_links_le4"] = components([k for k, v in link.items() if v[0] <= 4])
+
+
+def leaking(edges, pids):
+    """(photographs, leaking photographs, share): a merged group leaks if its files lie in more than one split."""
+    par = {p: p for p in set(pids)}
+
+    def f(x):
+        while par[x] != x:
+            par[x] = par[par[x]]
+            x = par[x]
+        return x
+    for a, b in edges:
+        par[f(a)] = f(b)
+    sp = {}
+    for (s, _), p in zip(files, pids):
+        sp.setdefault(f(p), set()).add(s)
+    k = sum(len(v) > 1 for v in sp.values())
+    return {"photos": len(sp), "leaking": k, "share": round(k / len(sp), 4)}
+
+
+res["leakage_rule_as_specified"] = leaking([], pid_fixed)
+res["leakage_merge_judged_positive_only"] = leaking(judged_pos, pid_fixed)
 rng = random.Random(7)
 for unsure_as in ("not", "same"):
     sims = []
